@@ -48,6 +48,7 @@
 #### 8. 텍스트 설정에서는 글꼴과 크기는 자기가 선호하는 걸 고르시면 됩니다. 나머지 박스는 체크를 해제해주세요.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/텍스트%20폰트설정.png?raw=true)
 &nbsp;
+&nbsp;
 #### 9. 리모컨창 설명입니다.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/리모컨.png?raw=true)
 - ##### Search 는 번역을 할 범위를 지정합니다. 지정된 창안에 있는 글들을 지속적으로 번역합니다.
