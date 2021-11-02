@@ -20,46 +20,37 @@
 
 ### MORT 사용법
 
-#### 1. MORT 개발자 블로그에 가셔서 기본 설명서와 파일을 다운받아 주세요 
+#### 1. MORT 개발자 블로그에 가셔서 기본 [설명서](https://blog.naver.com/killkimno/221904784013)와 [파일](https://blog.naver.com/killkimno/222437338370) 을 다운받아 주세요 
 - ##### 설명서 (https://blog.naver.com/killkimno/221904784013) 
 - ##### 파일다운로드 (https://blog.naver.com/killkimno/222437338370)
 
-
 #### 2. MORT를 다운받으시고 해당 압축파일을 자기가 원하는 경로에 압축을 풀어주세요.
 
-
 #### 3. 그리고 여기 GITHUB에 제가 올리는 DB (텍스트파일) 을 다운 받아주세요
-
 
 #### 4-1. 위의 2번 단계에서 다운받은 텍스트 파일을 번역기 폴더 안에있는 DB폴더 안으로 집어 넣어주세요
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210928_003050.png?raw=true)
 
-
 #### 4-2. DB폴더 안에 이렇게 번역에 필요한 텍스트 파일들이 들어가야합니다.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210928_003059.png?raw=true)
 - ##### 프로그램 자체 기본적으로 들어가 있는 번역 DB파일들도 있으니 파일들 보고 놀라지는 마세요
-- ##### 아래 스샷을 보시면 gw2humanch1.txt 이 있는데 이게 길드워 번역 DB 파일이며 프로그램 압축후에 제가 추가한겁니다.
+- ##### 위의 스샷을 보시면 gw2humanch1.txt 이 있는데 이게 길드워 번역 DB 파일이며 프로그램 압축후에 제가 추가한겁니다.
 - ##### 이와같이 게임 진행에 따라 필요한 번역 DB파일을 추가해 나가시면 됩니다.
-
 
 #### 5. DB파일을 집어 넣고 난후 게임을 켠 후 MORT를 실행해 주세요 (게임 화면은 전체창화면이 좋다고 생각합니다)
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/실행파일.png?raw=true)
 
-
 #### 6. 처음에 "어느게임을 번역하시나요" 가 나오면서 설정을 하는데, 이는 무시하셔도 됩니다. 
 - ##### 여러 창이 나오는데 그냥 놔두시면 됩니다.
 - ##### 리모컨 창은 나중에 설명하겠습니다.
-
 
 #### 7. 주요설정이 나오는 창의 왼쪽 패널에 여러 설정이 있는데 기본 설정에서 아래처럼 설정해주세요
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/기본설정.png?raw=true)
 - ##### 주의 1. 파일이름은 스토리, 챕터, 아니면 맵에 관련된 파일 이름을 넣어주세요 (txt까지 넣어주셔야합니다)
 - ##### 주의 2. 이미지 보정의 수치는 무시하셔도 됩니다. 체크해야 할 박스만 제대로 구분해 주시면 됩니다.
 
-
 #### 8. 텍스트 설정에서는 글꼴과 크기는 자기가 선호하는 걸 고르시면 됩니다. 나머지 박스는 체크를 해제해주세요.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/텍스트%20폰트설정.png?raw=true)
-
 
 #### 9. 리모컨창 설명입니다.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/리모컨.png?raw=true)
@@ -77,10 +68,26 @@
 - ##### 그리고 NPC머리 위에 나타나는 NPC의 이름이나 말풍선내에 나오는 대사들은 실시간 번역이 힘드니, 채팅창에 설정하시는걸 권장합니다.
 - ##### 채팅창의 설정에서 NPC와의 대화가 번역이 안되었거나 놓친것을 추후에 볼 수도있습니다 (대화로그가 채팅창에 나옴).
 
+#### 10-2. 게임내 NPC의 대화만 보려면 아래처럼 설정하시면 됩니다.
+![alt text](https://github.com/deejaykoo/instructionpics/blob/main/게임내%20챗창%20설정.png?raw=true)
+- ##### 이렇게 하면 일반 챗/맵챗/시스템 알림없이 스토리에 관련된 NPC의 대화만 볼수 있게 되고 그러면 스토리에만 집중 할 수 있습니다.
+
+#### 11. Search 로 범위설정이 다 끝났으면 리모컨에 Translate를 눌러주세요
+![alt text](https://github.com/deejaykoo/instructionpics/blob/main/리모컨2.png?raw=true)
+
+#### 12-1. 그러면 아래와 비슷하게 나옵니다 (테스트 스크린샷) 
+![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210727_112244.png?raw=true)
+- ##### 9-1단계에서 말했듯이 Search로 설정한 번역 범위가 투명해지고 하늘색이였던 출력창이 어두운 반투명색이 됩니다.
+
+#### 12-2. 아래 스샷은 위에 스샷을 테스트할때 범위지정입니다 
+![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210727_112224.png?raw=true)
+- ##### 리모컨에서 stop 을 누르면 범위가 다시 생깁니다
+- ##### 주의1) 퀘스트가 위치한쪽에 저렇게 한 창에 다 우겨넣으시면 인식 실패로 번역이 안 될 수도 있으니 9-1 단계의 사진처럼 해주세요. 
+- ##### 주의2) 챗창에 나오는 NPC의 모든 대사를 보기위해서는 스크린샷에 나온것 처럼 범위를 여러개 나누어야합니다.
+- ##### 주의3) 스샷처럼 채팅창에 여러범위를 설정하시면 모든글이 번역이 되지만, 간혹 한 문장이 두개의 범위안에 동시에 들어가게되어 번역이 잘 안되는 경우도 나옵니다.
 
 
-
-다시 말씀드리는거지만 현재 제 github페이지의 설명이 완벽하지 않습니다. MORT 실시간 프로그램의 사용이나 길드워2에서 사용할 설정을 모르시면 다운받지 말아주세요. 
-지금 설명이 제일 잘 되어 있는 곳은 길드워2 까페 (https://cafe.daum.net/koreanguildwars2)가시면 제가 설명을 자세하게 해놨습니다.
+다시 말씀드리는거지만 현재 제 github페이지의 설명이 완벽하지 않습니다.
+같은 설명과 파일들은 길드워2 까페에서도 (https://cafe.daum.net/koreanguildwars2) 제가 설명을 자세하게 해놨습니다.
 
 감사합니다.
