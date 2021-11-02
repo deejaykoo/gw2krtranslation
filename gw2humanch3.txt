@@ -1,0 +1,8040 @@
+/s
+원문
+/t
+번역1
+/e
+
+/s
+Rescue the Vigil engineers
+/t
+Vigil의 공학자들을 구출하세요.
+/e
+
+/s
+Defend the Vigil siege engineers as they attack the toxic offshoot
+/t
+Vigil의 공성 공학자들이 독성분지를 공격할때 보호하세요.
+/e
+
+/s
+Escort the Vigil siegemaster to the toxic offshoot
+/t
+Vigil의 공성감독관들이 독성분지 까지 가는데 호송하세요.
+/e
+
+/s
+Use powder kegs to destroy the toxic offshoot
+/t
+화약을 이용해 독성분지를 파괴하세요.
+/e
+
+/s
+Maintain security around Almuten Mansion
+/t
+Almuten Mansion 주위의 경비를 유지하세요
+/e
+
+/s
+Investigate suspicious bushes for pirates, disarm traps around the mansion, and interrogate service staff to find the disguised pirates.
+/t
+수풀을 뒤져 해적을 찾고, 맨션 주위에 함정을 해체하고, 직원을 심문해서 위장한 해적을 찾아내세요.
+/e
+
+/s
+Support the troops stationed at Ascalon Settlement
+/t
+Ascalon Settlement에 주둔하는 부대를 지원하세요
+/e
+
+/s
+Train with the troops, honor the fallen, and find ways to raise morale.
+/t
+부대와 훈련하고, 전사한 병사에게 존경심을 표하고, 군의 사기를 올릴 방법을 찾으세요
+/e
+
+/s
+Help Bronson disrupt centaur troops
+/t
+Bronson을 도와 켄타우루스 군대를 방해하세요
+/e
+
+/s
+Sabotage the centaur camp, kill centaurs, and free the human slaves
+/t
+켄타우루스의 캠프에서 공작을 벌이고, 켄타우르스를 죽이고, 인간 노예를 풀어주세요
+/e
+
+/s
+Get back at the pirates for Joukje
+/t
+Joukje가 해적에게 복수 할 수 있게 도와주세요. 
+/e
+
+/s
+Help Joukje get back at her old pirate comrades by killing them, freeing their captives, and breaking their cannons.
+/t
+Joukje의 복수를 도와 그녀의 전 동료 해적들을 처치하고, 그들에게 잡힌 포로들을 풀어주고, 대포를 파괴하세요
+/e
+
+/s
+Help Milton Book and local farmers with their pirate and pest problems
+/t
+Miton Book과 동네 농부들을 도와 해적문제와 해충문제를 해결해주세요
+/e
+
+/s
+Motivate lazy farmers, destroy wasp nests, feed livestock, exterminate grubs, repair pipe leaks, clear spider eggs, and protect farmers from pirate ambushes.
+/t
+게으른 농부들을 다그치고, 말벌집을 파괴하고, 가축에게 먹이를 주고, 애벌래를 박멸하고, 누수가 있는 파이프를 수리하고, 거미알을 제거하고, 농부들을 해적의 습격으로부터 지켜주세요.
+/e
+
+/s
+Help Mei Shadowwalker reclaim the Wiley pirates' stolen treasure
+/t
+Mei Shadowwalker를 도와 Wiley 해적단들이 훔쳐간 보물들을 되찾으세요.
+/e
+
+/s
+Steal sections of the Wiley plans, dig in loose sand for hidden treasure, and work with the Lionguard to recover larger stashes.
+/t
+Wiley 해적단의 계획 일부를 훔치고, 수상해보이는 모래를 파서 숨겨진 보물을 찾고, 라이온가드와 협력해서 더 많은 물품들을 되찾으세요.
+/e
+
+/s
+Help Lionguard Rhyn drive the dredge away from Junction Haven
+/t
+라이온가드 Rhyn도와 Junction Haven에서 dredge들을 몰아내세요
+/e
+
+/s
+Use dredge mining supplies to investigate burrows, dig at ore sites, and drive disoriented dredge underground.
+/t
+Dredge들의 광산물품들을 이용해 땅굴을 조사하고, 광산구역에서 땅을 파고, 혼란해 하는 dredge를 땅속으로 쫒아내세요. 
+/e
+
+/s
+Assist the Lionguard and protect Junction Haven
+/t
+라이온가드를 도와 Junction Haven을 보호하세요
+/e
+
+/s
+Recover food sacks stolen by the ettins and trolls from the Haven. Use frost traps to buy time to escape.
+/t
+에틴들과 트롤들이 피난처에서 훔쳐간 식량들을 되찾으세요. 얼음함정을 이용해 탈출할 때 시간을 버세요.
+/e
+
+/s
+Help Johan with his training duties at Vollym's battle pit
+/t
+Vollym의 투기장에서 Johan의 훈련을 도와주세요. 
+/e
+
+/s
+Train in the individual or group arenas against the beasts of the Battle Pit.
+/t
+투기장에서 한마리나 여러마리의 맹수들을 상대로 훈련하세요.
+/e
+
+/s
+Rescue fallen Seraph in the Bloodfields
+/t
+Bloodfields 에서 쓰러진 세라프 병사를 구출하세요
+/e
+
+/s
+Acquire a medical kit from the field hospitals adjacent to Nebo Terrace. Treat injured Seraph in the Bloodfields. Guard them as they return to the hospital
+/t
+Nebo Terrace 옆에있는 야전병원에서 의료용품을 획득하세요. Bloodfields안에 쓰러진 병사들을 치료하세요. 그들이 병원으로 돌아갈때까지 보호하세요.
+/e
+
+/s
+Help First Haven's residents deal with the undead
+/t
+First Haven의 주민을 도와 언데드들을 상대하세요
+/e
+
+/s
+Help First Haven by killing undead, dealing with the aftermath of their attacks, and keeping the road safe.
+/t
+First Haven을 도와 언데드를 처치하고, 그들의 습격후 뒷처리를 도와주고, 주변 길을 안전하게 만들얼 주세요.
+/e
+
+/s
+Cull the undead horde gathering outside of First Haven
+/t
+First Haven 밖에서 모이고 있는 언데드 무리의 숫자를 줄여주세요.
+/e
+
+/s
+Defend First Haven from Risen
+/t
+First Haven을 Risen으로 부터 보호하세요
+/e
+
+/s
+Recapture First Haven from the Risen
+/t
+First Haven을 Risen으로 부터 재탈환하세요
+/e
+
+/s
+Rebuild First Haven's defenses to guard against the undead
+/t
+First Haven를 언데드로 부터 방어하기 위해 방어시설을 재건하세요
+/e
+
+/s
+Survive the trials of the battle pit
+/t
+투기장의 시험에서 살아남으세요
+/e
+
+/s
+Defeat Vollym, champion of the battle pit
+/t
+투기장의 챔피언 Vollym에게 승리하세요
+/e
+
+/s
+Ensure the explosives arrive safely at Junction Haven
+/t
+Junction Haven에 폭약이 안전하게 도착 할 수 있도록 도와주세요.
+/e
+
+/s
+Protect the Lionguard while they clear the road
+/t
+라이온가드가 길을 치우는 동안 보호하세요
+/e
+
+/s
+Help Denton and Chief Cherpa safely transport their supplies through the swamp
+/t
+Denton과 Chief Cherpa의 물품을 안전하게 늪지대를 통과하도록 도와주세요
+/e
+
+/s
+Recover stolen Lionguard supplies from the dredge, and bring them to Deputy Urtt
+/t
+Dredge에게 도둑맞은 라이온가드의 물품들을 되찾고 Urtt 보안관 보좌에게 가져다주세요
+/e
+
+/s
+Kill the giant skelk scavenger feeding on fallen soldiers in the Bloodfields
+/t
+Bloodfields에서 전사한 세라프 병사들을 먹는 거대한 skelk scavenger를 처치하세요
+/e
+
+/s
+Keep Bamm safe while he gathers components for his engineering
+/t
+Bamm이 그의 공학연구에 필요한 부품을 모으는 동안 그를 지켜주세요
+/e
+
+/s
+Defeat the dredge before they pick Junction Haven clean
+/t
+Dredge들이 Junction Haven의 물품들을 전부 훔치기 전에 처치하세요
+/e
+
+/s
+Kill the dredge raidmaster invading Junction Haven
+/t
+Dredge Raidmaster를 처치하세요
+/e
+
+/s
+Destroy the pirate cannons before the villagers surrender
+/t
+마을이 항복하기전에 해적들의 대포들을 파괴하세요.
+/e
+
+/s
+Stop the pirates raiding the mansion
+/t
+해적들이 저택을 약탈하지 못하게 막으세요
+/e
+
+/s
+Help Tholaun rescue Miss Mipp
+/t
+Tholaun을 도와 Miss Mipp을 구해주세요
+/e
+
+/s
+Retake Almuten Mansion from the pirates
+/t
+해적들로 부터 Almuten 저택을 되찾으세요
+/e
+
+/s
+Defend Applenook from the pirate attack
+/t
+Applenook을 해적들의 공격으로부터 보호하세요
+/e
+
+/s
+Save the hamlet from pirates
+/t
+마을을 해적으로 부터 지켜주세요
+/e
+
+/s
+Protect the Lupikids as they search for treasure
+/t
+아이들이 보물을 찾는동안 보호해주세요
+/e
+
+/s
+Keep the Lupikids safe from the drake
+/t
+아이들을 드레이크들로 부터 안전하게 보호하세요
+/e
+
+/s
+Defend the merchant caravan
+/t
+행상인들을 보호하세요
+/e
+
+/s
+Stop the pirates from stealing buried treasure
+/t
+해적들이 보물을 훔쳐가지 못하게하세요
+/e
+
+/s
+Defend the quaggan pastkeeper from the pirates
+/t
+Quaggan족의 pastkeepr를 해적으로 부터 지켜주세요
+/e
+
+/s
+Prevent Wiley's pirates from stealing the sunken treasure
+/t
+Wiley 해적단들이 물에 잠긴 보물들을 훔쳐가지 못하게하세요
+/e
+
+/s
+Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads
+/t
+Ley-Line Anomaly이 과부하를 일으키기 전에 처치해서 위험하고 파괴적인 에너지를 흩어지게 하세요
+/e
+
+/s
+Disperse the coalescences before the Ley-Line Anomaly absorbs them
+/t
+Ley-Line Anomaly가 흡수하기 전에 융합체들을 처리하세요
+/e
+
+/s
+Assault on Ascalon Settlement
+/t
+Ascalon Settlement에 대한 공격
+/e
+
+/s
+The centaur gain additional Harathi forces, causing Rock Dogs to spawn during defend and capture events.
+/t
+켄타우르스에게 Harathi의 군사의 증원이 도착하었습니다. 이로인해 방어나 탈환 이벤트에 Rock Dogs가 소환됩니다.
+/e
+
+/s
+The centaur gain additional Tamini forces, causing Tamini Archers and Tamini Warriors to spawn during defend and capture events.
+/t
+켄타우르스에게 Tamini의 군사의 증원이 도착하였습니다.
+/e
+
+/s
+The battle lines are quiet. The centaurs and humans are regrouping.
+/t
+전선은 고요합니다. 켄타우르스와 인간들은 재정비를 하고 있습니다.
+/e
+
+/s
+Harathi centaurs are training rock dogs to use in their attacks.
+/t
+Herathi 켄타우르스들이 rock dogs들을 이용한 공격을 위해 훈련중입니다
+/e
+
+/s
+Attack rock dogs until they rebel against the centaurs
+/t
+Rock dogs가 켄타우르스에게 반항할 때 까지 공격하세요
+/e
+
+/s
+Tamini moguls are convening to discuss attack strategy.
+/t
+Tamini의 주요인물들이 전략회의를 하고 있습니다
+/e
+
+/s
+[Group Event] Kill the Tamini moguls to weaken centaur forces
+/t
+[단체이벤트] Tamini의 거물들을 처치해서 켄타우르스의 군사력을 줄이세요
+/e
+
+/s
+The centaurs are attempting to set up siege equipment to assault Nebo Terrace.
+/t
+켄타우르스들이 Nebo Terrace를 공격하기 위해 공성병기 설치를 시도하는 중입니다.
+/e
+
+/s
+[Group Event] Kill the Harathi bombardier and warmaster before they reach the Bloodfields
+/t
+[단체이벤트] Harathi의 포병들과 Warmaster가 Bloodfields에 도착하기전에 처치하세요
+/e
+
+/s
+Destroy the Harathi trebuchets
+/t
+Harathi의 투석기를 파괴하세요
+/e
+
+/s
+Nebo Terrace is under siege!
+/t
+Nebo Terrace가 포위당했습니다!
+/e
+
+/s
+Rock dogs and Tamini reinforcements:
+/t
+Rock dogs 와 Tamini의 증원:
+/e
+
+/s
+The centaurs have a strong position with their trained rock dogs and their well-organized troops.'
+/t
+켄타우르스가 잘 훈련된 rock dogs와 정비가 잘된 군사들과 함께 좋은 전략위치에 자리잡았습니다.
+/e
+
+/s
+Nebo Terrace is under attack, reinforced by Tamini centaurs and rock dogs!
+/t
+Nebo Terrace가 공격당하고 있습니다. 적은 Tamini 켄타우르스와 rock dogs의 증원으로 더 강해졌습니다.
+/e
+
+/s
+[Group Event] Prevent the centaurs from capturing Nebo Terrace
+/t
+[단체이벤트] 켄타우르스가 Nebo Terrace를 차지하지 못하게 막으세요
+/e
+
+/s
+Reclaim Nebo Terrace from the centaurs 
+/t
+켄타우르스로부터 Nebo Terrace를 되찾으세요
+/e
+
+/s
+Nebo Terrace has fallen. Ascalon Settlement is in danger.
+/t
+Nebo Terrace가 무너졌습니다. Ascalon Settlement 위험합니다.
+/e
+
+/s
+Ascalon Settlement is under attack, reinforced by Tamini centaurs and rock dogs!
+/t
+Ascalon Settlement가 공격당하고 있습니다. 적은 Tamini 켄타우르스와 rock dogs의 증원으로 더 강해졌습니다.
+/e
+
+/s
+Tamini reinforcements only:
+/t
+Tamini의 증원:
+/e
+
+/s
+Tamini reinforcements are assisting in the attack on Nebo Terrace.
+/t
+Tamini의 지원군이 Nebo Terrace에 대한 공격을 지원하고 있습니다.
+/e
+
+/s
+Tamini reinforcements are assisting in the attack on Ascalon Settlement.
+/t
+Tamini의 지원군이 Nebo Ascalon Settlement에 대한 공격을 지원하고 있습니다.
+/e
+
+/s
+Rock dogs reinforcements only:
+/t
+Rock dogs 지원군:
+/e
+
+/s
+Nebo Terrace is under attack by centaurs, and they have rock dogs!
+/t
+Nebo Terrace가 켄타우르스에 의해 공격받고 있습니다. 그들은 Rock dogs들도 데려왔습니다!
+/e
+
+/s
+Ascalon Settlement is under attack by centaurs, and they have rock dogs!
+/t
+Ascalon Settlement가 켄타우르스에 의해 공격받고 있습니다. 그들은 Rock dogs들도 데려왔습니다!
+/e
+
+/s
+No reinforcements:
+/t
+증원없음:
+/e
+
+/s
+Centaurs are trying to take Nebo Terrace!
+/t
+켄타우르스가 Nebo Terrace를 차지하려고 합니다!
+/e
+
+/s
+Ascalon Settlement is under attack!
+/t
+Ascalon Settlement 가 공격받고 있습니다!
+/e
+
+/s
+There is a centaur war beast rampaging through Ascalon Settlement!
+/t
+켄타우르스의 War Beast들이 Ascalon Settlement에서 날뛰고 있습니다.
+/e
+
+/s
+[Group Event] Slay the centaur war beast
+/t
+[단체이벤트] 켄타우르스의 war beast들을 처치하세요
+/e
+
+/s
+[Group Event] Stop the centaurs from capturing Ascalon Settlement
+/t
+[단체이벤트] 켄타우르스가 Ascalon Settlement를 차지하지 못하게 막으세요
+/e
+
+/s
+[Group Event] Liberate Ascalon Settlement from the centaurs
+/t
+[단체이벤트] 켄타우르스로부터 Ascalon Settlement를 해방시켜주세요
+/e
+
+/s
+Ascalon Settlement has fallen!
+/t
+Ascalon Settlement가 무너졌습니다!
+/e
+
+/s
+The Seraph are trying to transport siege weapons to reinforce Nebo Terrace.
+/t
+세라프들이 Nebo Terrace를 공격하기 위해 공성병기 설치를 시도하는 중입니다.
+/e
+
+/s
+Help escort the weapons shipment to Nebo Terrace
+/t
+무기들을 Nebo Terrace에 도착할때 까지 호송하세요
+/e
+
+/s
+Tamini centaurs have stolen a shipment of siege weapons meant for Nebo Terrace.
+/t
+Tamini 켄타우르스들이 Nebo Terrace에 쓰일 공성병기들이 있는 수송품을 훔쳐갔습니다. 
+/e
+
+/s
+Retrieve the catapult parts from the centaurs
+/t
+켄타우르스들로 부터 투석기 부품들을 되찾으세요.
+/e
+
+/s
+Rescue the captured townspeople from the centaurs
+/t
+켄타우르스에게 잡힌 마을주민들을 구출하세요
+/e
+
+/s
+Harathi centaurs have captured Nebo Terrace citizens!
+/t
+Harathi 켄타우르스들이 Nebo Terrace 의 시민들을 잡아갔습니다!
+/e
+
+/s
+Free the prisoners from the centaur slave pen
+/t
+켄타우르스의 노예 우리에서 포로들을 풀어주세요
+/e
+
+/s
+I have been summoned to the queen's throne room.
+/t
+나는 여왕님의 왕실에 소환되었다.
+/e
+
+/s
+Meet with Queen Jennah.
+/t
+Jennah 여왕을 만나세요
+/e
+
+/s
+Meet the Order representatives east of Lychcroft Mere.
+/t
+Lychcoft Mere의 동쪽에서 기관장들을 만나세요
+/e
+
+/s
+Travel to Ireko Tradecamp.
+/t
+Ireko Tradecamp로 이동하세요
+/e
+
+/s
+Speak with the Order representatives.
+/t
+기관장들과 이야기하세요
+/e
+
+/s
+Summoned to the Throne
+/t
+왕가의 소환
+/e
+
+/s
+Hero of Shaemoor
+/t
+Shaemoor의 영웅이여
+/e
+
+/s
+By the Will and Command of Queen Jennah of Kryta, you are hereby formally summoned to attend the royal presence.
+/t
+크라이타 여왕님의 의지와 명으로 당신을 여왕님 앞으로 공식적으로 소환하는 바입니다. 
+/e
+
+/s
+Make all haste to her throne room in Divinity's Reach, and you will be welcomed there.
+/t
+빠른 시일 내로 Divinity's Reach로 와서 왕실로 여왕님을 뵈러 와주시면 왕실은 당신을 환영할겁니다. 
+/e
+
+/s
+Until next we meet, may the Six Gods watch over you in all things.
+/t
+다음 에 만날 때 까지, 여섯 신들이 당신의 모든것에 가호를 내려주시길.
+/e
+
+/s
+Countess Anise
+/t
+Anise 백작
+/e
+
+/s
+Your Majesty—Captain Thackeray. I was summoned?
+/t
+나: 전하 그리고 Thackeray 대장님. 저를 소환하셨습니까?
+/e
+
+/s
+Logan Thackeray: Indeed, and I'm glad you're here, my friend. Kryta needs you once more.
+/t
+Logan Thackeray: 네 그렇습니다. 그리고 와주셔서 감사합니다. 크라이타가 한번 더 당신의 힘을 필요로 합니다.
+/e
+
+/s
+You know I'll do anything I can to help. What's the problem, Captain?
+/t
+나: 도움이 될 수 있다면 최선을 다 하겠습니다. 무슨일인가요 대장님?
+/e
+
+/s
+Logan Thackeray: There's a swamp in southern Kryta called Lychcroft Mere. The area's been hit hard by our war with the centaurs.
+/t
+Logan Thackeray: 크라이타 남쪽에 Lychcroft Mere라는 늪지대가 있습니다. 켄타우르스와의 전쟁 때문에 그 지역이 상당한 타격을 받았습니다.
+/e
+
+/s
+Logan Thackeray: Most of the lumber there goes to build catapults and defenses, so it’s common practice to use strips of marsh moss instead of firewood on cold nights.
+/t
+Logan Thackeray: 거기에 있는 대부분의 목재들이 투석기나 방어시설들을 짓는데 사용되었습니다, 그래서 보통 추운날에 장작 대신에 이끼를 사용하있죠.
+/e
+
+/s
+Logan Thackeray: However, the Seraph have brought me recent reports that Risen undead—servants of Orr—have been seen in the swamp.
+/t
+Logan Thackeray: 하지만 최근 세라프에게서 Orr의 하수인들인 Risen 언데드들이 늪지대에 목격되고 있다는 보고들이 올라왔습니다. 
+/e
+
+/s
+Risen? The dragon's minions? If they're in the swamp, anyone who goes in there would be in great danger.
+/t
+나: Risen이요? 드래곤의 하수인들 말입니까? 그들이 늪지대에 있다면 누구든지 거기에 가면 위험에 빠질겁니다.
+/e
+
+/s
+Queen Jennah: Precisely. The three Orders of Tyria are pushing to be involved but can't agree on a plan. While they bicker, my people are at risk.
+/t
+Jennah 여왕: 그렇습니다. 티리아의 세 기관이 이 문제를 해결하려고 노력하고 있지만 마음이 맞는 계획을 만들어 내지 못하고 있습니다. 그들이 서로 다툴때마다 제 백성들이 위험에 빠지고있죠.
+/e
+
+/s
+Queen Jennah: Hero, I have summoned you to act as Advocate of the Crown. I want you to meet with the orders and take charge of the situation.
+/t
+Jennah 여왕: 영웅이여, 제가 당신을 부른 이유는 당신이 왕가의 대변인이 되었으면 해서입니다.. 당신이 세 기관들과 만나서 이 상황을 해결해 주시길 바랍니다. 
+/e
+
+/s
+Logan Thackeray: You‘ll be dealing with the Vigil, the Durmand Priory, and the Order of Whispers. All three specialize in fighting Zhaitan and its minions.
+/t
+Logan Thackeray: 당신은 Vigil, Durmand Priory, 그리고 Order of Whispers와 문제를 논의하게 될겁니다. 세 기관 모두 자이탄과 하수인을 상대하는데 특화되어 있죠.
+/e
+
+/s
+Logan Thackeray: However, they all use different methods. It'll be your job to decide which plan is best—and then act on it.
+/t
+Logan Thackeray: 하지만 세 기관 각각 다른 방식을 사용합니다. 당신의 일은 가장 좋은 계획을 골라 그 계획대로 행동하는 것입니다.
+/e
+
+/s
+Queen Jennah: You will have the full authority of the crown to handle this situation. Will you accept this task, Hero?
+/t
+Jennah 여왕: 당신은 왕과를 대신하여 이 문제를 다룰 수 있는 모든 권한을 가지게 될것입니다. 영웅이여, 이 과업을 맡으시겠습니까?
+/e
+
+/s
+Your Majesty, I will. I'm honored to serve Kryta and my queen.
+/t
+나: 그리하겠습니다 전하. 크라이타와 여왕님을 섬길 수 있게 되어서 영광입니다.
+/e
+
+/s
+Queen Jennah: Thank you. Go, and meet with the Order Representatives as soon as possible. I look forward to your report.
+/t
+Jennah 여왕: 감사합니다. 이제 가셔서 각 기관장님들을 빠른 시일 내로 만나주세요. 보고를 기다리겠습니다.
+/e
+
+/s
+Logan Thackeray: Thanks for taking on this problem, friend. I know you'll do what's best for Kryta.
+/t
+Logan Thackeray: 이 문제를 맡아주셔서 감사합니다. 당신이라면 크라이타에게 제일 좋은 해결책을 가져올거라 믿습니다.
+/e
+
+/s
+Can you tell me what you know about the Orders of Tyria?
+/t
+티리아의 기관들에 대해서 알려 주실수 있나요?
+/e
+
+/s
+Absolutely. Do you want to know about the Vigil, the Durmand Priory, or the Order of Whispers?
+/t
+당연하죠. Vigil, Durmand Priory, 그리고 Whispers 들 중에 무엇을 알고 싶으신가요?
+/e
+
+/s
+Tell me about the Vigil.
+/t
+Vigil에 대해서 알려주세요.
+/e
+
+/s
+The Vigil was founded by a charr named Almorra Soulkeeper. Her warband was corrupted by the crystal dragon, and she was forced to kill them all.
+/t
+Vigil은 차르족인 Almorra Soulkeeper에 의해 설립되었습니다. 그녀의 부대원들이 크리스탈 드래곤에 의해 타락해버리는 바람에 그녀는 그들을 모두 죽여야만 했죠.
+/e
+
+/s
+She may be a charr, but I can empathize. What happened then?
+/t
+그녀가 차르족이지만 그녀의 입장이 이해가가네요. 그 후에 어떻게 되었죠?
+/e
+
+/s
+Almorra swore to defeat the dragons. She resigned her commission in the Blood Legion and started a worldwide volunteer militia: the Vigil.
+/t
+Almorra는 드래곤을 처치하기로 맹세했습니다. 그녀는 Blood Legion(피의 군단)의 위원장에서 사임하고 전 세계의 지원자들로 이루어진 민병대인 Vigil을 운용하기 시작했습니다.
+/e
+
+/s
+Can you tell me more about the situation in Lychcroft Mere?
+/t
+Lychcoft Mere의 상황이 어떤지 알수 있을까요?
+/e
+
+/s
+Tell me about the other orders.
+/t
+다른 기관에 대해서 알려주세요
+/e
+
+/s
+Thanks for the information. I'd better get started. Good-bye.
+/t
+정보 감사합니다. 저도이제  시작해야 할것 같습니다. 안녕히계세요.
+/e
+
+/s
+Tell me about the Durmand Priory.
+/t
+Durmand Priory에 대해서 알려주세요
+/e
+
+/s
+The Durmand Priory are a group of scholars and relic-hunters. They possess massive knowledge on arcane lore, as well as the largest library in the world.
+/t
+Durmand Priory는 학자들과 유물사냥꾼들로 이루어진 집단입니다. 그들은 신비한 구전지식에 대한 지식을 많이 보유하고 있으며 세상에서 가장 큰 도서관을 가지고 있습니다.
+/e
+
+/s
+What can scholars do to stop the dragons?
+/t
+학자들이 어떻게 드래곤을 막겠다는거죠?
+/e
+
+/s
+Don't let their demeanor fool you—these are tough, shrewd people with a mission to discover the dragons' origins, purpose, and weaknesses.
+/t
+그들의 품행에 속지 마세요. 그들은 드래곤의 기원, 목적, 글고 약점을 목표로 삼고 있는 강하며 기민한 사람들로 이루어져 있습니다.
+/e
+
+/s
+Tell me about the Order of Whispers.
+/t
+Order of Whispers에 대해서 알려주세요
+/e
+
+/s
+The Order of Whispers move in shadows and deal in secrets. Their network of covert agents uses thievery, blackmail, and assassination to achieve their goals.
+/t
+Order of Whispers는 어둠속에서 움직이며 비밀을 다룹니다. 그들의 비밀요원들은 절도와 협박, 그리고 암살을 이용하여 그들의 목적을 달성합니다.
+/e
+
+/s
+They sound pretty shady. Are they reliable?
+/t
+조금 수상해 보이는 단체처럼 들리네요. 믿을만 한가요?
+/e
+
+/s
+They seem to be, yes. Luckily for us, the Order recognizes the threat posed by Zhaitan and the others. I can't say I trust them, but I respect them.
+/t
+그래 보입니다. 그리고 다행이도 그 단체는 자이탄과 그의 수하들의 위험을 인지하고 있습니다. 그 들을 완전히 신뢰한다고 못하겠지만 적어도 그들을 존중할순 있습니다.
+/e
+
+/s
+Village children go into the swamp to get firewood. If the Risen are in there, do everything you can to get theose innocents to safety.
+/t
+마을 아이들은 장작을 얻기위해 늪지대로 갑니다. Risen이 거기에 있다면, 어떻게 해서든 그 무고한 아이들을 안전한 곳에 데려다주세요. 
+/e
+
+/s
+Understood. I need to ask you another question, if you don't mind.
+/t
+알겠습니다. 그전에 괜찮으시다면 질문 한개만 더하겠습니다.
+/e
+
+/s
+I will, Logan. You can count on me.
+/t
+그리리하겠습니다 Logan. 저를 믿으세요.
+/e
+
+/s
+I think I have everything I need to get started. I'll let you know how it goes.
+/t
+시작하기 위해 필요한 모든것을 알게 된것 같습니다. 추후 어떻게 됬는지 알려드릴께요.
+/e
+
+/s
+Countess Anise: I'm glad you're here, Advocate. It's imperative that you discover what's happening in Lychcroft Mere. Lives depend on it.
+/t
+Anise 백작: 와주셔서 감사해요, 대변인. 당신이 Lychcroft Mere에 무슨 일이 일어나고 있는지 꼭 알아와주셨으면 해요. 사람의 목숨이 달려있으니깐요.
+/e
+
+/s
+Was it your influence that convinced the Queen to name me Advocate?
+/t
+여왕님게서 저를 대변인으로 내세우게 영향을 끼친분이 당신인가요?
+/e
+
+/s
+I simply ensured that Queen Jennah knew you were loyal and capable.
+/t
+저는 단지 여왕님께 당신이 충성스럽고 능력이 출중하다는걸 확실하게 알려드렸을 뿐이랍니다.
+/e
+
+/s
+Tell me, what do you know about the representatives of the three Orders of Tyria?
+/t
+그러면  세개의 각 기관의 대표들에 대해서 좀 아십니까?
+/e
+
+/s
+I'm glad you think so highly of me, Countess.
+/t
+저를 좋게 봐주셔서 감사합니다 백작님.
+/e
+
+/s
+What can you tell me about the people representing the three Orders of Tyria?
+/t
+세개의 각 기관의 대표들에 대해서 알려주실게 있습니까?
+/e
+
+/s
+Quite a bit. Which draws your interest, pet?
+/t
+많죠. 누구에게 관심이 가나요?
+/e
+
+/s
+Who will be representing the Durmand Priory?
+/t
+누가 Durmand Priory를 대표하나요?
+/e
+
+/s
+Your contact for Durmand Priory will be Josir. He's a scholar and an explorer, though a bit... eccentric. You'll see.
+/t
+Josir가 Durmand Priory의 연락처가 될거에요. 그는 학자이며 탐험가인데...좀 별난 사람이죠. 보시면 알거에요
+/e
+
+/s
+I'd like to ask another question, if you don't mind.
+/t
+괜찮으시다면 다른 질문을 좀 하겠습니다.
+/e
+
+/s
+Thank you for the information. I'll head to Lychcroft Mere.
+/t
+정보 감사합니다. 전 그러면 Lychcroft Mere로 가겠습니다.
+/e
+
+/s
+Who stands for the Vigil?
+/t
+누가 Vigil을 대표하죠?
+/e
+
+/s
+Hiroki will represent the Vigil. She was once a member of the Ebon Vanguard, and continues to be a stalwart ally to Kryta.
+/t
+Hiroki가 Vigil을 대표할거에요. 그녀는 Ebon Vanguard의 일원이였고 여전히 크라이타의 충실한 협력자이죠
+/e
+
+/s
+Order of Whispers? Why does that name seem familiar?
+/t
+Order of Whispers? 왜 이름이 익숙한 느낌이죠?
+/e
+
+/s
+The Order of Whispers dates back to ancient Elona. Ihan is their emissary. He might tell you more—if you know how to ask.
+/t
+Order of Whispers는 고대 엘로나 때부터 있었어요. Ihan이 그들의 사절로 올거에요. 그라면 당신에게 더 많은 걸 알려줄거에요, 물론 질문을 잘 한다면요. 
+/e
+
+/s
+Queen Jennah: Logan and the Countess Anise speake highly of you. I am confident that you will protect the people of Lychcroft Mere.
+/t
+Jennah 여왕: Logan과 Anise 백작이 당신에 대한 칭찬이 자자하더군요. 당신이라면 Lychcroft Mere의 사람들을 보호해 줄수 있을거라고 생각해요.
+/e
+
+/s
+Thank you, Your Majesty. Can you tell me anything else about the area?
+/t
+감사합니다 전하. 그 지역에 대해서 알려주실 게 있습니까?
+/e
+
+/s
+Lychcroft Mere is in the Kessex Hills. You'll be meeting with the Orders at the tradecamp south of Viathan Lake.
+/t
+Lychcroft Mere는 Kessex Hills지역에 있어요. 당신은 Viathan Lake의 남쪽에 있는 교역장에서 기관에서 나온 사람들과 만날거에요.
+/e
+
+/s
+May I ask you another question?
+/t
+다른 것을 여쭤봐도 되겠습니까?
+/e
+
+/s
+I'll hurry there. Thank you, Your Majesty.
+/t
+그 쪽으로 빨른시일 내로 가겠습니다. 감사합니다 전하.
+/e
+
+/s
+Your Majesty, what can you tell me about the Orders?
+/t
+전하, 기관들에 대해서 좀 알려주시겠습니까?
+/e
+
+/s
+The Orders study the Elder Dragons. So long as they stay out of politics, I allow them to operate in Kryta. Is there one in particular you want to know about?
+/t
+기관들은 엘더 드래곤에 대해서 연구를 해요. 정치에 관여만 하지 않는다면 크라이타내에 활동하도록 제가 허가하고있죠. 특정 기관에 대해서 알고 싶은게 있나요?
+/e
+
+/s
+What can you tell me about the Vigil's mission?
+/t
+Vigil의 임무에 대해서 알려주시겠습니까?
+/e
+
+/s
+The Vigil is a militant order, dedicated to fighting the dragons. They offer charity and protection to all people of Tyria.
+/t
+Vigil은 드래곤들과 싸우는데 전념하는 전투를 위한 기관이에요. 그들은 티리아 백성들 구호하고 수호하죠. 
+/e
+
+/s
+What do I need to know about the Durmand Priory?
+/t
+Durmand Priory에 대해서 알아야 할 것이 있습니까?
+/e
+
+/s
+Priory scholars saved the libraries of Lion's Arch when Orr rose. They study the dragons in the hopes of finding a weakness.
+/t
+Priory의 학자들은 Orr왕국의 땅이 물 위로 상승했을때 Lion's Arch의 도서관들을 지켰죠. 그들은 드래곤들의 약점을 알아내고자 드래곤들을 연구하죠.
+/e
+
+/s
+What is the Order of Whispers?
+/t
+Order of Whispers는 무었인가요?
+/e
+
+/s
+I've seen its mysterious agents acting covertly to help Tyria. I may not trust them, but I recgonize their contributions.
+/t
+저는 알수없는 요원들이 은밀히 티리아를 도우는걸 봐 왔어요. 그들을 신뢰하지는 못하지만 그들의 업적은 인정해요.
+/e
+
+/s
+I see. Thank you, Your Majesty.
+/t
+그렇군요. 감사합니다 전하.
+/e
+
+/s
+I'll hurry to Lychcroft Mere. Thank you, Your Majesty.
+/t
+저는 빨리 Lychcroft Mere로 가겠습니다. 감사합니다 전하.
+/e
+
+/s
+Will I see you again soon, Your Majesty?
+/t
+전하, 곧 다시 볼 수 있겠습니까?
+/e
+
+/s
+Sadly, it is not safe for me to leave Divinity's Reach. I trust Captain Logan to work with you in the field. Good luck, Advocate.
+/t
+안타깝게도 Divinity's Reach 밖으로 나가는건 제게 안전하지 않아요. Thackeray 대장이라면 현장에서 당신을 도울거라고 믿어요. 행운을 빌어요 대변인
+/e
+
+/s
+It's an honor. I grew up on the streets, but even then, I wanted to do something more for my country. 
+/t
+영광입니다. 저는 빈민가에서 자랐지만 항상 제 조국을 위해서 뭘 하고 싶었습니다.
+/e
+
+/s
+여왕님게서 저를 그분의 측근으로 만들기위해 당신이 영향을 끼쳤나요?
+/t
+비록 변변찮은 태생이였을지라도 당신은 그 이상으로 일어섰습니다. 크라이타를 자랑스럽게 만들어 주세요.
+/e
+
+/s
+That's kind of you to say. May I ask another question?
+/t
+따뜻한 말씀 감사합니다. 다른 것을 여쭤도 될까요?
+/e
+
+/s
+Thank you, Your Majesty. I'll try to make you proud.
+/t
+감사합니다 전하. 전하를 자랑스럽게 만들어드리겠습니다.
+/e
+
+/s
+I've looked up at your palace all my life, Your Majesty. Thank you for letting me serve Kryta.
+/t
+전하, 저는 항상 전하의 궁전을 우러러보았습니다. 제가 크라이타에 이바지하게 허락해주셔서 감사합니다.
+/e
+
+/s
+Thank you for your service. My duty is to the common men and women of this kingdom. I pray that Dwayna guides me in their best interest.
+/t
+당신의 노고에 감사드립니다. 저 역시 이 나라의 백성들을 위해 제 의무를 다 할것입니다. Dwayna님이 그들을 위해 저를 인도시길 기도할뿐입니다.
+/e
+
+/s
+I'll pray for us both, Your Majesty. May I ask you another question?
+/t
+저 역시 저와 전하를 위해 기도하겠습니다. 다른 것을 여쭤봐도 될까요?
+/e
+
+/s
+Thank you, Your Majesty. May the gods watch over us all.
+/t
+감사합니다 전하. 신들의 우리 모두를 돌보아주시길.
+/e
+
+/s
+During all years among your noble court, I've never been so honored as at this moment. Thank you, Your Majesty.
+/t
+여러해 동안 왕가를 섬기면서 지금 이순간 만큼 황공한적은 없었습니다. 감사합니다 전하.
+/e
+
+/s
+I am pleased to see you take on the duties of your high birth, Advocate. You will do the nobility proud.
+/t
+고귀한 태생으로써의 의무를 다하는 모습을 보니 너무 좋습니다. 대변인, 당신은 귀족의 자랑이 될것입니다. 
+/e
+
+/s
+It's my honor, Your Majesty. May I ask another question?
+/t
+제 영광입니다 전하. 다른 걸 여쭤봐도 될까요?
+/e
+
+/s
+I will do my best, your Majesty. May Dwayna watch over us all.
+/t
+최선을 다하겠습니다 전하. Dwayna님이 우리 모두를 돌봐주시길.
+/e
+
+/s
+Child: Wanna see my magic trick? Think of a number from one to ten and I'll use my magical powers to guess what it is.
+/t
+어린아이: 마술 한번 보실래요? 1 에서 10 사이의 숫자 하나를 생각하시면 제 마술의 힘으로 무슨 숫자인지 알아 맞춰볼게요.
+/e
+
+/s
+Okay. I pick seven.
+/t
+알았어. 난 7을 고르겠어.
+/e
+
+/s
+Don't say the number, dummy! Just think it.
+/t
+말하면 안되요, 바보도아니고! 그냥 생각만하세요.
+/e
+
+/s
+Okay. I'm thinking of seven.
+/t
+알았어. 난 7을 생각하고 있어.
+/e
+
+/s
+No! You really stink at this. Listen: just think of a number and don't say it out loud.
+/t
+아니! 정말 이해 못하시네요. 잘 들어보세요, 그냥 생각만하고 말은 하지마세요.
+/e
+
+/s
+Okay. I'm thinking of a number between six and eight.
+/t
+알았어. 난 6 과 8 사이의 숫자를 생각하고 있어.
+/e
+
+/s
+It's seven, isn't it?
+/t
+7이죠?
+/e
+
+/s
+Okay. Good trick, kid. Someday you'll have to tell me how you did it.
+/t
+그래, 잘했어. 언젠가 다시 만나면 어떻게 알아 맞췄는지 말해줘.
+/e
+
+/s
+We'll have to finish this some other time. I have to run.
+/t
+다음에 마무리 하도록 하자. 난 지금 어디 가야하거든.
+/e
+
+/s
+All right, I've got a new number.
+/t
+좋아, 다른 숫자를 생각중이야.
+/e
+
+/s
+I hope you can do math! Multiply that number by three. Don't tell me what it is!
+/t
+산수할줄 아시길 바래요! 그 숫자를 3을 곱하세요. 뭔지 말하진 마세요!
+/e
+
+/s
+Done. Now what?
+/t
+했어, 그리고?
+/e
+
+/s
+Now add three, and multiply the new number by three. Got that so far?
+/t
+이제 3을 더하시고 그 숫자에서 3을 곱하세요. 했어요?
+/e
+
+/s
+Right. How long is this going to take?
+/t
+그래, 얼마나 더 해야해?
+/e
+
+/s
+Almost done! Now, add those two digits together. Your number is nine, isn't it?
+/t
+거의 다 됐어요! 자, 나온 숫자의 각 자리의 숫자를 더하세요. 그러면 9가 나왔죠, 맞죠?
+/e
+
+/s
+Hey, yeah, it is! Not bad, kid. Not bad at all.
+/t
+오, 그래, 나왔어. 나쁘지 않네. 괜찮은 마술이야.
+/e
+
+/s
+Sorry, kid. I'm interested in your trick, but I can't play right now.
+/t
+미안하구나, 네 마술을 보고 싶지만 지금 그럴 여유가 없네.
+/e
+
+/s
+Villager: It would only cost half that much in the city. I'll give you 25 gold. That's my final offer.
+/t
+마을주민: 도시에 가면 절반 가격박에 안 받소. 그러니 25골드 만 주겠소, 이게 마지막 제안이오.
+/e
+
+/s
+Villager: Where have you been? Leave that nice person alone and come to me.
+/t
+마을주민: 어디 갔다온거야? 괜한 사람 귀찮게 하지말고 여기로 와.
+/e
+
+/s
+Scholar Josir: Finally! Thank Dwayna, you're here. I am Scholar Josir of the Durmand Priory. We've been expecting you.
+/t
+학자 Josir: Dwanna님 감사합니다! 드디어 오셨군요. 저는 Durmand Priory의 학자 Josir라고 합니다. 우린 당신이 오길 기다렸습니다.
+/e
+
+/s
+Agent Ihan: You're here to make decisions, and that's exactly what we need.
+/t
+요원 Ihan: 우리는 최종결정을 해줄 사람이 필요합니다, 그리고 당신이 딱 그에 맞는 사람이고요,
+/e
+
+/s
+Crusader Hiroki: For once, Ihan's right about something. I'm Hiroki, a crusader with the Vigil.
+/t
+크루세이더 Hiroki: Ihan이 맞는말을 하기도 하는군요. 저는 Vigil과 함께하는 크루세이더 Hiroki라고 합니다. 
+/e
+
+/s
+Crusader Hiroki: The Risen forces are active in Lychcroft Mere. There are missing villagers; mostly children. We've got to get soldiers in there!
+/t
+크루세이더 Hiroki: 이 곳 Lychcroft Mere 에는 Risen의 세력이 활동하고 있습니다. 마을 사람들이 실종되고 있습니다. 대부분 어린 아이들이고요. 여기에 병사를 배치해야합니다.
+/e
+
+/s
+Crusader Hiroki: The Vigil has a squad standing by. They're ready to sweep the area on your signal, Advocate. Just give the word.
+/t
+크루세이더 Hiroki: Vigil의 분대가 대기하고 있습니다. 당신의 신호에 구역을 청소를 시작할 준비가 되어있습니다. 말만 내리세요.
+/e
+
+/s
+Scholar Josir: Advocate, I'm sure you can see that such an approach could only cause more problems. The Durmand Priory has a wondrous device called the "Mortis Verge."
+/t
+학자 Josir: 그렇게 하다간 더 많은 문제를 일으킬거라는걸 아실겁니다. 저희 Durman Priory에서는 "Mortis Virge"라는 멋진 장치를 가지고 있습니다.
+/e
+
+/s
+Scholar Josir: We believe in using intellect to fight the dragons. Saves on manpower, you know — and we have achieved some marvelous advancements.
+/t
+학자 Josir: 저희는 지식으로 용을 상대해야한다고 생각합니다. 인력소비도 줄이고 말이죠. 게다가 저희는 대단한 진보를 이루어냈습니다. 
+/e
+
+/s
+Crusader Hiroki: Your device is theoretical! Untested! You want to risk children on that? Vigil steel is tried and true.
+/t
+크루세이더 Hiroki: 당신의 장치는 이론일뿐이에요! 시험도 해보지 않았죠! 아이들의 목숨을 그런 불분명한 장치에 거실건가요? 우리 Vigil의 방식은 문제없이 임무를 성공했어요. 
+/e
+
+/s
+Agent Ihan: I'm with the Order of Whispers. We brought this to the queen's attention, but we'll leave the frontline fighting to the others.
+/t
+요원 Ihan: 전 Order of Whispers에서 왔습니다. 저희가 이에 대한 문제를 여왕님께 알려드렸지만 전선에 싸우는건 다른이에게 맡기도록 하겠습니다. 
+/e
+
+/s
+Very well. Hiroki, Josir — give me a moment to think this over, and then I'll decide.
+/t
+나: 알겠습니다 Hiroki 그리고 Josir. 생각할 시간을 조금만 주시죠. 그 후에 결정하겠습니다.
+/e
+
+/s
+Scholar Josir: I hate to rush you, but it's time to decide. We need to find those children.
+/t
+학자 Josir: 보채는것 같아서 죄송하지만 결정을 할 때입니다. 실종된 아이들을 찾아야 해요. 
+/e
+
+/s
+Can you tell me a little more about the Durmand Priory, first?
+/t
+먼저 Durmand Priory 에 대해서 알려주실수 있나요?
+/e
+
+/s
+I certainly can! We are Tyria's most elite scholars and archaeologists. We search for lore to use against the dragons.
+/t
+당연하죠! 우리는 티리아의 가장 우수한 학자와 고고학자입니다. 저희는 드래곤을 상대할수 있는 구전지식이나 설화와 관련된 지식을 찾고 있습니다. . 
+/e
+
+/s
+That makes sense. Can I ask another question?
+/t
+이해가 되는군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+That's good to know. I'm looking forward to learning more.
+/t
+좋은걸 알게되는군요. 앞으로 더욱더 알아갈 날을 기대하겠습니다. 
+/e
+
+/s
+Can you remind me about my choices again, please?
+/t
+저에게 주어진 선택지에 대해서 다시 이야기 해주시겠습니까?
+/e
+
+/s
+The Vigil wants to make a direct military strike into the swamp. The Durmand Priory wants to go in quietly and use a new magic item to protect the children.
+/t
+Vigil은 늪지대에 집적 군사적인 타격을 하길원합니다. Durmand Priory는 조용히 들어가서 새로운 마법물품을 사용해서 아이들을 보호하려고 하고요.
+/e
+
+/s
+Right. Thanks for reminding me.
+/t
+알겠습니다. 상기시켜주셔서 감사합니다. 
+/e
+
+/s
+I need more time to make a decision.
+/t
+결정을 하는데 시간이 조금 더 필요합니다. 
+/e
+
+/s
+I'm ready to decide.
+/t
+결정할 준비가 되었습니다.
+/e
+
+/s
+Excellent. Tell me, do you want to join the Vigil's full offensive, or go with the Priory's clever device?
+/t
+잘됬군요. 그럼 말씀해주세요. Vigil의 전투에 합류하시겠습니까? 아니면 저희 Priory의 기발한 장치를 사용하시겠습니까?
+/e
+
+/s
+I've decided to go with the Priory's Plan.
+/t
+Priory의 계획을 선택하겠습니다.
+/e
+
+/s
+Splendid! I'll meet you outside Lychcroft Mere and we'll get started. Congratulations on a wise decision!
+/t
+훌륭한 결정입니다! Lychcroft Mere 밖에서 만나서 시작하도록 하죠. 현명한 결정에 찬사를 보냅니다. 
+/e
+
+/s
+Looking forward to working with you, Josir. We'll have those kids safe in no time.
+/t
+앞으로 같이 잘해봐요 Josir. 우리라면 아이들을 빨리 구할 수 있을겁니다. 
+/e
+
+/s
+Hm. Maybe I'm not ready to decide, after all.
+/t
+흐음. 여전히 결정을 할 준비가 안된 것 같네요. 
+/e
+
+/s
+I need more time to consider before I make my choice.
+/t
+선택하기 전에 생각할 시간이 더 필요합니다.
+/e
+
+/s
+Crusader Hiroki: I hate to rush you, but it's time to decide. We need to find those children.
+/t
+크루세이더 Hiroki: 보채는것 같아서 죄송하지만 결정을 할 때입니다. 실종된 아이들을 찾아야 해요. 
+/e
+
+/s
+Can you tell me a little more about the Vigil, first?
+/t
+먼저 Vigil 에 대해서 알려주실 수 있나요?
+/e
+
+/s
+The Vigil is a militia composed of all the races of Tyria. We fight the dragons, and we protect the innocent.
+/t
+Vigial 은 모든 종족들이 모여 만든 민병대입니다. 저희는 드래곤과 싸우고 무고한 자들을 지켜주죠.
+/e
+
+/s
+Good to know. Hm. I need some more time before I decide.
+/t
+좋은걸 알게되네요. 흠음. 결정하기위해 생각할 시간이 더 필요합니다.
+/e
+
+/s
+I need more time to think, before I make a decision.
+/t
+결정하기전에 생각할 시간이 더 필요합니다.
+/e
+
+/s
+Excellent. Tell us: do you want to join the Vigil's full offensive, or go with the Priory's clever new toy?
+/t
+잘됬군요. 그럼 말씀해주세요. Vigil의 전투에 합류하시겠습니까? 아니면 Priory의 기발한 장난감을 사용하시겠습니까?
+/e
+
+/s
+I've decided to go with the Vigil's Plan.
+/t
+Vigil의 계획을 선택하겠습니다.
+/e
+
+/s
+Now we're getting somewhere. My squad and I will wait for you outside Lychcroft Mere. We'll find those kids — and crush some Risen along the way!
+/t
+드디어 일에 진척이 보이는군요. 저와 제 부대는 Lychcroft Mere 밖에서 기다리겠습니다. 아이들을 찾으면서 Risen들을 부숴버리겠습니다.
+/e
+
+/s
+You Vigil types don't stand still for long, do you? I like that. See you there.
+/t
+Vigil 사람들은 잠시라도 몸이 쉬는걸 싫어하시는군요, 그렇죠? 맘에 듭니다. 거기서 뵙도록 하죠.
+/e
+
+/s
+Agent Ihan: It's not that my organization doesn't support you. We just like to have more information before we act. Until then, best of luck.
+/t
+요원 Ihan: 저희 단체가 당신을 지지하지 않는게 아닙니다. 다만 저희는 행동하기전에 더 많은 정보를 알기를 원할뿐입니다. 그전까지는 운에 따를뿐이죠.
+/e
+
+/s
+Can you tell me a little more about your organization, Ihan?
+/t
+Ihan, 당신의 단체에 대해서 알려주시겠습니까?
+/e
+
+/s
+The Order of Whispers seeks to subtly influence the world's races to make them unify against the dragons.
+/t
+Order of Whispers 는 세상의 모든 종족에게 교묘하게 영향을 주면서 드래곤을 상대로 연합하게 만듭니다.
+/e
+
+/s
+Influence? Do you mean you manipulate them?
+/t
+영향이요? 사람들을 조종하는건가요?
+/e
+
+/s
+We pull strings, yes, but isn't that the nature of politics? Our goal is to fight the dragons, and that is a noble purpose.
+/t
+네, 인맥을 통해서 하지요. 하지만 그게 정치의 근본이 아닌가요? 저희의 목적은 드래곤을 상대로 싸우는겁니다, 그리고 그건 고귀한 목적이지요. 
+/e
+
+/s
+I suppose you have a point. Thank you for clarifying, Ihan.
+/t
+틀린말은 아니네요. 자세히 알려줘서 고마워요 Ihan.
+/e
+
+/s
+Makes sense. Thanks, Ihan.
+/t
+이해가 가네요. 고마워요 Ihan.
+/e
+
+/s
+Children search for firewood in that marsh. We need to get the innocents to safety before the Risen find them
+/t
+아이들이 늪지대에서 장작을 구하고 다닙니다. Risen이 그 아이들을 찾기전에 저희가 먼저 찾아 안전한 곳으로 대려와야합니다. 
+/e
+
+/s
+I'll do everything I can to get them out. Thanks, Ihan.
+/t
+그 아이들의 구출을 위해 뭐든지 하겠습니다. 감사합니다 Ihan.
+/e
+
+/s
+I hope that cowardice isn't a common trait in your order!
+/t
+당신의 조직의 사전에 겁이라는건 없기를 바라겠습니다!
+/e
+
+/s
+Cowardice, no. Wisdom, yes. Enjoy the swamp, Advocate.
+/t
+겁 대신에 지혜가 있습니다. 늪지대에서 즐거운 시간을 보내세요 대변인.
+/e
+
+/s
+Ha! Good answer. See you soon, Ihan!
+/t
+하! 좋은 답변입니다. 곧 다시 보도록 하겠습니다 Ihan.
+/e
+
+/s
+Can I persuade you to tell me a bit more about what you'll be doing while we're gone?
+/t
+저희가 없을동안에 당신들이 무엇을 할 것인지에 대해서 알려주실 수 있나요?
+/e
+
+/s
+Well...I suppose it wouldn't hurt. We're going to be looking into someone that went missing before the Risen appeared. It's probably nothing. Really, that's all I can say.
+/t
+뭐...문제될건 없겠죠. 저희는 Risen이 나타나기전에 사라진 실종자들에 대해서 알아보려고 합니다. 별거 아닐거라고 생각됩니다.  정말 그것 이외에는 말할게 없네요.
+/e
+
+/s
+That's good to know. I look forward to hearing about it when we get back.
+/t
+잘 알겠습니다. 돌아왔을때 그 일에 대해서 들었으면 좋겠군요.
+/e
+
+/s
+Will the Order of Whispers be working with me in the future?
+/t
+Order of Whispers는 미래에 저와함께 일할것인가요?
+/e
+
+/s
+Absolutely. You'll be seeing a great deal more of us in the future. Good luck.
+/t
+당연하죠. 더 많은 요원들이 당신과 일할것입니다. 행운을 빌어요.
+/e
+
+/s
+Glad to hear that. Take care, Ihan.
+/t
+좋은소식이네요. 수고하세요 Ihan.
+/e
+
+/s
+I understand, Ihan. And thanks.
+/t
+이해합니다 Ihan. 그리고 감사합니다.
+/e
+
+/s
+Crusader Hiroki: Lychcroft Mere is a dangerous place, even without the undead swarming about. I hope you're ready for it.
+/t
+크루세이더 Hiroki: Lychcroft Mere 는 언데드가 없어도 위험한 지역입니다. 충분한 준비가 되셨길 바랍니다.
+/e
+
+/s
+I will be. Can you tell me anything more about the area?
+/t
+충분히 마음의 준비를 하겠습니다. 그 지역에 대해서 더 알려주실 수 있나요?
+/e
+
+/s
+Lychcroft Mere is the swamp to our west. Usually the worst thing out there are bandits and the bears.
+/t
+Lychcroft Mere는 저희의 서쪽에 있는 늪지대입니다. 원래 거기서 가장 위험한 존재는 도적과 곰들이죠.
+/e
+
+/s
+So noted.
+/t
+기억해 놓겠습니다.
+/e
+
+/s
+I'm ready for anything.
+/t
+전 어떠한 것에도 준비가 되어있습니다. 
+/e
+
+/s
+Scholar Josir: Are you wavering? Lychcroft Mere is a dangerous place, and I'll need your mind free of distraction.
+/t
+학자 Josir: 혹시 불안하신가요? Lychcroft Mere는 위험한 지역이니 정신을 집중하셔야 할겁니다. 
+/e
+
+/s
+I'll be prepared. Can you tell me anything more about the area?
+/t
+충분히 마음의 준비를 하겠습니다. 그 지역에 대해서 더 알려주실 수 있나요?
+/e
+
+/s
+Lychcroft Mere is a salt swamp, usually filed with animals and the occasional thug. These Risen are an unexpected intrusion.
+/t
+Lychcroft Mere는 염분이 높은 늪지대입니다. 보통 동물들이 많고 가끔 깡패들이 보이죠. Risen의 침략은 예상치 못한것이였습니다.
+/e
+
+/s
+Good to know, I'll meet you there, Josir.
+/t
+잘 알겠습니다. 거기서 뵙겠습니다 Josir.
+/e
+
+/s
+I know what I'm doing.
+/t
+제가 뭘해야하는지 알고있습니다. 
+/e
+
+/s
+Logan needs a favor. There are three Orders of Tyria: the Durmand Priory, the Order of Whispers, and the Vigil.
+/t
+Logan이 나의 도움을 필요로 한다. 티리아에는 세개의 기관이 있다: Durmand Priory, Order of Whispers, 그리고 Vigil. 
+/e
+
+/s
+The Priory and Vigil are arguing over jurisdiction in a private investigation.
+/t
+Priory와 Vigil은 민간조사의 관할구역에 대해서 다투고있다. 
+/e
+
+/s
+Logan asked me to be an arbitrator between the two groups.
+/t
+Logan은 내가 그 두 단체의 중재자로써 활동하기를 원했다.
+/e
+
+/s
+Villagers around Lychcroft Mere often go into the swamp and gather moss to burn in the fireplace.
+/t
+Lychcroft Mere의 마을주민들은 종종 늪지대로 들어가서 장작으로 쓸 이끼들을 가지고 온다. 
+/e
+
+/s
+Logan says the undead roam the swamp. If that's true, those villagers could be in great danger. I'd better look into it.
+/t
+Logan이 말하길 늪지대에 언데들들이 나타난다고 한다. 그게 사실이라면 마을주민들이 위험하다. 집적 조사애야할것 같다. 
+/e
+
+/s
+Search the swamp for survivors of the undead attacks.
+/t
+늪지대에서 언데드의 공격에 살아남은 생존자들을 찾으세요.
+/e
+
+/s
+Meet Crusader Hiroki in Lychcroft Mere
+/t
+Lychcroft Mere 에서 크루세이더 Hiroki를 만나세요.
+/e
+
+/s
+Look for survivors hiding in the swamp
+/t
+늪지대안에 숨어있는 생존자들을 찾으세요.
+/e
+
+/s
+Defeat the undead attackers
+/t
+언데드의 공격을 물리치세요.
+/e
+
+/s
+Lead the children to the evacuation point
+/t
+아이들을 대피장소까지 이끌어가세요.
+/e
+
+/s
+Confer with the Orders.
+/t
+단체와 상의하세요.
+/e
+
+/s
+Meet with the Order representatives in the Salma District.
+/t
+Salma District 에서 단체의 대표들과 만나세요.
+/e
+
+/s
+Talk to Hiroki and Ihan.
+/t
+Hiroki와 Ihan과 대화하세요
+/e
+
+/s
+Crusader Hiroki: The rumors were true. This place is infested with undead. Better we stay unseen.
+/t
+크루세이더 Hiroki: 소문이 사실이였군요. 이 지역은 언데드가 가득합니다. 가능하면 발각되지 않는게 좋겠네요.
+/e
+
+/s
+Crusader Hiroki: Glad to see you, Advocate, but I wish I had better news. We've got a problem.
+/t
+크루세이도 Hiroki: 잘 오셨습니다 대변인. 하지만 나쁜소식을 전해드려야할것 같습니다. 문제가 생겼어요. 
+/e
+
+/s
+Crusader Hiroki: The Vigil squad sent to meet us had been overrun during the initial sweep of the swamp. The area's crawling with hostiles.
+/t
+크루세이더 Hiroki: 먼저 1차적으로 늪지대를 정리하고 여기서 합류하기로 한 Vigil의 부대가 당했습니다. 늪지대에는 적으로 가득합니다.
+/e
+
+/s
+Crusader Hiroki: The children are still out there, and now my soldiers are in jeopardy as well. It's down to you and me.
+/t
+크루세이더 Hiroki: 아이들이 아직 늪지대에 있는데다 제 병사들도 생사가 불분명합니다. 이제 당신과 저의 손에 달렸습니다.
+/e
+
+/s
+Don't worry, Hiroki. I can handle myself in a fight. If you're willing, we can rescue your soldiers, and then find those kids.
+/t
+나: 걱정마세요 Hiroki. 저도 싸움에는 일가견이 있습니다. 당신이 할 의지가 있다면 당신의 병사들을 구출하고 아이들을 찾을수 있습니다.
+/e
+
+/s
+Crusader Hiroki: Your courage does you credit. Vigil soldiers are well-trained, dedicated, and determined to defend Tyria. You'd fit right in.
+/t
+크루세이더 Hiroki: 당신의 용기에 찬사를 보냅니다. Vigil 병사들 티리아의 수호를 위해 고도로 훈련되어 있고 헌신적이죠. 당신이라면 저희 단체에 어울릴것 같네요.
+/e
+
+/s
+Crusader Hiroki: If my squad followed protocol, they'll have dug in to wait for reinforcements. We'll need to look for a makeshift bunker.
+/t
+크루세이더 Hiroki: 제 부대원들이 배운대로 규율에 따랐다면 지원이 올때까지 땅을 파서 숨어있을겁니다. 그러면 임시벙커의 흔적을 찾아다녀야 하겠군요.
+/e
+
+/s
+Then that is what we'll do. I'm ready to move out when you are.
+/t
+나: 그러면 그렇게 하도록 하죠. 당신이 준비되면 나가도록 하죠.
+/e
+
+/s
+Crusader Hiroki: There's no time to waste. If we want to find those children, and my soldiers, we have to hurry.
+/t
+크루세이더 Hiroki: 낭비할 시간이 없습니다. 아이들과 제 병사들을 찾으려면 서둘러야합니다.
+/e
+
+/s
+Then let's go. I'll lead the way.
+/t
+그럼 가도록 하죠. 뒤를 따라가겠습니다. 
+/e
+
+/s
+Crusader Hiroki: The undead don't gather like this without cause. I can only imagine what horror was behind this.
+/t
+크루세이더 Hiroki: 언데드들이 이유없이 이렇게 모여있을수 없습니다. 어떤 끔찍한자가 이 일을 일으켰는지 상상도 안가네요.
+/e
+
+/s
+Crusader Hiroki: Hurry. If there are undead here, the children are in grave danger.
+/t
+크루세이더 Hiroki: 서두르세요. 언데드들이 여기 있다면 아이들이 큰 위험에 빠졌을겁니다.
+/e
+
+/s
+Crusader Hiroki: It's hard to believe anyone could survive here for long.
+/t
+크루세이더 Hiroki: 이 상황에 이렇게 오랫동안 생존할 사람이 있을거라곤 상상도 못했습니다.
+/e
+
+/s
+Tactician Sarrena: Warmaster. Thank the Pale Tree. We're over here!
+/t
+전술가 Sarrena: 워마스터. Pale Tree 님이여 감사합니다. 우린 여기 있어요!
+/e
+
+/s
+Tactician Sarrena: Crusader Hiroki! Thank the Pale Tree, you're a sight for sore eyes!
+/t
+전술가 Sarrena: 크루세이더 Hiroki님! Pale Tree여 감사합니다, 다시 보게 되어서 정말 좋군요!
+/e
+
+/s
+Crusader Hiroki: It's good to see you're still alive, Sarrena. What's the status of your troops?
+/t
+크루세이더 Hiroki: Sarrena, 다행이 살아있었군요. 현재 당신들의 상황은 어떻습니까?
+/e
+
+/s
+Tactician Sarrena: We found several children hiding in the swamp. As we were helping them, we were overrun. We dug in here to repel an undead attack.
+/t
+전술가 Sarrena: 늪지대에 숨어있는 아이를 여럿 발견했습니다. 아이들을 도와주려고 할때 저희가 공격당했습니다. 그래서 저희는 언데드의 공격을 피하기 위해 이곳을 파서 숨었고요.
+/e
+
+/s
+Tactician Sarrena: It's not going well, Crusader. The Risen have pinned us down and inflicted heavy casualties. As the commander of this unit, I take full responsibilities.
+/t
+전술가 Sarrena: 상황이 좋지않습니다. 저희는 Risen 때문에 꼼짝도 못하는데다 몇몇은 중상까지 입었습니다. 이 일은 지휘관인 제가 책임을 지겠습니다. 
+/e
+
+/s
+Crusader Hiroki: Remember your oath, Sarrena. Your soldiers swore to protect the innocent, and that's exactly what they did.
+/t
+크루세이더 Hiroki: 당신의 맹약을 기억하세요 Sarrena. 당신들의 부하는 무고한자들을 지키겠다고 맹세하였으며 그들은 맹세한대로 행했습니다.
+/e
+
+/s
+Crusader Hiroki: We are the light in the darkness. The soldiers in your command died with honor.
+/t
+크루세이도 Hiroki: 이러한 어둠속에 저희는 희망의 빛입니다. 당신의 부하들은 명예스럽게 죽었어요.
+/e
+
+/s
+What do we do now, Hiroki? Head back out of the swamp?
+/t
+나: 이제 여기서 뭘해야 하죠 Hiroki? 늪지대를 벗어나면 되나요?
+/e
+
+/s
+Crusader Hiroki: This isn't over yet, Advocate. Not while there are still people lost in the swamp out there. The mission will go on.
+/t
+크루세이더 Hiroki: 대변인, 아직 끝나지 않았습니다. 아직 늪지대에 실종된 사람들이 아직 남아있어요. 임무는 계속 진행합니다. 
+/e
+
+/s
+Crusader Hiroki: The children are our top priority. We'll hold off the undead, and when their lines break, we'll get the children to safety. Tactician?
+/t
+크루세이도 Hiroki: 아이들이 우선이다. 언데드들을 물리치고 그들의 전선이 약해젔을때 아이들을 안전한 곳으로 이동한다. 지휘관?
+/e
+
+/s
+Tactician Sarrena: You heard the Crusader! Vigil, form a defensive perimeter. You two, take the east. You two, the west! Eyes sharp!
+/t
+전술가 Sarrena: 크루세이더님의 말을 들었나! Vigil들이여, 방어전선을 구축해라. 너희 둘, 동쪽을 맞아라. 너희 둘은 서쪽을 맞아! 곙계를 게흘리하지 마라!
+/e
+
+/s
+Crusader Hiroki: The advocate and I will cover the center. Move out!
+/t
+크루세이더 Hiroki: 대변인과 내가 중앙을 맡겠다. 각자 위치로 이동!
+/e
+
+/s
+Child: Please! Help me! Don't let them eat me!
+/t
+어린아이: 제발 도와주세요! 저것들이 날 잡아먹지 않게 해주세요!
+/e
+
+/s
+I won't let anyone harm you. I swear it by Dwayna!
+/t
+Dwayna님에게 맹세하건데 아무도 너희를 다치게 하지 않을거야!
+/e
+
+/s
+Tactician Sarrena: No time to worry about my wounds. Just protect them!
+/t
+전술가 Sarrena: 제 부상은 염려하지 마세요. 일단 저들을 보호하세요.
+/e
+
+/s
+I'll do my best, Sarrena. Hang in there.
+/t
+최선을 다하겠습니다 Sarrena. 그러니 최대한 버텨주세요.
+/e
+
+/s
+Vigil Recruit: What's wrong, little one? Scared, or just green?
+/t
+Vigil 신병: 아이야, 괜찮니? 얼굴이 시퍼렇게 됬는데 혹시 무서운거니?
+/e
+
+/s
+Tactician Sarrena: And what, pray tell, is wrong with being green?
+/t
+전술가 Sarrena: 얼굴이 파란색인게 뭐가 문제인지 말해주겠나? 
+/e
+
+/s
+Vigil Recruit: Uh...nothing, ma'am. It's just a turn of phrase.
+/t
+Vigil 신병: 음...아닙니다. 그냥 표현이 그렇다는거에요. 
+/e
+
+/s
+Vigil Recruit: Turn your "phrase" to battle, soldier. Here they come!
+/t
+Vigil 신병: 표현이고 뭐고 일단 전투나 준비해. 그들이 온다!
+/e
+
+/s
+Vigil Recruit: Incoming! Incoming! Too many to count!
+/t
+Vigil 신병: 적입니다! 적의 공격이에요! 셀수 없을 정도로 많아요!
+/e
+
+/s
+Vigil Recruit: You're a big help. What kind of asura can't count.
+/t
+Vigil 신병: 참 도움도 되는 말이다. 어떤 아수라족이 숫자셀주도 모르냐!
+/e
+
+/s
+Crusader Hiroki: Ready your weapons, not your sarcasm, you idiots! Incoming!
+/t
+크루세이더 Hiroki: 빈정대지말고 전투나 준비해 이 바보들아! 적이온다!
+/e
+
+/s
+Vigil Recruit: They're closing from all sides. We're done for!
+/t
+Vigil 신병: 적들이 사방에서 오고있습니다! 우린 이제 끝났어!
+/e
+
+/s
+Tactician Sarrena: Don't give up! Hiroki will see us through!
+/t
+전술가 Sarrena: 포기하지마라! Hiroki님이 우리를 도와주실거다!
+/e
+
+/s
+Crusader Hiroki: Mouths shut, eyes open, soldiers.
+/t
+크루세이더 Hiroki: 일단 입닥치고 조심해.
+/e
+
+/s
+Tactician Sarrena: Medic! I need a medic, I'm wounded.
+/t
+전술가 Sarrena: 의무병! 의무병이 필요하다, 내가 부상을 입었어!
+/e
+
+/s
+Vigil Recruit: Hamar, no! He isn't moving, Crusader. They killed him.
+/t
+Vigil 신병: 안돼, Hamar! 움직임이 없습니다, 크루세이더님. 저들이 얘를 죽였어요.
+/e
+
+/s
+The undead are falling back! Their lines are broken! We've won!
+/t
+나: 언데드들이 물러납니다! 저들의 전선이 흩어집니다! 우리가 이겼어요!
+/e
+
+/s
+Crusader Hiroki: This is our chance to get the children out. Soldier, what's Tactician Sarrena's status? Is she badly injured?
+/t
+크루세이더 Hiroki: 지금이 아이들을 구출할때다. 병사들, Sarrena의 상태는 어떤가? 부상이 심각한가?
+/e
+
+/s
+Vigil Recruit: She's conscious, Crusader, but in a rough shape. I'm no expert on sylvari, but it looks pretty bad.
+/t
+Vigil 신병: 아직 정신을 잃진 않았지만 좋은 상황은 아닙니다. 제가 실바리족을 잘 아는건 아니지만 별로 좋은상태는 아닌것 같네요.
+/e
+
+/s
+Tactician Sarrena: Leave me. I'm not afraid to die. I gave my oath.
+/t
+전술가 Sarrena: 저를 두고 가세요. 전 저의 맹세처럼 죽음이 두렵지 않습니다. 
+/e
+
+/s
+Crusader Hiroki: The Vigil doesn't leave anyone behind, Sarrena. You don't have permission to die, do you hear me?
+/t
+크루세이더 Hiroki: Vigil은 동료를 두고 가지 않습니다 Sarrena. 내 허락없이 죽지못해요, 알겠습니까?
+/e
+
+/s
+Tactician Sarrena: I hear you, Crusader. And...thank you.
+/t
+전술가 Sarrena: 알겠습니다 크루세이더. 그리고...감사합니다.
+/e
+
+/s
+We can go out the way we came in. Move fast, keep the children together, and don't stop unless you absolutely have to.
+/t
+나: 우리가 왔던 길로 나갈수 있습니다. 아이들을 잘 모아서 빨리 움직이고, 정말 어쩔수 없지 않는이상 멈추지마세요. 
+/e
+
+/s
+Crusader Hiroki: Agreed. Vigil! Move out!
+/t
+크루세이더 Hiroki: 동의합니다. Vigil 병사들이여! 움직이자!
+/e
+
+/s
+Vigil Recruit: I can't believe we made it out. Sarrena, you're hurt.
+/t
+Vigil 신병: 빠져나온게 믿기지가 않네요. Sarrena, 부상당했군요. 
+/e
+
+/s
+Tactician Sarrena: Don't worry about me. Worry about the children.
+/t
+전술가 Sarrena: 저는 걱정마세요. 일단 아이들부터 돌봐주세요.
+/e
+
+/s
+Crusader Hiroki: Worry about both. Do what you can for her wounds, Owt. We'll carry Sarrena if we have to.
+/t
+크루세이더 Hiroki: 둘다 돌봐줘. 그녀의 부상에 대해 할수 있는 모든것을 하도록 해. 필요하다면 우리가 Sarrena를 들고 가겠어.
+/e
+
+/s
+Crusader Hiroki: Let's go! We don't have much time before those undead return-in number.
+/t
+크루세이더 Hiroki: 다들 움직이자! 언데드들이 다시 숫자를 늘려 다시오기까지 많은 시간이 남지 않았다. 
+/e
+
+/s
+Tactician Sarrena: Your quick thinking saved these children. The Vigil could use a soldier like you.
+/t
+전술가 Sarrena: 당신의 빠른 판단이 아이들을 살렸습니다. Vigil에 당신같은 병사가 있으면 좋겠네요. 
+/e
+
+/s
+Are you all right? Will you...regrow?
+/t
+괜찮습니까? 그...다시 자라나나요?
+/e
+
+/s
+What? Oh, my wounds? Yes, I'll heal, thank you. We sylvari are a hardy race, even if we don't look like it.
+/t
+네? 아, 제 부상이요? 네, 괜찮아질거에요, 감사합니다. 우리 실바리들은 보이는것과 달리 상당히 강하답니다. 
+/e
+
+/s
+How did you get involved with the Vigil?
+/t
+어쩌다가 Vigil에 들어가게 되셨나요?
+/e
+
+/s
+From awakening, the sylvari know we must fight the dragons. The Vigil gives me that opportunity. I'm honored to be here.
+/t
+저희는 깨어나자마자 드래곤들을 상대로 싸워야한다는걸 알고 있어요. Vigil은 그런 기회를 저에게 주었고요. 이 자리에 있는건 영광이랍니다.
+/e
+
+/s
+Awakening? Is that the sylvari version of being born?
+/t
+깨어난다고요? 그게 실바리에서 태어난다는 뜻인가요?
+/e
+
+/s
+Yes, exactly. We step, fully-formed, from the Pale Tree. How are you humans made?
+/t
+네, 그래요. 우리는 Pale Tree에서 만들어져서 나와요. 인간은 어떻게 해서 만들어지나요?
+/e
+
+/s
+That's very interesting. May I ask you another question?
+/t
+흥미롭군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+Good-bye.
+/t
+안녕히계세요.
+/e
+
+/s
+I'm glad you'll be all right, Sarrena. Get some rest.
+/t
+괜찮아질거라니 다행입니다. 좀 쉬세요.
+/e
+
+/s
+Er...let's discuss this some other time, Sarrena. Get some rest.
+/t
+어...다음 기회에 이야기 하죠. 좀 쉬세요.
+/e
+
+/s
+Child: You're my very brand new hero! I used to like the Seraph, but after I saw that man with the undead—I don't like them anymore!
+/t
+어린아이: 와, 저에게 새로운 영웅이 생긴것 같아요! 원래 세라프를 좋아했는데, 언데드와 함께하는거 보고 싫어하게 되었어요!
+/e
+
+/s
+Whoa there, little one. What Seraph?
+/t
+어, 잠시만 꼬마야. 세라프라니?
+/e
+
+/s
+The bad man in the swamp! He was wearing Seraph armor, and muttering to himself, and he was really scary. I think the undead came to talk to him.
+/t
+늪지대에 나쁜사람이요! 세라프 갑옷을 입고 중얼거렸고, 정말 무서웠어요. 언데드가 그 사람에게 와서 이야기를 하는것 같았어요.
+/e
+
+/s
+Did you recognize this Seraph? Was he alive, like me, or was he like the Risen?
+/t
+그 세라프 병사를 잘 살펴봤어? 나 처럼 살아있었어? 아니면 Risen 같았어?
+/e
+
+/s
+Oh, he was alive. The undead didn't attack him, either. They just followed him around. Can I go home now?
+/t
+아, 살아있었어요. 그리고 언데드들이 그사람을 공격안하더라고요. 그냥 그 사람을 따라다녔어요. 저 이제 집에 가도 돼요?
+/e
+
+/s
+The Vigil will make sure you get home safe and sound. Good-bye, now.
+/t
+Vigil 사람들이 너를 집까지 안전하게 대려다 줄거야. 그럼 잘가.
+/e
+
+/s
+Crusader Hiroki: Without you, Advocate, my soldiers and these children would have been lost. We all owe you our lives.
+/t
+크루세이더 Hiroki: 대변인이 없었더라면 제 병사들과 어린아이들을 못찾았을겁니다. 우리 모두 당신에게 목숨의 빛졌어요.
+/e
+
+/s
+It was my honor to fight with the Vigil. Tell me how you came to join the Order.
+/t
+Vigil과 함께 싸워서 영광이였습니다. 어쩌다 이 기관에 들어오게 된거죠?
+/e
+
+/s
+I was raised in Kryta, but I joined the Ebon Vanguard hoping to do some good. I joined the Vigil when I realized that the dragons are a bigger threat than charr.
+/t
+저는 크라이타에서 자랐습니다. 하지만 뭔가 좋은일을 하고싶어서 Ebon Vanguard에 들어갔죠. Vigil에 들어간건 차르족보다 드래곤이 더 큰 위협이란걸 깨달았을때였습니다.
+/e
+
+/s
+But you don't fight for Kryta anymore. How do you justify that.
+/t
+그런데 이제 더 이상 크라이타를 위해 싸우지 않잖아요. 그걸 어떻게 정당화하죠?
+/e
+
+/s
+The battlefield changes how we see the world. Honorable charr. traitorous humans. In the end, what matters most is that Tyria survives.
+/t
+우리가 어떻게 세상을 바라보냐에 따라 전장은 바뀝니다. 명예로운 차르족이든 배반적인 인간족이든 결국 제일 중요한건 티리아가 살아남는겁니다.
+/e
+
+/s
+Do you mind if i ask you another question.
+/t
+다른 질문을 해도 될까요?
+/e
+
+/s
+Makes sense to me. Take care, Hiroki. I'll see you again soon.
+/t
+이해가가는군요. 수고하세요 Hiroki. 다음에 봅시다.
+/e
+
+/s
+Makes sense to me. Thank you, Hiroki.
+/t
+이해가가는구요. 감사합니다 Hiroki
+/e
+
+/s
+I'm just glad that both the Vigil squad and the children are safe.
+/t
+그저 Vigil 부대와 아이들이 안전한게 다행입니다.
+/e
+
+/s
+We're safe, but I must make sure the healers tend to Crusader Sarrena's wounds. Luckily, she's sylvari.
+/t
+저희는 안전합니다, 하지만 힐러들이 크루세이더 Sarrena의 부상을 확실하게 살펴보게 해야하겠습니다. 그래도 다행인건 그녀가 실바리족인거네요.
+/e
+
+/s
+What do you mean, "luckily she's sylvari?"
+/t
+그녀가 실바리 족인게 다행이라니 무슨 뜻이죠?
+/e
+
+/s
+Sylvari aren't affected by Zhaitan’s corruption like the other races. Where we come back from the dead to serve Zhaitan, they simply die.
+/t
+실바리족들은 다른종족과는 달리 Zhaitan의 타락에 영향을 받지않습니다. 일반적으로 저희가 죽은후에 Zhaitian을 섬긴다면 그들은 그냥 죽지요. 
+/e
+
+/s
+That's very interesting. May I ask you another question?
+/t
+참 흥미롭군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+I've never heard of such a thing. That's amazing. Does anyone know why?
+/t
+처음듣는 이야기군요. 정말 놀라운 이야깁니다. 이유가 있나요?
+/e
+
+/s
+It's a mystery, even to the scholars of the Priory. Personally, I think the goddess Melandru created the sylvari to fight by our side. They certainly are a blessing!
+/t
+Priory 의 학자들도 못알아낸 미스테리죠. 개인적인 생각으로는 Melandru 여신님이 저희들 편에 서서 싸우라고 실바리족들을 만든것 같습니다. 그들이 있어서 참으로 다행이죠.
+/e
+
+/s
+Wow. Interesting! Thank you for the information, Hiroki.
+/t
+오, 정말 흥미롭습니다! 정보 감사합니다, Hiroki.
+/e
+
+/s
+Crusader Hiroki: We need to deal the undead a decisive blow. Remove the army, and we remove the threat.
+/t
+크루세이더 Hiroki: 결정적인 공격으로 언데드들을 처리해야합니다. 그들의 군대를 처리하고 위험을 제거하죠.
+/e
+
+/s
+Agent Ihan: There's an intelligence to their movements. We need to discover the root of the problem—not just follow them from fight to fight.
+/t
+요원 Ihan: 그들은 지능적으로 움직입니다. 단순히 그들을 찾아 싸우기보다 문제의 근원을 찾아야할 필요가 있어요.
+/e
+
+/s
+Crusader Hiroki: At the cost of lives? The undead are attacking now. If we sit idle, people will die.
+/t
+크루세이더 Hiroki: 사람 목숨을 대가로 말입니까? 언데드들은 지금 공격하고 있어요. 우리가 그냥 손놓고 그냥 있다면 사람들은 죽을거에요.
+/e
+
+/s
+Logan Thackeray: Queen Jennah said you'd be able to soothe their ruffled feathers. For your sake, I hope she's right.
+/t
+Logan Thackeray: Jennah 여왕님이라면 당신이 그들의 충돌을 해결할수 있을거라 하더군요. 당신을 위해서 그녀의 말이 맞기를 바랍니다.
+/e
+
+/s
+I'll do my best.
+/t
+최선을 다하겠습니다.
+/e
+
+/s
+Logan Thackeray: Advocate! The Representatives have reported your success. Well done.
+/t
+Logan Thackeray: 대변인! 기관의 대표들이 당신의 성공을 보고하더군요. 잘하셨습니다.
+/e
+
+/s
+Thank you, Logan. I'm glad we saved the children, but the undead are still a problem.
+/t
+나: 감사합니다 Logan. 아이들을 구해서 다행이지만 아직 언데드 문제가 남아있습니다.
+/e
+
+/s
+Scholar Josir: I'm told the children saw a Seraph soldier in the swamp—and their stories were quite appalling. They were as frightened of him as of the undead.
+/t
+학자 Josir: 아이들이 말하기를 늪지대에 세라프 병사를 보았다고 하더군요. 그들이 이야기를 들어보니 간담이 서늘하더군요. 언데드만큼이나 그를 무서워하더랍니다. 
+/e
+
+/s
+Scholar Josir: If this was that soldier, the children say he's become violent and incoherent. They also say that the undead weren't attacking him.
+/t
+학자 Josir: 아이들이 말하기를 그 병사는 난폭하고 알아들을 수 없는 말을 한다고 하더군요. 그리고 언데드들이 그를 공격하지 않았다고 합니다.
+/e
+
+/s
+There aren't any Seraph outposts in Lychcroft Mere. What's a lone soldier doing out there?
+/t
+나: Lychcroft Mere에는 세라프의 전초기지가 없습니다. 병사혼자 거기서 뭘하고 있던거요?
+/e
+
+/s
+Logan Thackeray: According to Seraph reports, a corporal named Kellach didn't report for duty. I'd assumed he was AWOL in Lion's Arch, but maybe there's more to it.
+/t
+Logan Thackeray: 세라프의 보고에따르면 Kellach라는 이름을 가진 상등병이 임무보고를 하러 오지 않았다고 하군요. 단순히 Lion's Arch에서 탈영한걸로 추정했는데, 뭔가 더 있을거라고 생각되는군요.
+/e
+
+/s
+This Kellach could be under Zhaitan's influence. Could he be inciting the Risen, and making them more aggressive? Maybe he's a necromancer?
+/t
+나: 이 Kellach라는 자가 Zhaitain의 영향아래 있을수도 있습니다. 그가 Risen을 더 난폭하게 행동하도록 부추기는걸까요? 혹시 그가 네크로맨서일까요?
+/e
+
+/s
+Crusader Hiroki: We don't have time for theories, Advocate. Vigil scouts marked more undead approaching the town of Triskell Quay. The corruption is spreading.
+/t
+크루세이더 Hiroki: 대변인, 이론에 대해 이야기할 시간이 없습니다. Vigil 정찰대들이 Triskell Quay 마을로 다가오는 언데드들을 더 찾아냈습니다. 타락이 더욱더 퍼지고 있어요.
+/e
+
+/s
+Agent Ihan: If so, then Triskell Quay is just a symptom. Whatever's drawing the undead inland will continue to do so even if we save the town.
+/t
+요원 Ihan: 그렇다면 Triskell Quay는 단순한 징후입니다. 마을을 구하더라도 그들을 끌어들이는 무언가가 있다면 다시 공격하겠죠.
+/e
+
+/s
+Agent Ihan: We should investigate what happened to Kellach. He may be the key to these attacks. Until we know what's going on, we're just plugging leaks.
+/t
+요원 Ihan: Kellach에게 무슨일이 일어났는지에 대해 알아봐야 한다고 생각합니다. 그가 이 공격의 중요인물일수도 있어요. 무슨일이 일어나고 있는지 모르면 밑 빠진 독에 물 붓기에요.
+/e
+
+/s
+Crusader Hiroki: You want to go on a wild goose chase, Ihan? Fine. But don't risk Triskell Quay! We need soldiers to defend the town, or people will die.
+/t
+크루세이더 Hiroki: 뜬구름을 잡고 싶은건가요 Ihan? 그렇게 하세요. 하지만 Trisekll Quay를 위험하게 하지마세요! 마을을 지키기 위해 병사가 필요합니다, 안그러면 사람들이 죽을거에요.
+/e
+
+/s
+Agent Ihan: A few will die now, but we'd be saving many in the long run. The Order of Whispers is prepared to make that exchange.
+/t
+요원 Ihan: 지금은 몇명이 죽을 겁니다, 하지만 장기적으로 보면 더 많은 사람들이 살겁니다. Order of Whispers는 대를 위해 소를 희생할 준비가 되어있습니다.
+/e
+
+/s
+Logan Thackeray: It's a good thing that the decision's not up to you two. Advocate, it's in your hands.
+/t
+Logan Thackeary: 결정이 당신 둘에게 있는게 아닌게 다행이군요. 대변인, 당신의 결정을 기다리겠습니다.
+/e
+
+/s
+Scholar Josir: I have every faith that you will make a wise decision. For my part, I will see if the Priory archives can cast some light on this situation. Good luck.
+/t
+학자 Josir: 당신이라면 현명한 결저을 내릴거라고 믿습니다. 이 상황에 뭔가 도울수 있는게 있는지 Priory의 기록보관소에 가보겠습니다. 행운을 빕니다.
+/e
+
+/s
+What else can you tell me about the Seraph, Kellach?
+/t
+세라프병사 Kellach에 대해서 알려주실수 있는게 있나요?
+/e
+
+/s
+The name is unfamiliar, but I'm sure the Durmand Priory will have records of him.
+/t
+잘 모르겠군요, 하지만 Durmand Priory라면 그에대한 기록이 있을겁니다.
+/e
+
+/s
+I can wait. May I ask another question?
+/t
+기다리겠습니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+I look forward to hearing anything you find out. Thanks, Josir.
+/t
+찾아낼 기록에 대해 듣기를 기대하겠습니다. 감사합니다 Josir.
+/e
+
+/s
+Can you tell me more about Triskell Quay?
+/t
+Triskell Quay에 대해서 좀 알려주실수 있나요?
+/e
+
+/s
+That notorious pirate haven! It's on the eastern shore of Viathan Lake. Look for the massive docks.
+/t
+악명높은 해적의 안식처이죠! Viathan Lake의 동쪽 호숫가에 있습니다. 엄청 큰 부두를 찾으시면 될겁니다.
+/e
+
+/s
+Thanks for the directions, Josir.
+/t
+길을 알려주셔셔 감사합니다 Josir.
+/e
+
+/s
+It won't be as much fun without you, Josir.
+/t
+당신이 없으면 참 심심할겁니다 Josir.
+/e
+
+/s
+Fun? You flatter me, Advocate. I'll look into it while you're gone, and have something for you soon.
+/t
+재미요? 빈말이라도 감사합니다. 당신이 자리에 없을때 기록을 찾아보고 곧 알려드리겠습니다.
+/e
+
+/s
+look forward to it. Thanks, Josir.
+/t
+기대하겠습니다. 고마워요 Josir.
+/e
+
+/s
+Do your best to find information on Kellach. Lives may depend on it.
+/t
+Kellach 에 대해서 최대한 찾아봐주세요. 사람의 목숨이 달려있습니다.
+/e
+
+/s
+There must be records, letters—something to tell us what he was doing in Lychcroft Mere. I'll give it my all.
+/t
+분명히 그가 Lychcroft Mere에서 뭘 하고 있었는지에 대한 기록이나 편지가 있을겁니다. 최선을 다해 찾아볼께요.
+/e
+
+/s
+Thank you. I'll speak with you soon, Josir.
+/t
+감사합니다. 곧 다시 이야기하죠 Josir.
+/e
+
+/s
+Is the Priory chickening out?
+/t
+Priory는 겁이나서 빠져나가는겁니까?
+/e
+
+/s
+Don't put it that way, I implore you. I'm just not cut out for heavy lifting!
+/t
+제발 그렇게 말씀하지 말아주세요. 전 힘쓰는 일에는 젬병입니다. 
+/e
+
+/s
+I hope you find something to justify your timidity. We'll talk again soon.
+/t
+그 소심한 자세를 정당화할 중한 정보를 알아와주길 바랍니다. 조만간 이야기하죠.
+/e
+
+/s
+I hope they can. Thank you, Josir.
+/t
+도움이될 기록물이 있기를 바랍니다. 감사합니다 Josir.
+/e
+
+/s
+Agent Ihan: We need your decision. Do you choose to go with the Vigil, or to go with the Order of Whispers?
+/t
+요원 Ihan: 결정이 필요합니다. Vigil과 함께하시겠습니까? 아니면 Order of Whispers와 함께하시겠습니까?
+/e
+
+/s
+Is it typical strategy for the Order of Whispers to sneak around, working beneath the surface?
+/t
+Order of Whispers에는 표면아래에서 은밀히 활동하는게 보통입니까?
+/e
+
+/s
+It is. No use charging into battle if you don't know what you're up against. We'll need cunning to defeat the dragons.
+/t
+네, 그렇습니다. 적에대한 정보없이 전쟁을 치루는건 소용없습니다. 드래곤을 상대하기 위해서는 교활해야할 필요가 있습니다.
+/e
+
+/s
+I need some more time before I decide.
+/t
+결정을 위해 시간이 좀 필요합니다.
+/e
+
+/s
+Can you remind me about the choices again, please?
+/t
+저에게 주어진 선택지가 뭔지 다시 이야기 해주시겠어요?
+/e
+
+/s
+You can go with the Vigil to Triskell Quay, or you can help the Order of Whispers track down the mysterious soldier.
+/t
+Vigil과 함께 Triskell Quay에 가실수 있거나 아니면 Order of Whispers를 도와 그 수상한 병사를 추적하실수 있습니다.
+/e
+
+/s
+Thanks for the summary. Can I ask another question?
+/t
+요약 감사합니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+I need a little more time to decide.
+/t
+결정을 위해 시간이 좀 더 필요합니다.
+/e
+
+/s
+Do you go with the Order of Whispers?
+/t
+Order of Whispers와 함께 하시겠습니까?
+/e
+
+/s
+Yes. We need to know where that soldier's headed.
+/t
+네, 그 병사가 어디를 가는지 알아야 할 필요가 있습니다.
+/e
+
+/s
+Excellent choice, Advocate. You'll be very pleased with your decision.
+/t
+훌륭한 선택입니다 대변인. 당신의 선택에 후회는 없을겁니다. 
+/e
+
+/s
+I hope so. I'll see you there, Ihan.
+/t
+그러길 바랍니다. 거기서 뵙겠습니다 Ihan.
+/e
+
+/s
+I need more time to decide.
+/t
+결정에 시간이 더 필요합니다.
+/e
+
+/s
+I'm still thinking about it.
+/t
+아직 생각중입니다.
+/e
+
+/s
+Crusader Hiroki: We need your decision. Do you choose to go with the Vigil, or to go with the Order of Whispers?
+/t
+크루세이더 Hiroki: 결정이 필요합니다. Vigil과 함께하시겠습니까? 아니면 Order of Whispers와 함께하시겠습니까?
+/e
+
+/s
+Is this Vigil's typical strategy? Gather soldiers, attack target?
+/t
+이게 보편적인 Vigil의 전략입니까? 병사를 모아서 목표를 공격하는게?
+/e
+
+/s
+Yes. We are a military order. We play to our strengths. There are few situations that a good broadsword can't handle.
+/t
+네. 저희는 군대로 이루어진 기관입니다. 저희는 힘을 장점으로 사용하죠. 제대로된 칼질에 해결하지 못할건 거의 없습니다. 
+/e
+
+/s
+Well, you can go with the Vigil to Triskell Quay, or you can help the Order of Whispers track down the mysterious soldier.
+/t
+뭐, Vigil과 함께 Triskell Quay에 가실수 있거나 아니면 Order of Whispers를 도와 그 수상한 병사를 추적하실수 있습니다.
+/e
+
+/s
+Good summary. Can I ask another question?
+/t
+간략해서 좋군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+Do you want to go with the Vigil?
+/t
+Vigil과 함께 하시겠습니까?
+/e
+
+/s
+Yes. The people of Triskell Quay need our help.
+/t
+내. Triskell Quay주민들이 저희의 도움을 필요로합니다.
+/e
+
+/s
+Glad to hear it! Meet me at Triskell Quay, and we'll face the Risen head-on.
+/t
+좋은 소식이군요! Triskell Quay에서 뵙도록 하죠. 그리고 Risen을 맞이하도록 하죠.
+/e
+
+/s
+Travel safely, and I'll see you there.
+/t
+조심해서 가세요, 거기서 뵙겠습니다.
+/e
+
+/s
+Agent Ihan: You chose with you heart, Advocate. That's all anyone can ask.
+/t
+요원 Ihan: 대변인, 가슴으로 결정을 내려주세요. 그것만 하시면됩니다.
+/e
+
+/s
+Thank you for understanding. Hiroki and I will defend Triskell Quay and then meet you back here.
+/t
+이해해주셔서 감사합니다. Hiroki와 저는 Triskell Quay를 방어하고 여기서 다시 뵙도록 하겠습니다. 
+/e
+
+/s
+Too bad. Well, I can't blame you. The Vigil seems so much more proactive than the rest of us, right? Good luck. And no hard feelings.
+/t
+아쉽군요. 그래도 이해합니다. Vigil은 저희와는 달리 더욱더 적극적이지 않습니까? 행운을 빕니다. 별 유감은 없으니 걱정마세요.
+/e
+
+/s
+Thanks, Ihan. I'll see you at Nebo Terrace afterwards.
+/t
+감사합니다 Ihan. 일이 끝나고 Nebo Terrace에서 만나죠.
+/e
+
+/s
+Crusader Hiroki: I'm glad you decided so quickly. Not going to change your mind, are you?
+/t
+크루세이더 Hiroki: 빨리 결정내려주셔서 감사합니다. 지금와서 결정을 바꾸실건 아니죠?
+/e
+
+/s
+Definitely not! I'm proud to go with the Vigil and save Triskell Quay.
+/t
+절대 아닙니다! Vigil과 함께 Triskell Quay를 구하는거에 대해 자랑스럽게 생각합니다.
+/e
+
+/s
+I appreciate your confidence. The people of Triskell Quay are scoundrels, but the dragons are far worse. We'll see you there.
+/t
+자신감에 감사드립니다. Trisekll Quay 주민들은 악당들이지만 드래곤이 훨씬 큰 문제이죠. 거기서 뵙겠습니다.
+/e
+
+/s
+Agreed. I'll meet you near Triskell Quay, Hiroki.
+/t
+동의합니다. Triskell Quay 근처에서 보도록 하죠 Hiroki.
+/e
+
+/s
+I accompanied the Vigil knights into Lychcroft Mere, where we found children hiding from the undead.
+/t
+나는 Vigil의 기사들과 함께 Lychcroft Mere에 동행했고 거기서 아이들이 언데들을 피해 숨어있는걸 발견했다.
+/e
+
+/s
+They'd seen a Seraph soldier in the swamp, doing something...creepy. I should consult with the rest of the Order representatives.
+/t
+그들은 늪지대에서 세라프 병사가 뭔가...기이한 일을 하는걸 보았다고 한다. 나머지 기관대표들과 함께 논의를 해야겠다.
+/e
+
+/s
+I met with the three orders and learned about a missing Seraph named Kellach. 
+/t
+나는 세 기관들을 만났고 실종된 병사의 이름이 Kellach라는걸 알아냈다.
+/e
+
+/s
+The Vigil and Order of Whispers each had their own ideas about what we should do next, but it was up to me to decide.
+/t
+Vigil과 Order of Whispers는 각자 다음에 해야할 계획을 세웠지만 최종적으로는 내가 결정을 내려야 했다. 
+/e
+
+/s
+Track the soldier, last seen heading northeast.
+/t
+마지막으로 동북쪽으로 향하는게 확인된 병사를 추적하세요
+/e
+
+/s
+Talk to Lionguard Keene at Overlake Haven.
+/t
+Overlake Haven에 있는 Lionguad인 Keene과 이야기하세요.
+/e
+
+/s
+Kellach was heading to Black Haven.
+/t
+Kellach 는 Black Haven을 향해가고 있었습니다.
+/e
+
+/s
+Meet Agent Ihan at Black Haven.
+/t
+Black Haven에 Ihan 요원을 만나세요
+/e
+
+/s
+Defeat the undead attacking Black Haven.
+/t
+Black Haven을 공격하는 언데드들을 물리치세요
+/e
+
+/s
+Defeat the undead abominations.
+/t
+Undead abomination들을 물리치세요
+/e
+
+/s
+Talk to Lionguard Williams.
+/t
+라이온가드 인 Willians와 이야기하세요
+/e
+
+/s
+Decide on your next course of action.
+/t
+당신의 다음 행동에 대해 결정해주세요. 
+/e
+
+/s
+Lionguard Keene: Ihan told me you'd be coming. He said to tell you that the bird flew from here to Black Haven. Does that mean anything to you?
+/t
+라이온가드 Keene: 오신다고 Ihan에게서 들었습니다. 여기서부터 Black Haven까지 새가 날아갔다고 말하면 된다는군요. 어떤 의미라도 있는겁니까?
+/e
+
+/s
+The bird has flown...? Oh! Spy talk! I get it. Thanks. I'll give your regards to Ihan at Kessex Haven.
+/t
+새가 날아갔....? 아! 스파이식의 대화군요! 이해했습니다. 고마워요. Kessex Haven에 있는 Ihan에게 안부를 전해드릴께요.
+/e
+
+/s
+How do you know Ihan?
+/t
+아떻게 하다 Ihan을 알게됬나요?
+/e
+
+/s
+We served together in Lion's Arch a few years ago. He...moved on. I stayed to serve the Commodore.
+/t
+몇년전에 저흰 Lion's Arch에서 같이 근무했습니다. 그는...다른곳으로 갔고 저는 총사령관님을 섬기고있죠.
+/e
+
+/s
+So you aren't a member of the...?
+/t
+그럼 당신은 그들과는...?
+/e
+
+/s
+Nah. I just help them out from time to time. They're in it for all of us, right?
+/t
+아니요. 전 그냥 그들을 가끔 도와드릴 뿐이에요. 그들은 우리 모두를 위해 일하니깐요. 
+/e
+
+/s
+Makes sense to me. I have another question.
+/t
+이해했습니다. 다른 질문이 있습니다.
+/e
+
+/s
+I must be going.
+/t
+이만 가봐야겠군요.
+/e
+
+/s
+I see. Good-bye.
+/t
+알겠습니다. 안녕히계세요.
+/e
+
+/s
+Can you tell me anything about the Orders of Tyria?
+/t
+티리아의 기관들 (Orders of Tyria)에 대해서 알려주실수 있나요?
+/e
+
+/s
+Each of them works to defeat the Elder Dragons, but in different ways. I just hope one of 'em finds a way to get it done.
+/t
+각 기관들은 자기들만의 방식으로 엘더드래곤들을 상대하려고 합니다. 누구든지 성공할 방법을 찾았으면 좋겠네요.
+/e
+
+/s
+Sounds like a good summary. I'd like to ask something else.
+/t
+이해하기 쉽게 요약해줘서 감사합니다. 다른걸 묻고 싶은데요.
+/e
+
+/s
+Me, too.
+/t
+저도 마찬가지입니다.
+/e
+
+/s
+No. Thanks anyway.
+/t
+아뇨, 어쨌든 감사합니다. 
+/e
+
+/s
+Agent Ihan: Hello, Advocate. You got here just in time. My contacts have spotted Kellach - and a host of Zhaitan's minions are following him.
+/t
+요원 Ihan: 대변인, 안녕하세요. 제시간에 오셨네요. 제 정보원이 Kellach를 발견했습니다. Zhaitan의 하수인들로 이루어진 무리가 그를 따르고 있더군요. 
+/e
+
+/s
+You know a lot, Ihan. It's like you have eyes and ears everywhere.
+/t
+나: 많은걸 알고있군요 Ihan. 사방에 눈과 귀가있는것 같습니다.
+/e
+
+/s
+Agent Ihan: The Order of Whispers knows a lot more than most people realize. We pay attention to everything. The more information we have, the more we can help.
+/t
+요원 Ihan: Order of Whispers는 사람들이 생각하는것 보다 더 많은걸 알고 있습니다. 우리는 모든것에 관심을 가지죠. 더 많은 정보를 가질수록 더 많은 도움을 줄 수 있으니깐요.
+/e
+
+/s
+Agent Ihan: The dragons don't care if you're charr, human, or hylek, so we can't afford to draw imaginary lines between nations.
+/t
+요원 Ihan: 드래곤은 차르든 인간이든 하일렉이든 상관안해요, 그러니 국가들간에 선을 그으면서 심력을 낭비하면 안되죠. 
+/e
+
+/s
+Agent Ihan: The Order keeps watch, so that no matter where Zhaitan's minions show up - we know about it.
+/t
+요원 Ihan: 저희들은 Zhaitian의 하수인들이 어디든지 나타나도 알 수 있도록 눈을 켜고 있습니다. 
+/e
+
+/s
+Agent Ihan: This one was easy. Kellach is leaving a trail like a forest fire, but that doesn't mean it will be easy to find the spark.
+/t
+요원 Ihan: 이건 별거 아니죠. Kellach는 산불처럼 흔적을 남기고 다닙니다. 물론 그 불똥을 찾는것 자체가 쉬운건 아니지만요.
+/e
+
+/s
+True. So do you think he's still here?
+/t
+나: 그건 그렇죠. 그럼 그는 아직 여기에 있을거라고 생각되나요?
+/e
+
+/s
+Agent Ihan: I can't say. And for the record, that's "I don't know," as opposed to "I can't tell you." I'm hoping the people at the haven can tell us something.
+/t
+요원 Ihan: 확실치 않습니다. 제대로 말씀드리자면 이건 "알려 드릴 수 없습니다" 가 아니라 "모르겠습니다" 라는 의미에요. 피난처의 사람들에게서 뭔가 알수 있으면 좋겠네요. 
+/e
+
+/s
+All right. We'll clean up Kellach's mess and see if we can find evidence that he's still in the area.
+/t
+나: 알겠습니다. 일단 Kellach의 뒷처리를 먼저 하고 그가 아직 해당지역에 있는지에 대한 증거를 찾도록 하죠.
+/e
+
+/s
+Agent Ihan: Kellach's leading those Risen across the countryside. The sooner we shut him down, the better.
+/t
+요원 Ihan: Kellach가 Risen을 이끌고 시골을 가로지르고 있습니다. 빨리 그를 막는게 더 좋을거에요.
+/e
+
+/s
+Agreed. Whatever he's doing, we have to find a way to stop it.
+/t
+동의합니다. 그가 무엇을 하고 있든 우리가 막아야합니다.
+/e
+
+/s
+Lionguard Williams: We've got abominations! Take 'em down!
+/t
+라이온가드 Williams: Abomination들이 옵니다! 쓰러뜨리세요!
+/e
+
+/s
+Lionguard Williams: I owe you one! I've been in the Lionguard for ten years and I've never seen anything like that.
+/t
+라이온가드 Williams: 도움 감사합니다! 라이온가드를 10년간 했지만 이런건 처음봅니다.
+/e
+
+/s
+I'm glad we came along in time. That was a close call.
+/t
+나: 같이 있어서 다행이였습니다. 정말 위험했어요.
+/e
+
+/s
+Was there a Seraph soldier among the undead?
+/t
+나: 언데드 사이에 세라프 병사가 있던가요?
+/e
+
+/s
+Lionguard Williams: Not among the Risen, no, but there was a Seraph that came along just before that. Wild-eyed fellow, kind of twitchy.
+/t
+라이온가드 Williams: 아니요, Risen사이에는 없었습니다. 하지만 그들이 오기 직전에 세라프 병사가 있었습니다. 야생적인 눈을 하며 불안해 하는 몸짓을 보이던 친구더군요. 
+/e
+
+/s
+Lionguard Williams: He was talking to himself the whole time, that's why I remember. Muttering about Orr and dragons, and somebody named Alastia Crow.
+/t
+라이온가드 Williams: 내내 혼잣말을 해서 기억합니다. 오르와 드래곤에 대해서 중얼거리고 있었고 Alastia Crow 라는 사람의 이름을 말하더군요.
+/e
+
+/s
+Agent Ihan: Crow? She's a seer. The pirates in this area go to her to find out what the weather'll be like. She's crew on a ship docked near Nebo Terrace.
+/t
+요원 Ihan: Crow? 그녀는 예언자입니다. 이 지역의 해적들은 날씨를 미리 알기위해 그녀를 방문하곤하지요. 그녀는 Nebo Terrace 근처의 부두에 정박해 있는 배의 일원입니다. 
+/e
+
+/s
+Agent Ihan: The Order of Whispers contracts her from time to time to predict the future. Maybe she saw something that drove Kellach mad.
+/t
+요한 Ihan: Order of Whispers는 간혹 미래를 예지하기위해 그녀와 계약을 했습니다. 그녀라면 뭐가 Kellach을 미치게 만들었는지 보았을수도 있어요.
+/e
+
+/s
+When we find Kellach, I swear, I'm going to stick a bag over his head, beat him with a shovel, and bury him in a hill of fire-ants.
+/t
+나: Kellach를 찾으면 반드시 머리에 자루를 씌우고 삽으로 두들겨 팬 다음 불개미집에 파묻어버릴거에요.
+/e
+
+/s
+Agent Ihan: Ha! I like the way you think, Advocate. I suppose we should get back and share this information with Hiroki and Josir.
+/t
+요한 Ihan: 하! 좋은 생각이네요. 일단 돌아가서 Hiroki와 Josir에게 이 정보를 공유해야할듯 합니다.
+/e
+
+/s
+You're right. Let's get going. We've got a lot of work to do if we're going to catch Kellach.
+/t
+나: 그래야겠네요. 이만 가도록 하죠. Kellach를 잡기위해 할일이 많습니다.
+/e
+
+/s
+Agent Ihan: We need to find Kellach and stop him before this carnage gets even more out of hand.
+/t
+요원 Ihan: 대학살이 더 심해지기전에 Kellach를 찾아 막아야합니다.
+/e
+
+/s
+The Lionguard mentioned someone called Alastia Crow. Any idea who that is?
+/t
+라이온가드가 Alastia Crow라는 사람을 말하더군요. 누군지 아십니까?
+/e
+
+/s
+She was a pirate and a troublemaker. Used to squeeze money from people by promising to read their futures.
+/t
+그녀는 해적이고 문제를 일으키는 말썽꾼이죠. 사람들에게 미래를 알려준다고 하며 돈을 갈취하곤 했습니다.
+/e
+
+/s
+Read the future? Could she really do that?
+/t
+미래를 읽는다고요? 정말로 그러나요?
+/e
+
+/s
+I didn't think so but considering how Kellach is acting I'll bet he believes her. Wonder what she saw...
+/t
+못한다고 생각했는데 Kellach의 반응을 보니 적어도 그는 그렇게 생각하나봅니다. 그녀가 무었을 봤는지 궁금하네요...
+/e
+
+/s
+Probably something bad. Can I ask another question?
+/t
+좋은걸 보진 않았을것 같네요. 다른 질문을 해도 되나요?
+/e
+
+/s
+Sounds like trouble. Come on, let's get back and tell the others.
+/t
+좋은소식은 아니네요. 가죠, 다른 사람들에게 소식을 들려줍시다.
+/e
+
+/s
+It'd be nice to solve this problem without risking more lives. Can the Order of Whispers do that?
+/t
+더 많은 목숨의 위험없이 이 문제를 해결했으면 좋겠네요. Order of Whispers라면 가능할까요?
+/e
+
+/s
+It depends what Kellach does next, but regardless we'll use all our cunning to stop him.
+/t
+Kellach의 다음행동에 따라 달라집니다. 어떻게 되었든 저희의 모든 힘을 다해 그를 막을겁니다.
+/e
+
+/s
+I'm glad to hear that, then.
+/t
+그렇게 말해줘서 다행입니다.
+/e
+
+/s
+Working with you has been enlightening, Ihan. The Order of Whispers seems very efficient.
+/t
+당신과 일하면서 개안을 했습니다 Ihan. Order of Whispers는 효율적인것 같네요.
+/e
+
+/s
+We have fewer agents than Vigil's soldiers, and our information is current and political—not based on musty old lore. Efficiency keeps us competitive.
+/t
+저희의 숫자는 Vigil의 병사들보다 적습니다. 그리고 저희는 고리타분한 설화가 아닌 정치적이고 가장 최근의 정보를 다르죠. 효율성이 저희의 경쟁력입니다.
+/e
+
+/s
+That makes a great deal of sense. Thank you.
+/t
+이해가 정말 잘 되네요. 감사합니다.
+/e
+
+/s
+We're close, Ihan. We'll have him soon.
+/t
+거의 다왔습니다 Ihan. 조만간 그를 잡을거에요.
+/e
+
+/s
+Lionguard Williams: Without your help our haven would've been overwhelmed. We owe you one!
+/t
+라이온가드 Williams: 당신의 도움이 없었따면 저희는 끝났을거에요. 신세를 졌습니다!
+/e
+
+/s
+That Seraph you saw with the Risen - was he alive or undead?
+/t
+당신이 본 Risen과 함께한 세라프 병사 말입니다, 그는 살아있던가요 아님 죽어있던가요?
+/e
+
+/s
+He looked alive to me. Wasn't rotting or anything. Just kept mumbling to himself like a madman.
+/t
+살아있는것으로 보였습니다. 어딘가 썩어있지도 않았고요. 단순이 미친사람처럼 중얼거리며 혼잣말을 하더군요. 
+/e
+
+/s
+Can I ask another question?
+/t
+다른 질문을 해도 될까요?
+/e
+
+/s
+Thanks for the information, Lionguard.
+/t
+정보 감사합니다, 라이온가드.
+/e
+
+/s
+Can you tell me more about Alastia Crow?
+/t
+Alastia Crow에 대해서 알려주실수 있나요?
+/e
+
+/s
+She sailed with the crew of the Ravenous. Never met her myself but I heard she was some kind of mystic.
+/t
+그녀는 Ravenous의 선원들과 함께 배를탔습니다. 만난적은 없지만 신비스로운 사람이라고 들었습니다.
+/e
+
+/s
+Mystic? You mean a spellcaster?
+/t
+신비스러워요? 마법사처럼요?
+/e
+
+/s
+That and more. Some of the Lionguard used to pay her to read their futures. A child's game, nothing more.
+/t
+그러면서 뭔가 더 있어요. 몇몇 라이온가드들이 그녀에게 돈을 주면서 그들의 미래를 읽어달라고 하곤했습니다. 그저 애들 장난이죠.
+/e
+
+/s
+Very interesting, may I ask you another question?
+/t
+정말 흥미롭군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+Goodbye.
+/t
+안녕히계세요.
+/e
+
+/s
+Thanks for the information. Good-bye.
+/t
+정보감사합니다. 안녕히계세요.
+/e
+
+/s
+You should be safe now. Do you often see Risen here?
+/t
+이네 안전할겁니다. 여기에 Risen을 자주 보나요?
+/e
+
+/s
+We occasionally see one or two roaming the countryside, but this was far more than we could handle.
+/t
+간혹 시골쪽에 한두마리 정도 봅니다. 이번에는 저희가 감당할 수 있는 숫자를 훨씬 넘어섰네요.
+/e
+
+/s
+Interesting. Can I ask you another question?
+/t
+흥미롭군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+Thanks. Take care.
+/t
+감사합니다. 수고하세요.
+/e
+
+/s
+Good luck out here.
+/t
+행운을 빕니다.
+/e
+
+/s
+Scholar Josir: Alastia Crow had a rare talent for precognition. I wonder what Kellach wanted to know?
+/t
+학자 Josir: Alastia Crow는 흔치않은 예지의 재능을 타고났습니다. Kellach이 뭘 알려고 했는지 했을까요?
+/e
+
+/s
+Agent Ihan: Whatever it was, I think the information drove him mad. I'm surprised that doesn't happen to more Priory scholars, too.
+/t
+요원 Ihan: 무었이 되었든 그게 그를 미치게 만들었을겁니다. 그게 Priory의 학자들에게도 일어나지 않은게 신기하네요.
+/e
+
+/s
+Scholar Josir: Clearly, the Order of Whispers has no respect for pure research.
+/t
+학자 Josir: 정말 Order of Whispers는 순수 학문연구에 대한 존중이 없네요.
+/e
+
+/s
+Logan Thackeray: It's your decision, my friend. I know you'll make the right choice.
+/t
+Logan Thackeray: 당신의 결정해야합니다. 당신이라면 올바른 선택을 할거라고 생각해요.
+/e
+
+/s
+I'll do my best, Logan.
+/t
+최선을 다하겠습니다 Logan
+/e
+
+/s
+Logan Thackeray: Advocate, good to see you. How'd your mission go?
+/t
+Logan Thackeray: 대변인, 어서오세요. 임무는 어땠습니까?
+/e
+
+/s
+We didn't find Kellach, but we discovered that he's connected to a pirate named Alastia Crow. I want to talk to her and see what she knows.
+/t
+나: Kellach를 찾지는 못했지만 그가 Alastia Crow라는 해적과 연관이 있다는걸 알아냈습니다. 그녀를 찾아가 뭘 알고 있는지 이야기하고 싶네요.
+/e
+
+/s
+Scholar Josir: Talk with her? I'm afraid that's impossible. She's dead. Her pirate ship, the Ravenous, was destroyed by an undead attack two days ago.
+/t
+학자 Josir: 그녀와 이야기를 나눈다고요? 죄송하지만 불가능합니다. 그녀는 죽었어요. 그녀가 있었던 해적선인 Ravenous가 이틀전에 언데드에 의해 파괴되었거든요.
+/e
+
+/s
+You're sure she's dead? Did any of her crew survive?
+/t
+나: 그녀가 죽은게 확실합니까? 그녀의 동료선원들 중에 살아 남은사람이 있나요?
+/e
+
+/s
+Agent Ihan: Even if she's dead, Alastia was a seer. She might have seen this coming, and left something behind that we could use.
+/t
+요원 Ihan: 그녀가 죽었더라도 Alastia는 예언자였어요. 그녀라면 이 일을 미리 보고 우리에게 무언가를 남겼을지도 모릅니다.
+/e
+
+/s
+Scholar Josir: A few of her crew are still alive, camped near the wreckage of their ship. She might have told them more about what's going on.
+/t
+학자 Josir: 몇명이 살아남아서 난파당한 배 근처에 캠프 차렸습니다. 그녀라면 그들에게 무슨일이 일어나고 있는지 말해줬을지도 몰라요.
+/e
+
+/s
+Agent Ihan: We need to find out what Kellach wanted from Alastia. Pirates don't tend to be trusting folk. I think a little nautical infiltration and investigation is in order.
+/t
+요원 Ihan: Kellach가 Alastia에게서 뭘 원했는지 알 필요가 있습니다. 보통 해적들은 보통 솔직히 대답을 해주지 않아요. 그래서 해상침투를 해서 조사가 필요하다고 생각됩니다.
+/e
+
+/s
+Scholar Josir: The Order of Whispers are a disreputable, shady bunch. You and the pirates would get a long just fine.
+/t
+학자 Josir: Order of Whispers는 평판도 안 좋고 수상한자들의 모임이에요. 당신들과 해적들은 충분히 어울릴겁니다.
+/e
+
+/s
+Scholar Josir: I have a better suggestion. Even if Alastia Crow is dead, she can still be helpful. I know an accomplished Priestess of Grenth who could summon the pirate's spirit.
+/t
+학자 Josir: 더 좋은 생각이 있어요. 비록 Alastia가 죽었지만 여전히 도움이 될 수도 있어요. 그녀의 영혼을 불러낼 수 있는 뛰어난 Grenth님의 여사제를 제가 알고 있습니다.
+/e
+
+/s
+Agent Ihan: The Durmand Priory's "better suggestion" is to disturb the dead? You scholars really will turn over every rock to get your answers—even tombstones.
+/t
+요원 Ihan: Durmand Priory의 더 좋은 생각이 죽은사람의 안식을 방해하는건가요? 당신 학자들은 묘비를 포함한 모든 돌을 뒤집어서라도 원하는 답을 찾는 작자들이요.
+/e
+
+/s
+Hiroki, any suggestions from the Vigil?
+/t
+나: Hiroki, Vigil의 의견은 있습니까?
+/e
+
+/s
+Crusader Hiroki: None, Advocate. While these two are squirreling for answers, Vigil soldiers will watch for another undead attack.
+/t
+크루세이더 Hiroki: 없습니다 대변인. 이 둘이 다람쥐처럼 싸울동안 저희 Vigil 군인들은 다른 언데드의 공격이 오는지 지켜보겠습니다.
+/e
+
+/s
+Logan Thackeray: It's your call, Advocate. Infiltrate the pirates, or summon Alastia's spirit?
+/t
+Logan Thackeray: 당신이 결정해야합니다 대변인. 해적들 사이로 잠입을할까요? 아니면 Alstia의 영혼을 불러낼까요?
+/e
+
+/s
+Crusader Hiroki: Faugh! Bah on these library crawlers and sneak thieves. The other orders are wasting time, and people are dying.
+/t
+크루세이더 Hiroki: 후우! 저 책벌래들과 좀도둑들은 정말 밥맛이네요. 다른 기관들은 사람이 죽는데 시간만 낭비하네요.
+/e
+
+/s
+I understand your frustration, but we have to know where to attack.
+/t
+당신의 불만을 이해합니다, 하지만 어디를 공격해야할지 먼저 알아야해요.
+/e
+
+/s
+I know, I know. But I don't have to like it. Call on me when you have something. The Vigil will be ready to pitch in again as soon as there's some real action.
+/t
+알아요, 알고말고요. 그래도 제가 그걸 좋아할 필요는 없잖아요. 뭔가 진행이 되면 불러주세요. 우리 Vigil은 제대로 활약할 무대가 마련되면 일에 착수할 준비흘 할께요. 
+/e
+
+/s
+Glad to hear it, Hiroki. I'll see you then.
+/t
+그렇게 해주세요 Hiroki. 그 때 다시 봅시다.
+/e
+
+/s
+Agent Ihan: Very well,. Time to choose.
+/t
+요원 Ihan: 자 대변인. 선택할 시간입니다.
+/e
+
+/s
+Can you tell me both plans one more time?
+/t
+양쪽의 계획을 다시 말해주시겠어요?
+/e
+
+/s
+The Priory wants to hold a ritual of Grenth to speak with the dead seer's spirit. The Order of Whispers plans to infiltrate the pirates and gain information.
+/t
+Priory는 Grenth님의 의식을 통해 죽은 예언자의 영혼을 불러오려고 합니다. Order of Whispers는 해적들 사이에 잠입해서 정보를 얻으려고 하고요.
+/e
+
+/s
+All right. I understand, thank you.
+/t
+알겠습니다. 이해했어요. 고마워요.
+/e
+
+/s
+I need to think it about before I decide.
+/t
+결정하기전에 생각을 좀 해야겠습니다.
+/e
+
+/s
+Ihan, tell me more about your plan. How do you intend to infiltrate?
+/t
+Ihan, 당신의 계획에 대해 좀 더 알려주세요. 어떻게 잠입을 할겁니까?
+/e
+
+/s
+Alastia told her crew everything. The hard part will be gaining their trust... but I already have a plan.
+/t
+Alastia는 선원들에게 모든것을 말했어요. 힘든건 그들의 신뢰를 얻는거죠...하지만 계획이 있습니다.
+/e
+
+/s
+I'll have to think about it. Thank you for explaining.
+/t
+생각을 좀 해봐야겠습니다. 설명 감사합니다.
+/e
+
+/s
+Very well, I'm ready to decide.
+/t
+알겠습니다. 결정할 준비가 되었습니다.
+/e
+
+/s
+Very well. Do you want to infiltrate the pirates?
+/t
+그렇군요. 해적에게 잠입하시겠습니까?
+/e
+
+/s
+Whatever Alastia was doing, it's the province of mortals, not gods. I'll go with you and infiltrate the pirates.
+/t
+Alastia가 무엇을 했던간에 이건 신들이 아닌 필멸자들의 일입니다. 당신과 함께 해적들에게 침투하죠. 
+/e
+
+/s
+Excellent! I need to prepare. Meet me near the Lionbridge Expanse and we'll take it from there.
+/t
+훌륭한 결정입니다! 준비를 해야겠군요. Lionbridge Expanse 근처에서 만나서 진행을 하도록 하죠.
+/e
+
+/s
+All right, Ihan. See you there.
+/t
+좋습니다 Ihan. 거기서 보죠.
+/e
+
+/s
+Actually, I need more time to think.
+/t
+생각해보니 시간이 좀더 필요합니다. 
+/e
+
+/s
+I haven't decided yet, but I will let you know as soon as I do.
+/t
+아직 결정을 내리지 않았습니다. 결정하는대로 말씀드리죠.
+/e
+
+/s
+Scholar Josir: So what's it going to be,? You should choose quickly, before the situation gets worse.
+/t
+학자 Josir: 어떻게 하시겠습니까? 상황이 악화되기전에 결정을 빨리 해주셨으면 합니다.
+/e
+
+/s
+Josir, tell me more about what this ritual involves.
+/t
+Josir, 이 의식에 대해서 좀더 알려주시겠습니까?
+/e
+
+/s
+Priestess Rhie is greatly favored by Grenth. She can pierce the veil and call Alastia back. It may be dangerous, but we'll learn a great deal.
+/t
+여사제 Rhie는 Grenth님께 많은 사랑을 받고 있습니다. 그녀라면 생사를 넘어 Alastia의 영혼을 불러낼거에요. 위험할수도 있지만 그만큼 많은것을 알아낼수 있을겁니다.
+/e
+
+/s
+Very well, I'm ready to choose.
+/t
+알겠습니다. 결정할 준비가 되었습니다.
+/e
+
+/s
+Very well. Do you want to summon Alastia's spirit?
+/t
+그렇군요. 그러면 Alastia의 영혼을 불러내시겠습니까?
+/e
+
+/s
+Direct information is best. I'm going to work with you to summon Alastia's spirit.
+/t
+정보를 집적 듣는게 제일 좋습니다. 당신과 함께 Alastia의 영혼을 불러내겠습니다.
+/e
+
+/s
+Reaching out to the dead will get us the most information. Meet me by Hezran Outcrop, and we'll get started.
+/t
+사자와의 접촉이 가장 많으 정보를 얻을수 있을겁니다. Hezran Outcrop에서 만나 임무를 시작하죠.
+/e
+
+/s
+Thanks, Josir. I'll see you there.
+/t
+고맙습니다 Josir. 거기서 보죠.
+/e
+
+/s
+Actually, I need more time to think it over.
+/t
+생각해보니 시간이 좀더 필요합니다. 
+/e
+
+/s
+Agent Ihan: We put you in a tough spot, but I trust you're comfortable with your choice?
+/t
+요원 Ihan: 저희가 당신에게 불편한 입장을 만들어드렸네요. 그래도 결정자체는 만족하시죠?
+/e
+
+/s
+Those pirates will have information—and it'll be current.
+/t
+그 해적들은 분명히 최신 정보를 가지고 있을겁니다. 
+/e
+
+/s
+I like your confidence, Advocate. Keep that attitude; it'll make you a better pirate.
+/t
+그 자신감 보기 좋네요. 그 자신감을 그대로 유지하세요, 그러면 더 좋은 해적이 될겁니다.
+/e
+
+/s
+Good point. See you at the Lionbridge Expanse.
+/t
+좋은 지적입니다. Lionbridge Expanse에서 다시 보도록 하죠.
+/e
+
+/s
+Scholar Josir: Must've been a difficult decision. I hope you're still certain?
+/t
+학자 Josir: 힘든 결정이였겠네요. 혹시 확신이 없으신가요?
+/e
+
+/s
+Don't worry, Josir. Ihan and I will get the information from the pirates.
+/t
+걱정마세요 Josir. Ihan과 제가 해적들에게서 정보를 빼올겁니다. 
+/e
+
+/s
+I'll continue to worry until you return... without a knife in your back. Good luck, Advocate.
+/t
+당신이 복귀할때 까지 계속 걱정할겁니다...적어도 등에 칼이 꼽히지 않은 상태로 말이죠. 행운을 빕니다 대변인.
+/e
+
+/s
+Fair enough. See you soon.
+/t
+알겠습니다. 다시 뵙겠습니다.
+/e
+
+/s
+I'm sure. I want to help the Priory summon Alastia's sprit.
+/t
+전 만족합니다. 저는 Priory를 도와 Alastia의 영혼을 소환하고 싶습니다.
+/e
+
+/s
+Well, that's your decision, but I'll admit-the idea gives me the creeps. I'll be here, praying for you.
+/t
+뭐, 당신의 결정이지만 솔직히 생각만해도 소름이 돋네요. 저는 당신의 무사를 기원하며 여기에 있겠습니다.
+/e
+
+/s
+It'll be fine, Ihan. Just wait and see.
+/t
+저는 괜찮을거에요 Ihan. 여기서 기다리고 지켜봐주세요.
+/e
+
+/s
+I look forward to the ritual. Should be very interesting.
+/t
+의식을 하길 기대하고잇습니다. 엄청 흥미로울것 같네요.
+/e
+
+/s
+I agree! The Mists is one of the greatest unexplored frontiers. Think of all the things we could learn!
+/t
+동의합니다! 미스트는 아직 탐험되지 않은 최대의 미지의 개척지들중 하나입니다. 얼마나 많은것을 배울 수 있을까 생각해보세요!
+/e
+
+/s
+Thanks, Josir. I'll see you at Hezran Outcrop.
+/t
+감사합니다 Josir. Hezran Outcrop에서 보도록 하죠.
+/e
+
+/s
+I followed the soldier's trail northeast along the road on the way to Black Haven. 
+/t
+나는 Black Haven으로 가는길을 따라 북동쪽으로 이어진 병사의 흔적을 따라갔다. 
+/e
+
+/s
+If I hurry, I can catch him before he does more harm.
+/t
+서두른다면 누군가를 해치기 전에 그를 잡을수 있을것이다.
+/e
+
+/s
+Following Kellach's trail, I learned an important bit of information: what drives him forward is his search to find Alastia Crow.
+/t
+Kellach의 흔적을 추적하는중, 중요한 정보를 입수했다: 그를 계속 이렇게 만든건 그가 Alastia Crow라는 사람을 찾고 있다는것이다.
+/e
+
+/s
+Perhaps one of the Orders knows more about her.
+/t
+기관들 중 하나가 그녀를 알것이다.
+/e
+
+/s
+I discussed the next course of action with the Order representatives.
+/t
+나는 기관 대표들과 함께 다음 행동에 대해 의논을 했다.
+/e
+
+/s
+Summon and question the ghost of Alastia Crow
+/t
+Alasia Crow를 소환해서 심문하세요
+/e
+
+/s
+Meet Josir and his contact east of the Hezran Outcrops.
+/t
+Hezran Outcrops의 동쪽에서 Josir과 그의 정보원을 만나세요
+/e
+
+/s
+Participate in the ritual.
+/t
+의식에 참여하세요
+/e
+
+/s
+Destroy the rogue spirits.
+/t
+악령을 물리치세요
+/e
+
+/s
+Talk to Alastia Crow.
+/t
+Alastia Crow와 대화하세요
+/e
+
+/s
+Return to Divinity's Reach and speak to Captain Thackeray
+/t
+Divinity's Reach로 돌아가서 Thackeray 대장과 이야기하세요.
+/e
+
+/s
+Speak with Logan and the Order representatives.
+/t
+Logan과 기관 대표들과 이야기하세요
+/e
+
+/s
+Confer with Logan.
+/t
+Logan과 상의하세요.
+/e
+
+/s
+Pick an Order of Tyria to join, and with it, a plan to save the queen.
+/t
+입단할 기관을 선택하고 함께 여왕을 지켜줄 계획을 만드세요
+/e
+
+/s
+Priestess Rhie: Oh, excuse me. I'm running through the ritual in my head one last time. There's no room for error, you know.
+/t
+여사제 Rhie: 아, 실례합니다. 지금 머릿속으로 의식을 마지막으로 한번 더 정리하고 있어요. 자그만한 실수도 용납이 안되거든요.
+/e
+
+/s
+Can you tell me more about the Six Gods?
+/t
+여섯 신들에 대해서 좀더 이야기 해주실수 있나요?
+/e
+
+/s
+Once, the Six Gods of the humans were very influential. As time passed, they pulled away—but they have not abandoned us.
+/t
+옛날에 여섯 신들은 인간 세계에 엄청난 영향력을 가졌습니다. 시간이 지날수록 그들은 그분들은 개입을 그만두셨지만 아직 저희를 버리진 않았죠.
+/e
+
+/s
+Where have they gone?
+/t
+그들이 어디로 갔습니까?
+/e
+
+/s
+No one knows. Not into the Mists, that's for certain. Perhaps they simply want to allow us to decide our own fates.
+/t
+아무도 몰라요. 적어도 미스트에 있는건 아니에요. 아마 저희 스스로 운명을 결정짓기를 원하셨을지도 모르죠. 
+/e
+
+/s
+Very interesting. May I ask another question?
+/t
+아주 흥미롭군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+Thank you for the information. I'll leave you to your thoughts.
+/t
+정보 감사합니다. 방해하지 않겠습니다.
+/e
+
+/s
+Interesting, thank you.
+/t
+흥미롭군요. 감사합니다
+/e
+
+/s
+You're a priestess of Grenth? What does that mean?
+/t
+당신은 Grenth의 여사제시죠? 그게 어떤 의미를 가지고 있죠?
+/e
+
+/s
+Grenth is the god of death and ice. He is the son of Dwayna, but he became a god by his own hand.
+/t
+Grenth님은 죽음과 얼음의 신입십니다. 그는 Dwayna님의 아들이셨지만 스스로 신격에 올라 신이 되셨습니다. 
+/e
+
+/s
+Very interesting. And you serve him?
+/t
+아주 흥미롭군요. 그분을 섬기는겁니까?
+/e
+
+/s
+I am his foremost priestess. I work with the Priory, and one day I hope to purify his ancient temple in Orr.
+/t
+저는 그분이 가장 아끼는 사제입니다. 저는 Priory와 협력하고 있으며 언젠가 오르에 있는 그분의 고대신전을 정화하기를 바라고 있습니다.
+/e
+
+/s
+Wow, you are ambitious. Can I ask another question?
+/t
+와우, 대단한 야망이군요. 다른 질문을 드려도 될까요?
+/e
+
+/s
+That's a wonderful goal. Good luck.
+/t
+멋진 목표네요. 행운을 빕니다.
+/e
+
+/s
+I'm interested in knowing more about the ritual.
+/t
+의식에 대해서 더 알고 싶습니다.
+/e
+
+/s
+We will open portals into the land of the dead, and ask Grenth to send Alastia Crow's spirit to us.
+/t
+저희가 사자의 땅에 포탈들을 열거에요. 그리고 Grenth님께 Alastia Crow의 영혼을 보내달라고 부탁 드리는거죠.
+/e
+
+/s
+Josir said it might be dangerous. How so?
+/t
+Josir가 위험할지도 모른다고 말했습니다. 왜 그런가요?
+/e
+
+/s
+Open portals are like beacons of light in the Mists. Other entities may try to escape the lands of death—and we must prevent that.
+/t
+포탈을 연다는건 미스트에서 불빛을 내는거와 같아요. 다른 존재들이 죽음의 땅에서 탈출하려고 할수도 있고 저희는 그걸 막아야 하거든요.
+/e
+
+/s
+Good to know. May I ask you another question?
+/t
+중요한걸 알게 되네요. 다른걸 물어도 될까요?
+/e
+
+/s
+That does sound dangerous. l'll leave you to your preparations.
+/t
+위험하게 들리네요. 이만 의식준비를 방해하지 않겠습니다. 
+/e
+
+/s
+Of course. I'll leave you to prepare.
+/t
+당연하죠. 이만 의식준비에 방해하지 안겠습니다
+/e
+
+/s
+I'll leave you to your thoughts.
+/t
+의식 준비에 방해하지 않겠습니다. 
+/e
+
+/s
+Hello, Josir. This must be Priestess Rhie? A pleasure to meet you.
+/t
+나: 안녕하세요 Josir. 이분이 Rhie 여사제인가요? 만나서 반갑습니다.
+/e
+
+/s
+Scholar Josir: Welcome, Advocate. This will be a rare opportunity to peer beyond the shroud of death! I'll be taking notes for my records.
+/t
+학자 Josir: 어서오세오 대변인. 죽음의 장벽을 넘어 들여다 보는건 흔차않은 기회죠! 저는  이걸 기록으로 남기고 있겠습니다. 
+/e
+
+/s
+Notes? So you don't do this kind of thing often in the Durmand Priory?
+/t
+나: 기록이요? Durmand Priory에선 이런 일을 자주 안하나보죠?
+/e
+
+/s
+Scholar Josir: The Priory does a great deal of research on magic, from the arcane to the divine, but this is an extremely difficult ritual.
+/t
+학자 Josir: 저희들은 비전마법에서 부터 성마법까지 다양한 마법에 대해 연구를 했지만, 이건 정말 어려운 의식이거든요. 
+/e
+
+/s
+Scholar Josir: I'm tremendously excited to be allowed to participate! My notes may help others in the Priory investigate ancient tombs dedicated to Grenth.
+/t
+학자 Josir: 저는 의식에 참여한것에 엄청 흥분하고 있습니다! 제 기록이 Priory내의 다른 사람들이 Grenth를 위한 고대무덤을 조사하는데 도움을 줄수도 있어요.
+/e
+
+/s
+I'm looking forward to it. Priestess Rhie, are we ready to begin?
+/t
+나: 기대하겠습니다. Rhie 여사제님, 의식을 시작할 준비가 되셨나요?
+/e
+
+/s
+Priestess Rhie: We are. In a moment, I will pierce the veil between this world and the Mists, and call to Alastia Crow's spirit.
+/t
+여사제 Rhie: 준비되었습니다. 조만간에 제가 이 세계와 미스트사이의 장벽을 뚫고 Alastia Crow의 영혼을 불러올거에요.
+/e
+
+/s
+Priestess Rhie: Be warned: she'll need time to respond. During this time, anything could cross through the portal. We may be faced with something... unfriendly.
+/t
+여사제 Rhie: 조심하세요. 그녀가 응답하려면 시간이 걸립니다. 그 시간에 포탈을 타고 어떤게 나올지 몰라요. 어쩌면...적대적인 존재를 만날수도 있어요.
+/e
+
+/s
+Priestess Rhie: Protect me while I maintain the channel, or the gate will close and all will be lost.
+/t
+여사제 Rhie: 통로를 유지할 동안 저를 지켜주세요, 안 그러면 문이 닫기고 모든 일이 허사가 될거에요.
+/e
+
+/s
+Understood. We'll be ready for anything.
+/t
+나: 알겠습니다. 어떤 일이라도 대응할 준비가 되었습니다.
+/e
+
+/s
+Priestess Rhie: May the Dark One bless our endeavors. Let it begin.
+/t
+여사제 Rhie: 어둠의 신께서 우리가 하려는 일에 축복을 내려주시길. 시작하죠.
+/e
+
+/s
+Priestess Rhie: Follow me to the heart of these caverns, where the barrier to the Mists is thinnest.
+/t
+여사제 Rhie: 동굴 중심지가 미스트와의 장벽이 가장 얇은곳이니 거기까지 저를 따라오세요.
+/e
+
+/s
+Scholar Josir: It should be safe enough to cast the ritual here. Even centaurs would avoid this fetid air.
+/t
+학자 Josir: 여기라면 의식을 치루기 안전할겁니다. 켄타우르스들도 이 악취가 가득한 공기에 오고싶진 않을거에요.
+/e
+
+/s
+Scholar Josir: This place is the dumping ground for the centaurs' fallen slaves. Gods! It's horrific.
+/t
+학자 Josir: 이 장소는 죽은 켄타우루스들의 노예를 버리는 장소입니다. 오, 신이시여! 정말 끔찍하군요.
+/e
+
+/s
+Scholar Josir: Grenth's breath! I hope Alastia knows something useful. This ritual is difficult.
+/t
+학자 Josir: Grenth님의 숨결이여! 제발 Alastia가 유용한 정보를 알고있길 바랍니다. 이 의식은 정말 힘들군요.
+/e
+
+/s
+I'm ready.
+/t
+준비되었습니다.
+/e
+
+/s
+Priestess Rhie: Remember: this ritual weakens the barriers between worlds. Dark things may emerge.
+/t
+여사제 Rhie: 기억하세요: 의식은 세계사이에 벽을 약하게 만듭니다. 어둠의 것들이 나타날수 있어요.
+/e
+
+/s
+Scholar Josir: You can safely focus on the ritual, priestess. My friend and I will protect you.
+/t
+학자 Josir: 안심하시고 의식에 집중하셔도 됩니다 여사제님. 저와 이 친구가 당신을 지켜줄거에요.
+/e
+
+/s
+Priestess Rhie: Grenth, Prince of Winter, hear your servant's plea!
+/t
+여사제 Rhie: Grenth, 겨울의 왕자시여, 당신의 종의 간청을 들어주세요!
+/e
+
+/s
+Priestess Rhie: Open the gates to the Mists! The living call upon the dead—in Grenth's name!
+/t
+여사제 Rhie: 미스트를 통하는 문을 열어주십시오! 생자가 Grenth님의 이름으로 사자를 부릅니다!
+/e
+
+/s
+Priestess Rhie: Alastia Crow, seer of Wiley's Scavengers, pirate and oracle, I call your spirit to commune. Appear! Appear and speak!
+/t
+여사제 Rhie: Alastia Crow여, Wiley's Scanengers의 예지자이며 해적이고 예언자인 그대와 교감하고자 합니다. 나타나세요! 나타나서 이야기를 해주세요!
+/e
+
+/s
+Priestess Rhie: Three portals? Interesting. I must maintain them all, else the ritual fails. Stand ready!
+/t
+여사제 Rhie: 포탈이 3개? 흥미롭군요. 이걸 모두 유지해야합니다, 안그러면 의식은 실패해요. 준비하세요!
+/e
+
+/s
+Priestess Rhie: Grenth preserve us. Something powerful approaches. Be careful!
+/t
+여사제 Rhie: Grenth님이 우리를 지켜주시길. 뭔가 강력하게 다가오고있습니다. 조심하세요!
+/e
+
+/s
+Priestess Rhie: Praise Grenth! I sense the spirit we seek. Come, Alastia Crow, speak with us.
+/t
+여사제 Rhie: Grenth님을 찬양하라! 우리가 찾고자 하는 영혼을 찾았습니다. 오세요, Alastia Crow, 우리와 이야기를 나눠주세요.
+/e
+
+/s
+Priestess Rhie: Speak, spirit of Alastia Crow! Grenth, god of death, compels you!
+/t
+여사제 Rhie: 말해주세요, Alastia Crow 의 영혼이여! 죽음의 신은 Grenth가 당신을 부릅니다!
+/e
+
+/s
+Priestess Rhie: Tell me of Kellach, the Seraph. Why did he come to you? Did he kill you?
+/t
+여사제 Rhie: 세라프인 Kellach에 대해서 이야기해주세요. 왜 그가 당신에게 온거죠? 그가 당신을 죽였나요?
+/e
+
+/s
+Alastia Crow: He cheated me! Revenge... I wanted revenge... He sought power to protect his queen, so I made that his undoing.
+/t
+Alastia Crow: 그는 나에게 사기를 쳤어요! 복수...저는 복수를 원해요...그는 여왕을 지켜낼 힘을 원했습니다, 그리고 그게 그를 파멸로 몰고갔죠.
+/e
+
+/s
+Alastia Crow: Our crew plundered an Orrian ship. One of the treasures we found aboard was cursed.
+/t
+Alastia Crow: 우리 선원들은 오르의 배를 약탈했어요. 거기서 발견한 보물들중 하나가 저주받았죠.
+/e
+
+/s
+Scholar Josir: Orrian artifacts! Incredibly dangerous! The Priory... ah, yes, I'm sorry, Priestess Rhie. Of course. Later.
+/t
+학자 Josir: 오르의 유물이군요! 엄청 위험하죠! 저희가...아,네. 죄송합니다 Rhie 여사제님. 나중에 이야기하죠.
+/e
+
+/s
+Priestess Rhie: Speak on, spirit. How did you seek revenge?
+/t
+여사제 Rhie: 계속 말해주세요 영혼이여. 어떻게 복수를 하기 원합니까?
+/e
+
+/s
+Alastia Crow: Kellach took the items. He wanted to find a way to protect Kryta from Zhaitan. I knew he would only become corrupted.
+/t
+Alastia Crow: Kellack는 물건을 하나 가져갔습니다. 그는 크라이타를 Zhaitan으로부터 보호할 방법을 찾고있었습니다. 저는 그게 그를 타락시킬거라고 알고 있었죠.
+/e
+
+/s
+Alastia Crow: I thought that would be the end of it, but Kellach tracked me down aboard my ship. He demanded that I remove the curse. I could not.
+/t
+Alastia Crow: 저는 그게 끝일거라 생각했습니다. 하지만 Kellach는 저를 추적해서 제 배에 올라탔습니다. 저보고 저주를 해주해달라고 요구하더군요. 저는 하지 못했죠.
+/e
+
+/s
+Alastia Crow: He was slaughtering my crew! I had to stop him... so I lied.
+/t
+Alastia Crow: 그는 저와 제 선원들을 학살했습니다! 저는 그를 멈춰야 했어요...그래서 저는 거짓말을 했습니다. 
+/e
+
+/s
+Alastia Crow: With my dying breath, I told him that the only way to remove the corruption is to bathe in royal blood.
+/t
+Alastia Crow: 마지막 죽는순간에 저는 그가 타락의 저주를 푸는 방법은 왕가의 피에 담궈야 한다고 했죠. 
+/e
+
+/s
+By Kormir's hand, how could you do that? He'll go after Queen Jennah!
+/t
+나: Kormir님이시여, 어떻게 그럴 수 있죠? 그는 Jennah 여왕님을 노릴거에요!
+/e
+
+/s
+Alastia Crow: What do I care? The queen did nothing to help my starving crew—or save us when Risen ships attacked us on the high sea.
+/t
+Alastia Crow: 내가 알게 뭐에요? 여왕은 내 선원들이 굶은데 아무런 도움도 안줬고 공해에서 Risen의 배들이 우리를 공격할때 도움도 안줬어요. 
+/e
+
+/s
+Alastia Crow: My vengeance will be complete when Kellach destroys that which he was once sworn to defend.
+/t
+Alastia Crow: Kellach가 자기가 지키고자 하는걸 스스로 없애는 순간 나의 복수는 끝이날겁니다.
+/e
+
+/s
+Priestess Rhie: Begone, foul, vicious spirit! Alastia Crow, I release you into the arms of Grenth. Go, and beg mercy from the Prince of Frost and Ice.
+/t
+여사제 Rhie: 더럽고 악랄한 영혼이여, 사라지세요! Alastia Crow여, 당신을 Grenth님의 품에 안기겠습니다. 가세요, 가서 서리와 얼음의 왕자님께 자비를 구걸하세요.
+/e
+
+/s
+Thank you, Priestess. Come on, Josir. We have to alert Captain Thackeray right away.
+/t
+나: 감사합니다 여사제님. Josir, 갑시다. 얼른 Thackeray 대장님께 경고해야합니다.
+/e
+
+/s
+Alastia Crow: I know of you, Hero. Many of your foes walk now in the Mists. They speak of you with hatred and fear. Beware, lest you join them.
+/t
+Alastia Crow: 난 당신을 압니다 영웅이야. 수많은 당신의 적들이 미스트에 돌아다니고 있죠. 그 들은 당신을 증오하며 두려워하더군요. 그들과 함께 하지 않도록 조심하세요.
+/e
+
+/s
+If I fall, I'll teach them new ways to hate and fear me.
+/t
+내가 죽어서 간다면 새로운 방식으로 그들이 나를 증오하고 두려워하게 만들겠습니다.
+/e
+
+/s
+Such ferocity! I almost feel sorry for Kellach, if he hadn't killed me. Go, Hero. Save your Queen. Avenge me while you're at it, yes?
+/t
+참 잔인하군요! Kellach가 나를 죽이지 않았다면 그를 동정했을겁니다. 가세요 영웅이여. 가서 당신의 여왕을 지켜내세요. 동시에 저의 복수도 해주고요, 알겠죠? 
+/e
+
+/s
+We'll see, oracle.
+/t
+일단 두고보죠, 예언자여.
+/e
+
+/s
+Not for a while yet, pirate. I'm too charming for Lyssa to let me go.
+/t
+아직은 아닙니다 해적이여. 난 Lyssa님이 날 보내주기엔 너무 매력적이라서 말이죠.
+/e
+
+/s
+You should know that even mighty Lyssa's power must bow in Grenth's domain. Good luck, charming hero.
+/t
+당신도 알아야 할건 위대한 Lyssa의 힘도 Grenth님의 영역에선 한수 접어야 한다는겁니다. 행운을 빕니다 매력적인 영웅이여.
+/e
+
+/s
+Thank you, shade. May you find peace.
+/t
+고맙습니다. 그대에게 평안한 한식을 기원하죠.
+/e
+
+/s
+Fear of death will not stop me from protecting my Queen.
+/t
+죽음에 대한 두려움도 내가 여왕님을 지키는걸 막지 못할겁니다.
+/e
+
+/s
+Such bravery stirs even cold, dead blood. Go, Hero. Give up everything to save your Queen. Then you'll be just like Kellach...
+/t
+차가움을 후끈 달아오르게 만드는 용기군요. 가세요 영웅이여. 최선을 다해 여왕을 지켜내세요. 그러면 당신은 Kellach 처럼 될겁니다...
+/e
+
+/s
+You underestimate me. Farewell, Alesta.
+/t
+날 과소평가 하는군요. 잘가세요 Alastia.
+/e
+
+/s
+What actually happened to your ship, the Ravenous?
+/t
+당신의 배인 Ravenous에 어떤일이 일어난겁니까?
+/e
+
+/s
+After he'd become corrupted, Kellach returned to demand that I "cure him." Zhaitan's scum followed him to our portage!
+/t
+그가 타락한 이후에 Kellach는 내가 그를 "치유"하기를 원했습니다. Zhaitain의 떨거지들이 운반장소까지 따라왔어요!
+/e
+
+/s
+So that's how you died?
+/t
+그렇게 죽은겁니까?
+/e
+
+/s
+Me and 'most every other sea-rat aboard. I hear a few got out, and good for them. May they sail free!
+/t
+나와 대부분의 선원들이 죽었어요. 몇명이 살아 남았다는걸 들었는데 다행이죠. 그들이 자유롭게 다니길!
+/e
+
+/s
+I have another question.
+/t
+다른 질문이 있습니다.
+/e
+
+/s
+Thank you for the explanation, spirit.
+/t
+설명 감사합니다, 영혼이여.
+/e
+
+/s
+You have no power over me. Begone, shade.
+/t
+당신은 나에게 어떠한 영향도 끼치지 못합니다. 흑령이여, 사라지세요.
+/e
+
+/s
+Scholar Josir: We can't allow anything to happen to Queen Jennah. She's the last of the royal line!
+/t
+학자 Josir: Jennah여왕님께 어떠한 일도 일어나지 못하게 해야합니다. 그는 왕가의 마지막 후손이에요!
+/e
+
+/s
+Agent Ihan: Perhaps not the last... but you're right. Without Queen Jennah, we'd lose our treaty with the charr.
+/t
+요원 Ihan: 마지막은 아닐수도 있어요...하지만 당신 말이 맞아요. Jennah 여왕님이 없으면 차르족과의 조약이 파기될겁니다.
+/e
+
+/s
+Crusader Hiroki: More than that. Without Queen Jennah, the nation will lose hope. It would be the end of Kryta.
+/t
+크루세이더 Hiroki: 더 심각해질수 있어요. 여왕님이 없으면 왕국의 희망이 없어집니다. 크라이타가 끝장날수 있어요.
+/e
+
+/s
+Captain Thackeray! I'm glad you're here.
+/t
+나: Thackeray 대장님! 와주셔서 다행입니다.
+/e
+
+/s
+We've got an urgent situation. Kellach's been corrupted by Orrian artifacts. The pirate, Alastia, told him that the queen's blood will cure the corruption.
+/t
+나: 긴급상황입니다: Kellach는 오르의 유물로 인해 타락했습니다. 해적인 Alastia가 그에게 여왕의 피만이 타락의 저주를 풀어줄거라고 말했더군요.
+/e
+
+/s
+Logan Thackeray: Dwayna's mercy! I have to protect the queen. We can't let him near her!
+/t
+Logan Thackeray: Dwayna님이시여! 여왕님을 지켜드리러 가야겠습니다. 그가 그분의 곁에 다가오지 못하게 해야해요!
+/e
+
+/s
+I think the undead are following him because he has the artifact. As long as he's out there, they'll be right on his heels.
+/t
+나: 제 생각에는 그 유물 때문에 언데드들이 그를 따라다니느것 같습니다. 그가 밖에 어딘가에 있는 이상 그들도 같이 있을겁니다.
+/e
+
+/s
+Crusader Hiroki: We don't have much time. The undead mob he's leading is just getting bigger. Kellach's growing more dangerous by the second.
+/t
+크루세이더 Hiroki: 우리에게 주어진 시간은 얼마 없어요. 그가 이끌도 다니는 언데드 무리가 점점 커지고 있어요. Kellach는 지금도 매시간마다 위험해지고 있습니다. 
+/e
+
+/s
+We can't just think of the queen. We have to think of Kryta. If we just defend her, Logan, Kellach will destroy every town from Lion's Arch to Divinity's Reach.
+/t
+나: 우린 여왕님만 생각할순 없습니다. 우린 크라이타 전체를 생각해야해요. 우리가 여왕님을 지킨다면 Kellach는 Lion's Arch와 Divinity's Reach 사이에 있는 모든 마을을 파괴할겁니다.
+/e
+
+/s
+Logan Thackeray: You're right, dammit. But, when it comes to my duty to the queen... well, never mind. I'm listening. What's the plan?
+/t
+Logan Thackeray: 젠장, 당신말이 맞아요. 하지만 여왕님에 대한 내 의무는...흠, 아무것도 아닙니다. 듣겠습니다. 계획이 뭔가요? 
+/e
+
+/s
+Crusader Hiroki: It's time to assault Kellach head-on. In the Vigil, we swear an oath to stand between the darkness and the light. The only way to be sure is to face this threat directly.
+/t
+크루세이더 Hiroki: Kellach와 정면으로 부딪혀야합니다. Vigil에서 우리는 어둠과 빛 사이에 굳건히 서있겠다고 맹세를 해요. 확실하게 막는건 이 위협을 정면에서 맞이하는거에요. 
+/e
+
+/s
+Crusader Hiroki: Advocate, join us. You'd make a fine member of the Vigil, and I'd be proud to fight by your side.
+/t
+크루세이더 Hiroki: 대변인, 저와함께하시죠. 당신이라면 Vigil에 어울리실겁니다. 그리고 당신과 곁에 싸우면 제 영광이고요. 
+/e
+
+/s
+Scholar Josir: Don't be thickheaded, Hiroki! Knowledge is power. The Durmand Priory's research is conclusive. The Advocate would be much better-suited among our scholars.
+/t
+학자 Josir: 멍청하게 굴지마세요, Hiroki! 지식이야말로 힘입니다. Durmand Priory의 연구는 확실하죠. 대편인은 학자들과 함께해야 더 빛이날겁니다.
+/e
+
+/s
+Scholar Josir: Come, Advocate. We can use the Mortis Verge enchantment to protect the queen, and neutralize this threat intelligently.
+/t
+학자 Josir: 오세요 대변인. 우리의 Mortis Virge의 마법을 이용하면 여왕님을 보호하고 위협을 지능적으로 제거할수 있습니다.
+/e
+
+/s
+Agent Ihan: Kellach has two things on his side: an army of undead and complete insanity. We have to use cunning. Lure him in, and then trick him into destroying himself.
+/t
+요원 Ihan: Kellach에겐 2가지가 있습니다: 언데드 군대와 광기죠. 교활함이 필요합니다. 그를 유인하고 스스로 자멸하게 속이는거죠.
+/e
+
+/s
+Agent Ihan: The Order of Whispers wants you on our side, Advocate. All you have to do is say the word.
+/t
+요원 Ihan: Order of Whispers는 당신이 우리와 함께하길 원합니다. 그렇게 하시겠다고 말씀만 해주세요. 
+/e
+
+/s
+All right, everyone. Give me a moment to discuss my options with Captain Thackeray, then I'll let you know how I'm going to proceed.
+/t
+나: 자자, 모두들. Thackeray 대장님과 잠시 상의할 시간을 좀 주세요. 그 후에 어떻게 할지 알려드리겠습니다.
+/e
+
+/s
+Logan Thackeray: Advocate, all three orders have petitioned for you to join them. It's a permanent choice, but you'll gain a powerful ally.
+/t
+Logan Thackeray: 대변인, 세 기관 모두 당신이 들어오길 원합니다. 바꿀수 없는 결정이지만 당신의 강력한 우군이 될거에요.
+/e
+
+/s
+What do you think about it Logan?
+/t
+당신의 생각은 어때요 Logan?
+/e
+
+/s
+You've been a boon to Kryta, but you can do more with one of the orders. You should seize this opportunity.
+/t
+당신 자체가 크라이타의 축복입니다. 하지만 기관과 함께라면 더 많은걸 하실수 있을거에요. 이 기회를 놓치지 마세요. 
+/e
+
+/s
+How do I join an order?
+/t
+어떻게 하면 기관에 들어갈 수 있나요?
+/e
+
+/s
+Talk to the representative of the order you prefer, and choose their plan to protect Jennah.
+/t
+선호하는 기관의 대표와 이야기를 하세요, 그리고 그들의 계획에 따라 여왕님을 지켜주세요.
+/e
+
+/s
+I'm ready to join an order.
+/t
+기관에 들어갈 준비가 되었습니다. 
+/e
+
+/s
+Do you think they'll mind if I ask a few questions first?
+/t
+그 전에 그들에게 몇가지 질문을 해도 될까요?
+/e
+
+/s
+They won't mind. They're all waiting for you to decide, so ask—and then choose quickly. We must go protect the queen.
+/t
+괜찮을겁니다. 그들은 당신의 결정을 기다릴테니 가서 묻고 빨리 결정해주세요. 저희는 여왕님을 지켜드리러 가야합니다.
+/e
+
+/s
+Will do. Thanks Logan.
+/t
+그러겠습니다. 고마워요 Logan.
+/e
+
+/s
+I will. Thank you.
+/t
+그럴께요. 감사합니다.
+/e
+
+/s
+What do you think about the Vigil?
+/t
+Vigil에 대해서 어떻게 생각하나요?
+/e
+
+/s
+They're straightforward, honorable and militant. I appreciate that, and I like their concern for the common man.
+/t
+그들은 솔직하고 명예롭고 전투적이죠. 저도 그걸 인정하고 그들이 일반백성들을 걱정하는걸 좋게 보고 있습니다. 
+/e
+
+/s
+Thanks. I'll keep that in mind.
+/t
+감사합니다. 기억할께요.
+/e
+
+/s
+What do you think about the Priory?
+/t
+Priory에 대해서는 어떻게 생각하나요?
+/e
+
+/s
+I have no use for libraries, but exploring sounds like fun. I'd like discovering lost knowledge and history.
+/t
+전 딱히 도서관에서 책을 읽는 성격은 아니지만 탐험은 재미있을것 같네요. 잃어버린 지식과 역사를 알아내는것도 괜찮을것 같습니다.
+/e
+
+/s
+What do you think about the Order of Whispers?
+/t
+Order of Whispers에 대해서는 어떻게 생각하나요?
+/e
+
+/s
+They claim to be master manipulators, hiding in the shadows. They certainly know a lot of secrets. That could be useful.
+/t
+그들은 뒷공작의 대가라고 말하고 다니며 어둠속에 숨어다니죠. 그들은 확실히 많은 비밀들을 알고 있습니다. 유용할 거에요.
+/e
+
+/s
+I need to think. It's a big decision.
+/t
+생각을 좀 해야겠습니다. 이건 큰 결정이니깐요.
+/e
+
+/s
+I need a few moments before we continue.
+/t
+진행하기 전에 시간을 좀 주세요.
+/e
+
+/s
+Agent Ihan: The Order of Whispers wants you on our side, Advocate. Kellach's defeat could be your initiation. Remember, this is a permanent decision. What do you say?
+/t
+요원 Ihan: Order of Whispers가 당신을 원합니다. Kellach를 타파하는걸로 시작할 수 있어요. 아셔야하는게 이건 영구적인 결정입니다. 어떠세요?
+/e
+
+/s
+Can you tell me more about the Order of Whispers first?
+/t
+그전에 Order of Whipsers 에 대해서 이야기좀 해주시겠어요?
+/e
+
+/s
+We subtly influence the world, collecting secrets and shifting the balance of power. We use our leverage to help Tyria resist the dragons.
+/t
+저희는 교묘하게 세상에 영향을 끼치며, 비밀들을 모으고 힘의 균형을 바꿉니다. 저희들은 이 영향력을 이용해서 티리아가 드래곤을 싸우게 돕고있습니다.
+/e
+
+/s
+What will the Order of Whispers assign me to do?
+/t
+Order of Whispers는 저에게 어떠한 임무를 줄건가요?
+/e
+
+/s
+Anything goes, from freeing political prisoners to influencing major events. You'll travel Tyria—and see a little of its dark side.
+/t
+뭐든지 가능합니다. 정치범을 구출하는것 부터 대형 사건에 관여하는것 까지. 당신은 티리아를 돌아다니면서 어두운면을 약간 보게 될거에요.
+/e
+
+/s
+Very interesting. May I ask another question, Ihan?
+/t
+매우 흥미롭군요. 다른 질문을 해도 되나요 Ihan?
+/e
+
+/s
+I need to think more. Thanks, Ihan.
+/t
+생각을 좀 해야겠습니다. 고마워요 Ihan.
+/e
+
+/s
+Will I have to keep my membership a secret?
+/t
+제가 기관에 들어갔다는걸 비밀로 해야하나요?
+/e
+
+/s
+The people of Tyria are already aware of us. As long as you keep one step ahead of the rest, you can do as you please.
+/t
+티리아 사람들은 이미 저희에 대해서 알고있습니다. 다른 사람들보다 한발 앞서 있다면 하고싶은대로 하시면 됩니다. 
+/e
+
+/s
+Does your order have any titles?
+/t
+기관내에 구성원에 주어지는 직함이나 계급이 있나요?
+/e
+
+/s
+Training begins as an Initiate. When you become a full Agent, you'll learn deeper secrets. Lightbringers are the highest rank of operative.
+/t
+신입으로써 훈련을 시작합니다. 제대로된 요원이 된다면 더 깊은 비밀들을 아시게 될겁니다. Lightbringer는 최고요원의 직함입니다.
+/e
+
+/s
+I'll join the Order of Whispers. Kellach is only the beginning.
+/t
+Order of Whispers에 입단하겠습니다. Kellach는 시작일 뿐이에요.
+/e
+
+/s
+Thanks, Ihan, but I'm not ready to decide yet.
+/t
+감사합니다 Ihan, 하지만 아직 결정을 내리진 않았습니다.
+/e
+
+/s
+Crusader Hiroki: The Vigil has a place for you, hero. You're brave, stalwart, and compassionate—everything we look for in a recruit. Remember, this is a permanent decision. Will you join us?
+/t
+크루세이더 Hiroki: Vigil에 당신의 자리가 있습니다 영웅이여. 당신은 용감하고 충직하며 인정이 있습니다. 즉 신입에게서 필요한 모든걸 가지고 있죠. 기억하셔야 할건 이건 영구적인 결정입니다. 저희와 함께 하시겠습니까?
+/e
+
+/s
+Can you tell me more about the Vigil first?
+/t
+그전에 Vigil에 대해서 알려주시겠습니까?
+/e
+
+/s
+The Vigil is a multi-racial army drawn from all walks of life. We put our lives on the line for Tyria, and defend it from the dragons.
+/t
+Vigil은 다양한 종족으로 이루어진 군대입니다. 우리는 티리아를 위해 목숨을 걸고 드래곤으로 부터 수호하고자 하죠.
+/e
+
+/s
+What missions will the Vigil give me?
+/t
+Vigil에서는 어떠한 임무를 저에게 줄건가요?
+/e
+
+/s
+Assisting with treaty negotiations, defending villages from minions of the dragon, or helping people displaced by dragon attacks. That sort of thing.
+/t
+조약 협상을 돕거나, 마을들을 드래곤의 하수인으로 부터 지켜내기도 하고, 아니면 드래곤의 공격에 피난가는 사람들을 도와주거나 할겁니다. 대충 그런 일이죠.
+/e
+
+/s
+Good to know. May I ask another question?
+/t
+알겠습니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+Thank you, Hiroki. I'll think about it.
+/t
+감사합니다 Hiroki. 고려해보겠습니다.
+/e
+
+/s
+Anything other than combat?
+/t
+전투 이외에 할게 있나요?
+/e
+
+/s
+Absolutely. Although we're an armed force, we also stress diplomacy and charity.
+/t
+물론이죠. 물론 저희가 군대이지만 저희는 외교와 자선에도 힘쓰고 있습니다. 
+/e
+
+/s
+What sort of titles do you have?
+/t
+어떤 직함들이 있나요?
+/e
+
+/s
+You'd join us as a recruit, but with your skill, I bet you'd be a crusader in no time. Achieving the rank of warmaster's more difficult, of course.
+/t
+당신은 훈련생으로 시작할거에요. 하지만 당신의 능력이라면 크루세이더가 되는건 시간문제겠네요. 물론 워마스터 (warmaster)의 계급을 다는건 훨씬 힘들지만요.
+/e
+
+/s
+Thank you, Hiroki. I'll take that into account.
+/t
+감사합니다 Hiroki. 기억해 두겠습니다.
+/e
+
+/s
+I'd like to join the Vigil. Let's start by taking on Kellach!
+/t
+Vigil에 들어가겠습니다. Kellach와 싸우는것으로 시작하죠.
+/e
+
+/s
+I need to think more. I'll get back to you.
+/t
+생각을 좀 해야겠습니다. 다시 오겠습니다.
+/e
+
+/s
+Scholar Josir: I hope you join the Priory. Your intelligence will be instrumental in our crusade against the dragons. Remember, this is a permanent decision.
+/t
+학자 Josir: Priory에 입단하시면 좋겠네요. 당신의 지능은 저희가 드래곤을 상대할 전쟁에 중요한 역할을 할거에요. 기억하세요, 이건 영구적인 결정입니다.
+/e
+
+/s
+Can you tell me more about the Priory first?
+/t
+그전에 Priory에 대해서 이야기좀 해주시겠어요?
+/e
+
+/s
+We are Tyria's foremost scholars of history. We search for ancient lore in an effort to deal with the dragons.
+/t
+저희는 티리아의 가장 위대한 역사학자들입니다. 저희는 고대설화를 찾아 드래곤을 상대할 방법을 찾으려고 하죠.
+/e
+
+/s
+What would I be doing for the Durmand Priory?
+/t
+제가 Durmand Priory에서 무엇을 하게 되나요?
+/e
+
+/s
+Exploring old dwarven sites, studying the lesser races, and discovering new magical phenomenon. Exciting things!
+/t
+옛 드워프들의 터전을 탐험하거나, 하위 종족들을 공부하거나, 아니면 새로운 마법 현상을 찾거나 할겁니다. 재밌는 것들이죠!
+/e
+
+/s
+Thanks, Josir. I'll think about it.
+/t
+감사합니다 Josir. 고려해보겠습니다.
+/e
+
+/s
+Will there be fighting?
+/t
+싸울일이 있을까요?
+/e
+
+/s
+You can bet on it. Most of those old tombs are guarded—or haunted! Even scholars throw a punch now and then.
+/t
+당연하죠. 대부분의 오래된 무덤들은 경비가 있거나 귀신이 나오죠! 옛날이나 지금이나 학자들도 한주먹 해야한답니다.
+/e
+
+/s
+What sort of titles do you have?
+/t
+어떠한 직위가 있나요?
+/e
+
+/s
+You start as Novice, and eventually are promoted to full Scholar. In time, you may even become an honored Magister—if you do well!
+/t
+당신은 신참으로 시작할고, 나중에 제대로된 학자로 거듭날거에요. 시간이 지나면 어쩌면 당신은 명예로운 마기스터가 될수도 있어요, 잘만 하면요!
+/e
+
+/s
+May I ask another question?
+/t
+다른 질문을 해도 될까요?
+/e
+
+/s
+I'll think about it. Thanks, Josir.
+/t
+생각해보겠습니다. 고마워요 Josir.
+/e
+
+/s
+I'll join the Durmand Priory. First we stop Kellach, then on to save Tyria!
+/t
+Durmand Priory에 들어가겠습니다. Kellach를 먼저 막고 티리아를 구하도록 하죠.
+/e
+
+/s
+Thanks, Josir, but I haven't decided yet.
+/t
+감사합니다 Josir, 하지만 아직 결정을 내리지 않았습니다.
+/e
+
+/s
+Agent Ihan: Excellent! With cunning and foresight, we'll end Kellach's threat for good. I'm proud to call you an Initiate of Whispers.
+/t
+요원 Ihan: 훌륭합니다! 간계와 선견지명으로 Kellach의 위험을 확실히 끝낼수 있을겁니다. 당신이 Whispers의 신입요원인게 자랑스럽습니다.
+/e
+
+/s
+I already like the Order. I'll meet you at the palace!
+/t
+벌써 기관이 맘에 듭니다. 왕궁에서 뵙겠습니다.
+/e
+
+/s
+Agent Ihan: Your new order must be very proud,. I'm disappointed, but I know you'll save Queen Jennah. May fortune smile on you.
+/t
+요원 Ihan: 다른 기관은 당신을 가진걸 자랑스러워 할겁니다. 실망스럽지만 당신이라면 여왕님을 지켜낼거라고 믿습니다. 행운을 빕니다.
+/e
+
+/s
+Thanks, Ihan. I hope to see you again someday.
+/t
+고맙습니다 Ihan. 다시 볼수 있기를 기대하겠습니다.
+/e
+
+/s
+If you do, it means I'm not doing my job properly. Ha! Now, go on!
+/t
+그렇게 되면 전 제 일을 제대로 안하는겁니다. 하하! 자, 가세요!
+/e
+
+/s
+Consider it done.
+/t
+그러겠습니다.
+/e
+
+/s
+Crusader Hiroki: Glad to have you aboard, Recruit. I'll meet you at the palace with a squad. Together, we'll take out Kellach, and protect Kryta's queen!
+/t
+크루세이더 Hiroki: 들어오신걸 환영합니다, 훈련병. 부대원들과 함께 왕궁에서 보죠. 우리가 함께라면 Kellach를 해치우고 크라이타의 여왕님을 수호할수 있을겁니다.
+/e
+
+/s
+Looking forward to it. See you there.
+/t
+기대하겠습니다. 거기서 보도록 하죠.
+/e
+
+/s
+Crusader Hiroki: I won't argue with your choice,. I'll pray for you, and for the queen. May Balthazar stand with you.
+/t
+크루세이더 Hiroki: 당신의 결정에 왈가왈부하지 않겠습니다. 당신과 여왕님을 위해 기도하겠습니다. Balthazar가 당신과 함께하기를.
+/e
+
+/s
+Thanks, Hiroki. I promise you, Kellach's reign of terror ends here.
+/t
+감사합니다 Hiroki. Kellach의 공포가 여기서 끝날거라는걸 약속드리겠습니다.
+/e
+
+/s
+Scholar Josir: Grand, just grand! The Priory looks forward to utilizing your intellect, Novice. You've made the right choice. Gods save the queen—if they don't, we will!
+/t
+학자 Josir: 좋습니다, 아주 좋아요! Priory는 당신의 머리를 사용하기를 기대하고 있습니다. 올바른 선택을 하셨어요. 신들이 여왕님을 보호하시길...안그러면 저희가 할거에요.
+/e
+
+/s
+Thanks, Josir. I'll meet you at the palace.
+/t
+감사합니다 Josir. 왕궁에서 보도록 하죠.
+/e
+
+/s
+Scholar Josir: Blast it! Another excellent mind turned to inefficient purpose. It's okay. I'm sure you'll do well. Good luck,. It's been a pleasure.
+/t
+학자 Josir: 안타깝군요! 훌륭한 머리가 비효율적인 목적으로 사용되다니. 괜찮습니다. 당신이라면 잘 하실거에요. 행운을 빕니다. 당신과 만나서 영광이였어요.
+/e
+
+/s
+Thanks, Josir. I have great respect for both you and the Priory. I hope we'll meet again.
+/t
+고맙습니다 Josir. 전 당신과 Priory을 존경합니다. 다시 볼수 있길 기대하겠습니다. 
+/e
+
+/s
+Although we had to fight off creatures pouring through the portals to the Mists, we finally summoned the spirit of Alastia Crow. 
+/t
+비록 미스트를 통해 나오는 존재들과 싸워야 했지만 Alastia Crow의 영혼을 소환하는데 성공했다.
+/e
+
+/s
+According to her, Kellach was obsessed with protecting Kryta, and wanted to use her scrying powers. 
+/t
+그녀의 말에 따르면 Kellach는 크라이타를 수호하는데 집착을 보였고, 그녀의 예지 능력을 이용하길 원했다.
+/e
+
+/s
+He used them to look into Orr and something there corrupted him.
+/t
+그는 그녀의 능력으로 오르에 들어갔고 거기서 무언가가 그를 타락시켰다.
+/e
+
+/s
+When he demanded a cure, she bluffed that only "blood of great power and significance" would work. 
+/t
+그가 치료제를 원했을때 그녀는 "강력하고 중요한 권력자의 피"가 그럴거라고 거짓말을 했다.
+/e
+
+/s
+Enraged by this, he killed her. 
+/t
+화가난 그는 그녀를 죽였다.
+/e
+
+/s
+If he still wants that cure, there's only one thing it could be—killing the queen! We need to let Logan know right away.
+/t
+그가 치유를 원한다면 한가지 방법밖에 없다 - 여왕을 죽여야한다는거! 우리는 Logan에게 알고있는걸 말해줘야한다.
+/e
+
+/s
+I returned home and spoke with Captain Thackeray. Once again, the Order representatives had good ideas about how to proceed. 
+/t
+집에 돌아와서 Thackeray대장과 이야기를 했다. 또 다시 기관 대표들이 다음 행동에 대한 아이디어를 냈다.
+/e
+
+/s
+Logan believes it's time for me to join one of the Orders of Tyria, and I agreed.
+/t
+Logan은 이제 내가 티리아의 기관들중 하나를 골라 들어가야 한다고 했고, 나도 동의한다.
+/e
+
+/s
+Search the swamp for survivors of the undead attacks.
+/t
+늪지대안에 언데드들의 공격에 살아남은 생존자들을 찾으세요.
+/e
+
+/s
+Meet Josir in Lychcroft Mere.
+/t
+Lychcroft Mere에서 Josir를 만나세요.
+/e
+
+/s
+Find the missing children.
+/t
+실종된 아이들을 찾으세요.
+/e
+
+/s
+Talk to Hiroki and Ihan.
+/t
+Hiroki와 Ihan과 이야기하세요.
+/e
+
+/s
+Scholar Josir: Greetings and salutations, Advocate. A fine day for a walk in the swamp, wouldn't you agree?
+/t
+학자 Josir: 어서오세요 대변인. 늪지대를 돌아다니기 좋은 날이지요?
+/e
+
+/s
+You're mighty cheerful for someone headed to take on the Risen. What's up?
+/t
+나: Risen을 상대하러 가는 사람치곤 기분이 좋아보입니다. 뭐 좋은일 있나요?
+/e
+
+/s
+Scholar Josir: Ah, but I always enjoy a Priory expedition. Experimentation, research, discovering lost artifacts in an old musty tomb, then more experimentation.
+/t
+학자 Josir: 아, 전 항상 저희 단체가 주도하는 탐험을 즐깁니다. 실험하고, 연구하고, 오래된 무덤안에 있는 유물을 발견하고 더 많은 실험을 하고 말이죠.
+/e
+
+/s
+Scholar Josir: Every day's a new adventure in the Durmand Priory! It's a fine life.
+/t
+학자 Josir: Durmand Priory에서는 매일이 새롭습니다. 즐거운 삶이지요.
+/e
+
+/s
+You do manage to make it sound exciting. So what's this new trinket you were telling me about?
+/t
+나: 그것 참 즐겁게 들리게 만드네요. 그래서 저에게 말씀해준 새로운 장신구가 무었이죠?
+/e
+
+/s
+Scholar Josir: It's called the "Mortus Verge." It allows the holder to easily distinguish the living from the Risen dead—but also confuddles the undead, making it harder for them to find you.
+/t
+학자 Josir: Mortus Virge라는 것입니다. 착용자가 죽은 Risen과 살아있는 사람을 쉽게 구분할 수 있게 도와주고 언데드들을 혼란스럽게 만들어 발견되기 어렵게 만들어주죠.
+/e
+
+/s
+That does sound useful. Who built this thing?
+/t
+나: 유용할것 같네요. 누가 만들었나요?
+/e
+
+/s
+Scholar Josir: Would it surprise you if I said it was based on a charr invention? The Priory values ideas and innovation, no matter where the genius occurs.
+/t
+학자 Josir: 이게 차르족들이 만든거라면 믿겨지시나요? Priory는 천재성이 어디에서 발현되든 아이디어와 발명품을 귀중하게 여긴답니다.
+/e
+
+/s
+Scholar Josir: The dragons aren't being picky, so why should we? Any weapon we can use against them is worth exploring.
+/t
+학자 Josir: 드래곤들은 딱히 가리는것도 없는데 우리가 그래야할 필요가 있나요? 그들을 상대할 무기가 있다면 모험을 감행할 할 가치가 있습니다. 
+/e
+
+/s
+Charr, hm? Well, I can't fault your reasoning—especially if it helps us defeat these undead. Fire that thing up, and let's go find those missing kids.
+/t
+나: 차르족이요? 흠. 뭐, 당신의 논리에는 문제가 없어보이네요. 특히 언데드들을 물리치는데 도움이 된다면 말이죠. 작동을 시키고 실종된 아이들을 찾으로 갑시다.
+/e
+
+/s
+Scholar Josir: Be steadfast and trust in Priory intelligence, my friend. We'll find those children!
+/t
+학자 Josir: 저희 Priory의 지성을 변함없이 믿어주세요. 우리는 그 아이들을 찾을겁니다.
+/e
+
+/s
+Ready to go!
+/t
+준비됬습니다.
+/e
+
+/s
+Child: Help! Hey, over here!
+/t
+어린아이: 도와주세요! 저기요, 여기있어요!
+/e
+
+/s
+Scholar Josir: Don't be afraid, child. The Mortus Virge will protect you, and while the enchantment is active, you can sense the undead. Avoid them and run home as fast as you can.
+/t
+학자 Josir: 무서워 하지 마렴. Mortus Virge가 지켜줄거고, 작동하는 동안에는 언데드들을 감지할수 있단다. 그들을 피해서 집에 얼른 가렴.
+/e
+
+/s
+Child: Thanks, mister! I'll tell my parents all about how you saved me!
+/t
+어린아이: 감사합니다 아저씨! 부모님께 아저씨가 절 구해줬다고 말할께요!
+/e
+
+/s
+Child: I'm over here! Save me!
+/t
+어린아이: 저 여기있어요! 살려주세요!
+/e
+
+/s
+Scholar Josir: Quickly, child! This enchantment will allow you to sense the undead. Avoid them and make your way home!
+/t
+학자 Josr: 서둘러라 애야! 이 물건이 있으면 언데드들을 감지할수 있을거야. 피해서 집에 가렴!
+/e
+
+/s
+Child: Really? Thanks, mister!
+/t
+어린아이: 정말요? 고마워요 아저씨!
+/e
+
+/s
+Child: Help! Monsters and bad people!
+/t
+어린아이: 도와주세요! 괴물과 나쁜사람들이에요!
+/e
+
+/s
+Scholar Josir: I've enchanted you with the Mortus Virge, my child. Now you can sense the undead and avoid them. Keep your wits about you, and run! Run all the way home!
+/t
+학자 Josir: Mortus Virge를 작동해서 너에게 마법을 걸어주었단다 애야. 이제 언데드들을 감지할수 있을거야. 정신차리고 집까지 달려가렴!
+/e
+
+/s
+Child: Yay! Thank you, sir!
+/t
+어린아이: 야호! 감사합니다 아저씨!
+/e
+
+/s
+Child: You look like a living one. Please, I want to go home.
+/t
+어린아이: 살아있는 사람처럼 보이네요. 제발 절 집에 보내주세요.
+/e
+
+/s
+Scholar Josir: Don't be afraid. With this enchantment upon you, you can sense the undead and stay away from them. Now, head home!
+/t
+학자 Josir: 무서워하지 마렴. 이 마법이 함께 하면 언데드들을 감지해서 피해갈수 있을꺼야. 자, 집으로 가렴!
+/e
+
+/s
+Child: If you say so. Thanks a lot, mister old man.
+/t
+어린아이: 알겠어요. 고마워요 아저씨.
+/e
+
+/s
+The Priory will make sure you get home safe and sound. Good-bye, now.
+/t
+Priory가 너를 안전하게 집에 보내줄거란다. 그럼 잘가렴.
+/e
+
+/s
+Don't worry, the Priory will make sure you get home safe and sound. Good-bye, now.
+/t
+걱정말아라. Priory가 너를 집까지 안전하게 보내줄거란다. 그럼 잘가렴
+/e
+
+/s
+Scholar Josir: Magnificent! The Mortus Virge worked. Perhaps not perfectly, but certainly, better than I hoped!
+/t
+학자 Josir: 정말 멋집니다! Mortus Virge가 작동을 하는군요. 완벽하진 않지만 제가 생각했던것 보다 잘 됬군요.
+/e
+
+/s
+It's an impressive device. Tell me, is the Durmand Priory full of such things?
+/t
+나: 훌륭한 도구입니다. Durmand Priory에는 그런 물건들이 잔뜩 있나요?
+/e
+
+/s
+Scholar Josir: Yes and no. More importantly, our order is full of the kind of people who like to invent this sort of thing.
+/t
+학자 Josir: 그렇기도 하고 아니기도 합니다. 더 중요한건 저희 기관에는 이런 물건들을 발명하려고 하는 친철한 사람들로 가득찬것이죠.
+/e
+
+/s
+Scholar Josir: And, I might add, people like you—brave enough to test it! You would be a fine addition to our order, you know.
+/t
+학자 Josir: 그리고 한가지 더 말하자면, 당신처럼 용감한 사람들이 실험도 하죠! 당신이라면 저희 기관에 유용한 사람이 될것입니다.
+/e
+
+/s
+What else does the order do?
+/t
+나: 다른 일도 합니까?
+/e
+
+/s
+Scholar Josir: Anything! Everything! We travel the world, seeking lost knowlege to use against Zhaitan. Exciting, no?
+/t
+학자 Josir: 뭐든지요! 모든것들이요! 저희는 세상을 둘러보고 Zhaitain을 상대할 수 있는 잊힌 지식들을 찾고 다닙니다. 재밌어 보이지 않나요?
+/e
+
+/s
+It sounds very interesting. Thank you for telling me about it. We'd better get back and share news of our victory with the others.
+/t
+나: 정말 흥미롭네요. 말씀해주셔서 감사합니다. 돌아가서 저희의 성공을 다른사람들에게 알리도록 하죠.
+/e
+
+/s
+Thanks again for your assistance. This was extremely educational.
+/t
+나: 도움 감사합니다. 정말 많은걸 배웠어요!
+/e
+
+/s
+Scholar Josir: A fine day's work, and the children are safe at last. I consider this an exemplary field test. Well done, Advocate.
+/t
+학자 Josir: 알찬 하루였고 아이들은 이제 안전합니다. 이번엔 정말 모범적인 현장 실습이였습니다. 잘 하셨습니다 대변인.
+/e
+
+/s
+It was my honor to assist the Durmand Priory. Have you been with the Order long?
+/t
+Durmand Priory를 돕게되어 제 영광이였습니다. 기관에 오랫동안 계셨나요?
+/e
+
+/s
+Long? No, only a few years. I joined the Priory after discovering an old dwarven scroll. The things it said about the Elder Dragons... horrifying.
+/t
+오랫동안요? 아니요, 몇년 안되었어요. 저는 오래된 드워프들의 기록을 발견하고 Priory에 들어갔어요. 엘더 드래곤에 대해서 적었는데...정말 끔찍하더군요.
+/e
+
+/s
+But knowing that, don't you think Kryta needs your help more than the Order?
+/t
+이제 알고나서는 크라이타에는 당신의 도움이 더 필요하다고 생각되지 않나요?
+/e
+
+/s
+Helping the Order is also helping Kryta! Someone has to fight these dragons. In the end, what matters most is that Tyria survives.
+/t
+기관을 도우는게 크라이타를 돕는겁니다! 누군가는 드래곤들과 싸워야합니다. 결국 중요한건 티리아가 살아남는것이죠. 
+/e
+
+/s
+That's one way to look at it. Thank you for explaining.
+/t
+그렇게 생각할수도 있군요. 설명 감사합니다.
+/e
+
+/s
+I'll take that into consideration, Josir. Thanks for explaining.
+/t
+알겠습니다 Josir. 설명 감사합니다. 
+/e
+
+/s
+Can we mass-produce that Mortus Virge of yours? It would be incredibly handy!
+/t
+Mortus Virge를 대량생산이 가능할까요? 정말 유용할것 같습니다!
+/e
+
+/s
+As a new experiment, the Mortus Virge is still too unstable and difficult to replicate—and this is our first field test. But perhaps, someday!
+/t
+아직 초기 실험단계라 Mortus Virge는 너무 불안정하고 복제가 힘듭니다. 그리고 이게 첫 현장 실험이고요. 언젠가 가능할지도 모르죠!
+/e
+
+/s
+I'll hope that day comes soon. Thanks, Josir.
+/t
+그 날이 오기를 바랍니다. 감사합니다 Josir.
+/e
+
+/s
+Thank you, Josir. I was glad to help.
+/t
+감사합니다 Josir. 도움이 되어서 다행이네요.
+/e
+
+/s
+Thanks to the The Mortus Virge, Josir and I were able to pass safely through Lychcroft Mere, where we found several children hiding from the undead.
+/t
+Mortus Virge 덕에 Josir와 나는 Lychcroft Mere에서 언데드들에게서 숨어있는 아이들을 찾고 안전하게 통과할 수 있었다. 
+/e
+
+/s
+Meet Hiroki at the Seraph camp.
+/t
+세라프의 캠프에서 Hiroki와 만나세요.
+/e
+
+/s
+Meet Hiroki at Triskell Quay.
+/t
+Triskell Quay에서 Hiroki와 만나세요. 
+/e
+
+/s
+Repel the undead attacking Triskell Quay.
+/t
+Triskell Quay를 공격하는 언데드들을 물리치세요
+/e
+
+/s
+Talk to Captain Rendar.
+/t
+대장인 Rendar와 이야기를 나누세요
+/e
+
+/s
+Crusader Hiroki: It's worse than we feared. Zhaitan's minions are everywhere.
+/t
+크루세이더 Hiroki: 제가 생각했던것 보다 심각합니다. Zhaitan의 하수인들이 사방에 있어요.
+/e
+
+/s
+It looks bad down there. Do we have enough soldiers to save the town?
+/t
+나: 별로 좋아 보이지 않네요. 마을을 구할 병사는 충분히 있습니끼? 
+/e
+
+/s
+Crusader Hiroki: Whether we do or not, we're going to try. If my death saves an innocent life, then I've done my duty as Vigil—but I plan to go down fighting.
+/t
+크루세이더 Hiroki: 충분하든 안하든 시도해봐야 할것 같습니다. 우리의 죽음이 무고한 자들을 지켜낸다면 Vigil의 일원으로써의 역할은 한겁니다. 물론 순순히 죽어주진 않을거고요.
+/e
+
+/s
+Agreed. What's Vigil protocol in this kind of situation?
+/t
+나: 저도 마찬가지입니다. 이런 상황에서 Vigil의 행동강령은 어떻게 됩니까? 
+/e
+
+/s
+Crusader Hiroki: Well, we've got no time to form ranks. I sent our soldiers ahead into the town to drive back the undead. They'll need our help.
+/t
+크루세이더 Hiroki: 전열을 가다듬을 시간은 없습니다. 제가 병사들을 마을에 먼저 보내 언데드들을 물러나게 만들도록 했습니다. 우리의 도움이 필요할거에요.
+/e
+
+/s
+I'm ready for a fight, Hiroki. Let's not waste any more time.
+/t
+나: 싸울 준비가 되었습니다 Hiroki. 더 이상 시간 낭비하지 말죠.
+/e
+
+/s
+Farmer: Help!
+/t
+농부: 도와주세요!
+/e
+
+/s
+Crusader Hiroki: Don't stop, there's still more.
+/t
+크루세이더 Hiroki: 멈추지 마세요, 적이 더 있습니다.
+/e
+
+/s
+Crusader Hiroki: More undead over here.
+/t
+크루세이더 Hiroki: 여기 언데드가 더 있습니다.
+/e
+
+/s
+Seraph Soldier: Thanks, but don't let up. Everybody else is still fighting inside.
+/t
+세라프 병사: 감사합니다. 하지만 아직 전투를 계속 해야 합니다. 모두 안쪽에서 싸우고 있습니다.
+/e
+
+/s
+Seraph Soldier: Go on ahead! We'll hold this landing against whatever else they send!
+/t
+세라프 병사: 먼거 가세요! 무엇이 오든 저희가 이 곳을 막겠습니다. 
+/e
+
+/s
+Seraph Soldier: I'll guard the front entrance. Move in. There are more of us still fighting inside.
+/t
+세라프 병사: 입구를 지키고 있겟습니다. 들어가세요. 많은 저희 동료들이 안쪽에서 싸우고 있습니다.
+/e
+
+/s
+Seraph Soldier: Let's go, I've got your back.
+/t
+세라프 병사: 갑시다. 제가 뒤를 지키겠습니다.
+/e
+
+/s
+Crusader Hiroki: The undead are everywhere! We have to destroy them before the town is overrun!
+/t
+크루세이더 Hiroki: 언데드가 사방에 있습니다! 마을이 짓밟히기 전에 그들을 해치워야합니다!
+/e
+
+/s
+I'm with you. Stay close and we'll handle this together.
+/t
+함께 하겠습니다. 옆에 붙어계세요. 같이 이 시련을 해쳐나가죠. 
+/e
+
+/s
+Captain Rendar: We were in real trouble until you showed up. Those undead came out of nowhere.
+/t
+대장 Rendar: 여러분이 오기전까지 저희는 정말 큰 난관에 빠졌었어요. 언데드들이 갑자기 나타났습니다.
+/e
+
+/s
+How did the attack start?
+/t
+나: 어떻게 공격이 시작됬나요?
+/e
+
+/s
+Captain Rendar: The first thing I saw was Corporal Kellach, screaming and cursing. Then the undead started swarming and I lost track of him.
+/t
+대장 Rendar: 먼저 Kellach 상등병이 소리지르며 욕을하는걸 봤습니다. 그리고 언데드가 몰려들어서 그를 놓쳤습니다. 
+/e
+
+/s
+Crusader Hiroki: Kellach. You know him? Where is he now?
+/t
+크루세이더 Hiroki: Kellach를 알고 있었나요? 그는 어디 있죠?
+/e
+
+/s
+Captain Rendar: Do I know him? Sure. Kellach's assigned to this post, but he's been missing for days. It's not like him to go AWOL.
+/t
+대장 Rendar: 그를 아냐고요? 알아요. Kellach는 이 초소 담당이였지만 몇일간 보이지 않더군요. 탈영은 그 답지 않은 행동이에요.
+/e
+
+/s
+Captain Rendar: Look, I don't want to get him in trouble. Kellach is a good soldier, and a good man. He probably just overstayed his leave.
+/t
+대장 Rendar: 보세요, 그에게 아무 일도 없었으면 해요. Kellach은 좋은 군인이고 좋은 사람이에요. 그냥 단순히 복귀가 늦어졌을 뿐일겁니다.
+/e
+
+/s
+Captain Rendar: It's that pirate girl. I don't know why he was looking for her, but I bet she's done something to him.
+/t
+대장 Rendar: 그 해적여자 때문이에요. 이유는 모르겠지만 그가 그녀를 찾더군요. 그녀가 그에게 뭔가를 했을겁니다.
+/e
+
+/s
+Pirate girl? What was her name?
+/t
+나: 해적 여자요? 그녀의 이름은 뭐죠?
+/e
+
+/s
+Captain Rendar: I think he said it was "Alastia". He probably meant Alastia Crow, she's crew of a ship docked southeast of Nebo Terrace.
+/t
+대장 Rendar: 제 기억이 맞다면 Alastia 라는 이름을 말했던것 같아요. 아마 Alastia Crow를 말하는걸거에요. 그녀는 Nebo Terrace의 동남쪽의 부두에 정박한 배의 선원이에요.
+/e
+
+/s
+All right, Captain. We'll get to the bottom of this.
+/t
+나: 알겠습니다 대장님. 이 일에 대해 알아보겠습니다.
+/e
+
+/s
+Crusader Hiroki: Those undead nearly destroyed Triskell Quay. We need to find the source of this corruption and rip its heart out.
+/t
+크루세이더 Hiroki: 저 언데드들이 Triskell Quay를 거의 파괴할 뻔했어요. 이 타락의 근원을 찾아 뿌리를 뽑아야 해요.
+/e
+
+/s
+If that missing Seraph, Kellach, is responsible for these deaths, I swear—I'll make him pay.
+/t
+사라진 세라프 병사인 Kellach가 이 죽은사람들의 원인이라면, 맹세컨대 대가를 치르게 만들겁니다.
+/e
+
+/s
+Justice will be done, Advocate. The Vigil will see to that.
+/t
+정의의 철퇴가 내려질겁니다 대변인. Vigil이 확실히 그렇게 만들겟습니다.
+/e
+
+/s
+I look forward to it.
+/t
+기대하겠습니다. 거기서 보도록 하죠.
+/e
+
+/s
+Hiroki, your soldiers fought bravely. I'm impressed.
+/t
+Hiroki, 당신의 군인들은 정말 용감히 싸우더군요. 정말 인상깊었습니다.
+/e
+
+/s
+Thank you, Advocate. Each one was mentored and trained at Vigil Keep, the finest military encampment in the world.
+/t
+감사합니다 대변인. 각 병사들은 세계 최고의 군사훈련장인 Vigil Keep에서 교육과 훈련을 받았습니다.
+/e
+
+/s
+That must be an truly amazing place.
+/t
+정말 멋진 장소일것 같군요.
+/e
+
+/s
+What will happen to the people of Triskell Quay
+/t
+Triskell Quay의 주민들은 이제 어떻게 될까요?
+/e
+
+/s
+They will rebuild, and we'll be here to help. The Vigil will do everything we can for them.
+/t
+그들은 마을을 재건할 거고, 저희가 그것을 도울겁니다. Vigil이 그들을 돌보기 위해 무엇이든지 할겁니다.
+/e
+
+/s
+I'm glad. May I ask another question?
+/t
+다행입니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+The Vigil does a lot more than just fight dragons, I see. Good to know.
+/t
+Vigil은 드래곤과의 싸움만 하는게 아니였군요. 좋은걸 알게되었습니다.
+/e
+
+/s
+Captain Rendar mentioned someone named 'Alastia Crow.' Any idea who that is?
+/t
+대장 Rendar가 Alastia Crow 라는 이름을 말하던데, 누군지 아세요?
+/e
+
+/s
+She was a pirate, and a troublemaker. Used to squeeze money from people by promising to read their futures.
+/t
+그녀는 해적이고 문제를 일으키는 말썽꾼이죠. 사람들에게 미래를 알려준다고 하며 돈을 갈취하곤 했습니다.
+/e
+
+/s
+Read the future? Could she really do that?
+/t
+미래를 읽는다고요? 정말로 그러나요?
+/e
+
+/s
+I don't know, but I do know that charged an exorbitant fee. Alastia was the worst kind of parasite—she fed on people's hopes.
+/t
+잘 모르겠습니다, 하지만 확실한건 그녀가 지나친 비용을 요구한다는거죠. Alastia는 사람의 희망을 먹고사는 최악의 기생충이였습니다.
+/e
+
+/s
+That's awful. Can I ask another question?
+/t
+참 끔찍하군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+Sounds like a terrible woman. Come on, let's get back and tell the others.
+/t
+끔찍한 여성인것 같군요. 자, 돌아가서 다른이들에게도 말합시다.
+/e
+
+/s
+No argument here. We need answers, and we need them fast.
+/t
+동의합니다. 우린 답이 필요합니다, 그것도 최대한 빨리.
+/e
+
+/s
+Captain Rendar: Thank the Six God's for the Vigil! We'd have been destroyed without your help.
+/t
+대장 Rendar: Vigil의 도착에 여섯 신들께 감사드려야겠네요! 당신들이 없었다면 우린 전멸했을겁니다.
+/e
+
+/s
+The Seraph you saw among the Risen—was he alive or undead?
+/t
+당신이 본 Risen사이에 있던 세라프 병사 말입니다, 그는 살아있던가요 아님 죽어있던가요?
+/e
+
+/s
+He looked alive to me. Wasn't rotting or anything. Just kept mumbling to himself, like a madman.
+/t
+살아있는것으로 보였습니다. 어딘가 썩어있지도 않았고요. 단순이 미친사람처럼 중얼거리며 혼잣말을 하더군요.
+/e
+
+/s
+Good to know. Thank you.
+/t
+알겠습니다. 고맙습니다.
+/e
+
+/s
+You should be safe now. Tell me, do you often see Risen here?
+/t
+이제 안전할겁니다. Risen이 여기 자주 나타나나요?
+/e
+
+/s
+We occasionally see one of two washed in from the sea, but this was far more than our militia could handle.
+/t
+간혹 한두마리가 바다에서 해변으로 나타나지만, 이번에는 저희 부대가 감당하지 못할정도였습니다. 
+/e
+
+/s
+May I ask you another question, Captain?
+/t
+다른 질문을 해도 될까요 대장님?
+/e
+
+/s
+I wish you the best in rebuilding your town. Good-bye.
+/t
+무사히 마을을 재건하시길 바랍니다. 안녕히계세요.
+/e
+
+/s
+I've heard Triskell Quay was full of pirates. Is that really true?
+/t
+Triskell Quay에는 해적들로 가득하다고 하던데, 정말입니까?
+/e
+
+/s
+Pira—oh! You're Captain Thackeray's friend, aren't you? No, no pirates here. Good day to you, move along.
+/t
+해ㅈ...오! 당신은 Thackeray 대장님의 친구죠? 아니에요, 여기 해적은 없습니다. 좋은 하루 되시고 조심히 가세요.
+/e
+
+/s
+Thanks for the information.
+/t
+정보 감사합니다.
+/e
+
+/s
+She sailed with the crew of the "ravenous." Never met her myself, but I heard she's some kind of mystic.
+/t
+그녀는 Ravenous의 선원들과 함께 배를탔습니다. 만난적은 없지만 신비스로운 사람이라고 들었습니다.
+/e
+
+/s
+Mystic? What do you mean? Was she a spellcaster?
+/t
+신비스럽다고요? 무슨 의미인거죠? 그녀는 마법사인가요?
+/e
+
+/s
+That, and more. They say she could see the future. I don't know, I never saw her do it.
+/t
+그러면서 뭔가 더 있어요. 사람들이 말하기를 그녀는 미래를 내다본다더군요. 집적 본적이 없어서 잘은 모르겠습니다.
+/e
+
+/s
+Thanks for the information. We'll look into it.
+/t
+정보 감사합니다. 이 일에 대해 더 알아보겠습니다.
+/e
+
+/s
+I'm glad we could be here when you needed us. Good-bye.
+/t
+필요할때 저희가 도움이 되어서 다행입니다. 안녕히계세요.
+/e
+
+/s
+Triskell Quay was under attack by undead when I arrived.
+/t
+내가 도착했을때 Triskell Quay는 이미 언데드에게 공격을 당하고 있었다.
+/e
+
+/s
+We helped the guards in the area, and their lieutenant told us that a soldier named Kellach had stopped at the outpost.
+/t
+나는 구역의 경비병들을 도왔고 그들의 대장에게서 Kellach라는 이름을 가진 병사가 전초기지에 나타나지 않았다는걸 들었다.
+/e
+
+/s
+He left in the night to look for the pirate captain Alastia Crow.
+/t
+그는 밤에 해적선장인 Alastia Crow를 찾으러 갔다.
+/e
+
+/s
+I discussed the next course of action with the Order representatives, and chose a direction for the investigation.
+/t
+나는 기관 대표들과 다음 행동에 대해 의논을 했고 수사의 방향을 정했다.
+/e
+
+/s
+I hope we discover the cause of these problems soon.
+/t
+이 문제의 뿌리를 발견할수 있기를 바란다.
+/e
+
+/s
+The pirates of the "Ravenous" can tell you more about Kellach's plans.
+/t
+Ravenous의 해적들이 Kellach의 계획에 대해 알려줄수 있습니다.
+/e
+
+/s
+Meet Ihan at the Lionbridge Expanse.
+/t
+Lionbridge Expanse에서 Ihan을 만나세요.
+/e
+
+/s
+Acquire a disguise from Ihan.
+/t
+Ihan으로 부터 변장도구를 받으세요.
+/e
+
+/s
+Light the torches of Melandru.
+/t
+Melandru의 횃불을 켜세요.
+/e
+
+/s
+Speak to Captain Barnicus.
+/t
+선장인 Barnicus와 이야기를 나누세요.
+/e
+
+/s
+Impress the pirates by defeating the undead attackers.
+/t
+언데드를 물리쳐 해적들에게 큰 인상을 남겨주세요.
+/e
+
+/s
+Show Gaets that you can curse with the best of 'em!
+/t
+Geats에게 욕을 제일 잘 할 수 있다는걸 보여주세요.
+/e
+
+/s
+Report to Agent Ihan.
+/t
+요원 Ihan에게 보고하세요.
+/e
+
+/s
+Return to Divinity's Reach and speak to Captain Thackeray.
+/t
+Divinity's Reach로 돌아가 Thackeray 대장과 이야기를 하세요.
+/e
+
+/s
+Speak to Logan.
+/t
+Logan과 이야기를 하세요.
+/e
+
+/s
+Agent Ihan: Advocate—over here. Keep your voice low.
+/t
+요원 Ihan: 대변인 여기입니다. 목소리를 낮춰주세요.
+/e
+
+/s
+Agent Ihan: The pirates are still spooked from Kellach's attack. They won't be quick to trust newcomers.
+/t
+요원 Ihan: Kellach의 공격때문에 해적들이 많이 놀란상태입니다. 외부인을 쉽게 믿지 않을거에요.
+/e
+
+/s
+We need them to tell us what they know. How do we get them to talk?
+/t
+나: 그들이 뭘 알고 있는지 알아야 합니다. 어떻게 하면 입을 열게 할 수 있을까요?
+/e
+
+/s
+Agent Ihan: Don't worry, Advocate. The Order's been thinking ahead. It's what we do.
+/t
+요원 Ihan: 걱정마세요 대변인. 저희는 이미 생각해둔게 있습니다. 이게 저희 전문인데요.
+/e
+
+/s
+Agent Ihan: The Order of Whispers is the oldest organization in Tyria. We've managed to survive this long because we always have a plan.
+/t
+요원 Ihan: Order of Whispers는 티리아에서 가장 오래된 기관입니다. 항상 계획을 세웠기 때문애 이렇게 오랫동안 살아남을 수 있었죠.
+/e
+
+/s
+All right, Ihan. I'm listening. What do you suggest we do?
+/t
+나: 알겠습니다 Ihan. 어떻게 하면 되나요?
+/e
+
+/s
+Agent Ihan: I've hidden special torches on the outskirts of the pirate camp. They're enchanted with pure life force by a priest of Melandru.
+/t
+요원 Ihan: 해적 캠프의 변두리에 특수한 횃불들을 숨겨놨습니다. 그 횃불들은 Melandru의 여사제님을 통해 순수한 생명의 기운으로 가득 찼죠.
+/e
+
+/s
+Agent Ihan: The power of these torches will draw in the undead, but nobody else will notice the difference.
+/t
+요원 Ihan: 그 힘이 언데드를 끌어모을거지만 아무도 횃불의 차이를 모를겁니다.
+/e
+
+/s
+Draw in the undead? That's dangerous! People could get hurt.
+/t
+나: 언데드를 끌어온다고요? 그건 위험합니다! 사람이 다칠수 있어요
+/e
+
+/s
+Agent Ihan: These are no innocents, Advocate. They're pirates, and a cutthroat bunch at that. Bear that in mind.
+/t
+요원 Ihan: 이 사람들은 무고한 사람들이 아닙니다 대변인. 저들은 해적이고 살인자들이에요. 기억하세요.
+/e
+
+/s
+Agent Ihan: Disguise yourself and attempt to join the crew. When the undead attack, prove yourself defending the camp. They'll trust you after that.
+/t
+요원 Ihan: 해적으로 변장해서 입단하려고 해보세요. 언데드들이 공격할때 캠프를 지킴으로써 당신의 가치를 증명하세요. 그러면 당신을 신뢰할겁니다.
+/e
+
+/s
+Agent Ihan: I'll maintain the torches and watch for undead. I'll be nearby in case the situation escalates out of control.
+/t
+요원 Ihan: 저는 횃불을 유지하면서 언데드가 오는지 지켜보겠습니다. 상황이 손을 쓸수 없을정도로 악화될때를 대비해서 근처에 있겠습니다. 
+/e
+
+/s
+Agent Ihan: Here, put on this disguise. No one's going to believe you're a pirate in your current getup.
+/t
+요원 Ihan: 여기 변장도구들입니다. 지금 당신 복장으로는 절대 해적이라고 봐주지않을거에요.
+/e
+
+/s
+Is there anything else I need to know about being a pirate?
+/t
+해적에 대해서 알아야 할게 또 있습니까?
+/e
+
+/s
+Work on your swagger, your swearing, and your slang. You'll be fine.
+/t
+건들거리면서 욕과 은어를 쓰더록 하세요. 그러면 괜찮을겁니다.
+/e
+
+/s
+All right, I'll bear that in mind. Thanks, Ihan. Here I go...
+/t
+알겟습니다. 기억하도록 하죠. 고맙습니다 Ihan. 시작해볼까...
+/e
+
+/s
+Pirate: You there! If you have business, speak to Captain Barnicus; otherwise, shove off before I split you like a pig.
+/t
+해적: 어이 거기! 여기 볼일 있으면 Barnicus 대장님께 이야기를 해. 볼일 없으면 침뱉기 전에 꺼져. 
+/e
+
+/s
+Pirate: ♪Fifteen men on a dead man's chest.♪
+/t
+해적: 망자의 함위에 열다섯명이 쓰러졌네
+/e
+
+/s
+Pirate: ♪Yo ho ho and a bottle of rum!♪
+/t
+해적: 요우! 호우! 호우! 그리고 럼주 한병!
+/e
+
+/s
+Pirate: ♪Drink and the devil and done for the rest.♪
+/t
+해적: 마시고 죽고 하루를 마무리 하세
+/e
+
+/s
+First Mate Gaets: Get out of here before I use your parts for chum, you swine-hugging lowlife.
+/t
+일등항해사 Geats: 니 몸뚱아리를 밑밥으로 사용하기전에 꺼져, 이 돼지와 붙어먹을 놈아.
+/e
+
+/s
+Big talk from someone who smells like an unwashed dolyak.
+/t
+한번도 안씻은 돌리약처럼 냄새나는 인간이 할말은 아닌데.
+/e
+
+/s
+That's the best you got? Your wits are 'bout as quick as a pregnant cow.
+/t
+그게 너의 최선이냐? 재치가 임신한 소만큼 느리구먼.
+/e
+
+/s
+Hey, don't go bringing your mother into this. Someone might get hurt. You, in fact.
+/t
+이봐, 네 엄마를 여기에 끌어들이지마. 누군가 다칠수도 있어, 그게 너일거고.
+/e
+
+/s
+What's that? I'd murder you right now if I didn't mind getting the blood of a charr-loving rat-catcher on my blade.
+/t
+뭐라고? 너같이 쥐잡아 먹으며 차르와 붙어먹는놈의 피가 내 칼에 묻는게 싫어서 그렇지, 그것만 아니면 넌 이미 죽은목슴이야. 
+/e
+
+/s
+Please. You even think about murdering me you better stop yourself and apologize, skritt-licker.
+/t
+아 그것 참. 날 죽일생각을 했다면 그만 하고 미안하다고 빌어야 할거야, 이 스크릿트를 핥는놈아.
+/e
+
+/s
+Hah! Good one. I like you. You can live for now.
+/t
+하! 그거 괜찮았어. 너 맘에 드네. 일단 살려줄께.
+/e
+
+/s
+Thanks but I don't need any favors from you, flotsam-face. See you around.
+/t
+고마워, 하지만 너같은 허접한 면상에게 도움은 필요없어. 또 보자.
+/e
+
+/s
+I don't have to listen to this. I'm gone.
+/t
+들어줄 이유가 없어. 난 그냥 갈래.
+/e
+
+/s
+Whatever. I'm leaving before someone gets hurt.
+/t
+어쩌라고. 누가 다치기전에 난 여길 나가겠어.
+/e
+
+/s
+Take it easy, sailor. I'm not looking for trouble. Good-bye.
+/t
+진정해 친구. 난 문제를 일으키러 온게 아냐. 잘 있어.
+/e
+
+/s
+Captain Barnicus: Splendid view, isn't it? Only thing missing is our bloody ship! We never should have let that Seraph dog board the Ravenous again.
+/t
+선장 Barnicus: 멋진 경치지, 그렇지 않아? 한 가지 부족한게 있다면 배야! 그 개같은 세라프를 Ravenous에 다시 태우는게 아니였는데.
+/e
+
+/s
+First Mate Gaets: Ravenous died a noble death, Cap'n: on fire and full of holes. She went down fighting, like the grande dame she was.
+/t
+일등항해사 Geats: Ravenous는 명예롭게 죽었습니다 선장님. 많은 구멍과 함께 불탔죠. 대단한 배였듯이 싸우다 죽었죠.
+/e
+
+/s
+Captain Barnicus: Aye, that she did. That she did. Here, who's this new lubber come to stare at us?
+/t
+선장 Barnicus: 그래, 그랬지. 그랬어. 보자, 여기 우리를 쳐다보는 풋내기는 누구지?
+/e
+
+/s
+Reporting for duty, cap'n. They call me Yardarm, Rock Dog of the Eastern Sea. I hear you're looking for a new crew?
+/t
+나: 보고드립니다 선장님. 사람들은 저를 동해의 Rock Dog, Yardarm으로 부릅니다. 선원을 새로 뽑는다고 들었습니다. 
+/e
+
+/s
+Captain Barnicus: Ya heard wrong. We're looking for brothers and sisters of fortune. Sailors that'll stand by us when the blood starts flowin'. Now sling your hook before I—
+/t
+선장 Barnicus: 잘못 알고왔네. 우리는 행운의 형제와 자매들을 찾고 있어. 피가 흐를때 서로 지탱해줄 사람을 말이야. 저리 꺼지지 않으면 내가...
+/e
+
+/s
+Pirate: Captain! The undead are back! We're under attack!
+/t
+해적: 선장님! 언데드가 돌아왔습니다! 지금 공격당하고 있어요!
+/e
+
+/s
+Captain Barnicus: Damn them! Look alive, scalawags! Time for some payback.
+/t
+선장 Barnicus: 빌어먹을 놈들! 정신차려라 망나니들아! 복수의 시간이다.
+/e
+
+/s
+Captain Barnicus: You there, Yardarm! If you want to earn a berth on my ship, draw yer weapon and risk yer neck with the rest of us!
+/t
+선장 Barnicus: 거기너, Yardarm! 내 배에 한자리 차지하고 싶으면 목숨을 걸고 무기를 들고 같이 싸워!
+/e
+
+/s
+First Mate Gaets: Cap'n, I think we beat 'em! The area's clean.
+/t
+일등항해사 Geats: 선장님, 우리가 이긴것 같습니다. 저희 구역은 안전합니다.
+/e
+
+/s
+Captain Barnicus: Hurrah! Break out the rum! We've earned one more day, me mateys!
+/t
+선장 Barnicus: 후하! 럼주를 꺼내라! 하루 더 살아남았구나 친구들아!
+/e
+
+/s
+Captain Barnicus: You did well, Yardarm, but if you're lookin' to join my crew, fightin' ain't enough. You need sharp wit, too.
+/t
+선장 Barnicus: 잘했어 Yardarm. 그래도 싸우는것만으로 우리와 함께 할순 없지. 재치도 필요해.
+/e
+
+/s
+My wit? What does that have to do with anything?
+/t
+재치요? 무슨 상관입니까?
+/e
+
+/s
+Listen 'ere matey. My crew has to settle scores with words, or we'd kill each other off! Speak with Gaets, she'll set you to rights.
+/t
+잘 들어. 내 선원들은 무조건 말로 다툼을 해결해야해, 안그러면 서로 다 죽이고 난리날거야! Geats와 이야기 하면 시험을 할거야.
+/e
+
+/s
+Sounds crazy to me, but I'll do it.
+/t
+좀 미친소리 같지만 해보도록 하죠.
+/e
+
+/s
+What actually happened to your ship, the Ravenous?
+/t
+도대체 선장님의 배인 Ravenous에 무슨일이 생겼나요?
+/e
+
+/s
+After he'd become corrupted, Kellach returned to demand that Alastia 'cure him'. Zhaitan's scum followed him to our portage!
+/t
+Kellach가 타락한 후에 그는 돌아와서 Alastia에게 치료하라고 요구했지. Zhaitan의 떨거지들이 우리의 운반장소까지 따라왔어!
+/e
+
+/s
+So that's how you lost your crew?
+/t
+그래서 선원들을 잃은건가요?
+/e
+
+/s
+Aye, matey, and the ones who didn't die think we're cursed. I fear we'll never see the open ocean again.
+/t
+그런기여, 그리고 살아남은 애들은 저주받았다고 생각하지. 다시 바다로 못나갈까봐 두려워,
+/e
+
+/s
+I'm not ready to prove my wit just yet. Give me a moment.
+/t
+아직 제 재치를 시험할 준비가 안되었습니다. 시간을 좀 주세요.
+/e
+
+/s
+First Mate Gaets: Are you ready for your ears to turn blue, Yardarm?
+/t
+일등항해서 Geats: 얼굴 시퍼래질 준비 됬나 Yardarm?
+/e
+
+/s
+I'm ready if you are, Gaets!
+/t
+준비됬어 Geats!
+/e
+
+/s
+All righty, here we go! Ahen. Shut your hatch, you lily-livered bilge-rat!
+/t
+좋아. 시작하자고! 에헴...그 입구멍 쳐닫아 이 더러운 쥐새끼같은 겁쟁이 새끼야!
+/e
+
+/s
+Who are you calling a bilge-rat... um, you dumb jerk?
+/t
+누굴 쥐새끼라고 하는거냐...음, 이 등신아?
+/e
+
+/s
+Pretty weak, lubber. Let's try that again.
+/t
+약하다고 신입. 다시 해봐.
+/e
+
+/s
+All right. Give me another shot.
+/t
+알겠어. 다시 해보지.
+/e
+
+/s
+What did you call me, you grog-guzzling blowfish?
+/t
+뭐라고 했냐 이 술쳐먹는 복어새끼야?
+/e
+
+/s
+That's the spirit! Are you trying to intimidate me, you lice-infested hammock hanger?
+/t
+그래야지! 그걸로 날 겁주겠다는거냐, 이로 오염된 해먹걸이 새꺄?
+/e
+
+/s
+I'm not just trying, you pox-faced scab. You're shaking in your boots!
+/t
+당연하지 면상에 매독 딱지 같은 새끼야. 겁 쳐먹으거 보소!
+/e
+
+/s
+Good one! I'll gut you like a trout, you scurvy, buck-toothed, flea-bitten child of a sea hag!
+/t
+좋았어! 송어처럼 배를 따주겠어 이 괴혈병걸려 토끼새끼이빨 가지고 벼룩에게 물리고다니는 바다 할망구의 자식새꺄!
+/e
+
+/s
+But you won't because...because...aw, I had one, but I lost it.
+/t
+하지만 넌 그러지 않을...하지만...아, 되받아칠게 있었는데 까먹었어.
+/e
+
+/s
+Bring it on, you sea-fearing, tide-turning, half-witted poop deck!
+/t
+덤벼, 바다한테 쫄고 줏대도 없고 재치 반쪽도 없는 똥덩어리 새끼야!
+/e
+
+/s
+That was amazing! Well done, you salty dog. Captain, this is a good one!
+/t
+그거 멋지군! 잘했어 이 발끈쟁이야. 선장님, 이거 물건인데요!
+/e
+
+/s
+Hooray! I knew I could do it!
+/t
+만세! 해낼줄 알았다고!
+/e
+
+/s
+Sea hag? My mother was a good woman! You take that back!
+/t
+바다 할망구? 우리 어머니는 좋은 여자셨어! 취소해!
+/e
+
+/s
+Your mother was a cowherder!
+/t
+네 어머이는 소몰이셨어!
+/e
+
+/s
+I'm not a peasant, You're a peasant!
+/t
+난 평민이 아니야, 넌 평민이고!
+/e
+
+/s
+What? Shut your stupid face!
+/t
+뭐? 그 바보같은 면상이나 닫어!
+/e
+
+/s
+Captain Barnicus: Ya fight like a pack of wolves, Yardarm. I'd take you aboard in the blink of a mermaid's eye. Trouble is, my ship is busy cozying up with the seafloor.
+/t
+대장 Barnicus: 늑대무리처럼 싸우는군 Yardarm. 인어가 눈 깜빡할 사이에 널 태우고 바다로 나가고 싶구먼. 문제는 내 배가 해저에서 너무 편히 지내고 있다는거야.
+/e
+
+/s
+Captain Barnicus: Gaets! You tell the tale. Layin' out our bad luck'll set me to weepin' like a quaggan.
+/t
+대장 Barnicus: Geats! 이야기를 해줘라. 날 슬피우는 쿠아간 처럼 만들어준 불행을 말해줘.
+/e
+
+/s
+First Mate Gaets: A Seraph, by name of Kellach, came callin' on our seer. Naturally, we thought we'd feed him to the sharks, but he had coin and promise of more.
+/t
+일등항해사 Geats: Kellach라는 이름을 가진 세라프가 우리의 예언자를 보러 왔지. 우린 평소처럼 상어밥으로 만들려고 했는데 나중에 더 준다고 하며 돈을 준비했더라고.
+/e
+
+/s
+First Mate Gaets: We'd plundered an Orrian cruiser, plucked her treasures right under the ol' dragon's nose. Kellach wanted the lot; we sold 'em for a pretty penny.
+/t
+일등항해사 Geats: 우린 오르의 순양함을 약탈했고, 늙은용의 코앞에서 보물을 훔쳤지. Kellach는 많은걸 원했고 우린 짭짤한 가격에 팔았지.
+/e
+
+/s
+First Mate Gaets: Then he comes back a few nights later, screaming for the seer, Alastia Crow. He grabs her by the throat and says he'll kill 'er unless she removes some curse he's under.
+/t
+일등항해사 Geats: 그리고 몇일후에 예언자 이름인 Alastia Crow를 울부짖으며 다시 찾아오더군. 목을 잡더니 자기에게 걸린 저주를 안 풀면 죽이겠다고 하더라고.
+/e
+
+/s
+First Mate Gaets: Behind him come undead like the plague. He ignores 'em, doesn't even know they're there, and I hear Alastia whisper to him: "Blood of royalty."
+/t
+일등항해사 Geats: 그의 뒤에는 언데드가 역병처럼 따라왔었어. 그는 그들을 무시했고 왜 그들이 왔는지 모르더라고. 그리고 난 Alastia가 그에게 "왕기의 피" 라고 귓속말 하는걸 들었지.
+/e
+
+/s
+First Mate Gaets: Kellach stabs Alastia and rushes off screamin', leavin' us there to the mercy of the undead. They scuttled our ship and ruined everything.
+/t
+일등항해사 Geats: Kellach는 Alastia를 찔렀고 소리지르며 뛰쳐나갔고, 우리는 언데드들과 남겨졌지. 그들은 우리 배에 구멍을 내고 모든걸 망쳤지.
+/e
+
+/s
+Captain Barnicus: That's the sad story of the landlocked "Ravenous." These are bitter days to be a pirate.
+/t
+대장 Barnicus: 저게 땅에 쳐박힌 Ravenous에 대한 슬픈 이야기야. 해적에겐 씁쓸한 날이지.
+/e
+
+/s
+I'm sorry to hear that, but I'm looking for work as a sailor, not a sellsword. If your ship's not seaworthy, it's best we part ways.
+/t
+나: 유감입니다. 하지만 용병이아닌 선원으로써 일하길 기대하고 있었습니다. 배가 바다로 나가지 못한다면 함께 하지 못할것 같습니다.
+/e
+
+/s
+Captain Barnicus: It's a pity you won't sail with us, Yardarm. I guess we'll see you on the tide. For now, I've got a ship to mend and a crew to rebuild.
+/t
+대장 Barnicus: 우리와 함께 하지 못한다는게 참 안타깝군 Yardarm. 언젠가 바다에서 보자고. 지금 나는 배를 고치고 선원을 새로 뽑아야하니깐 말이야.
+/e
+
+/s
+Aye-aye, captain. Farewell.
+/t
+네, 선장님. 안녕히계세요.
+/e
+
+/s
+First Mate Gaets: Too much to do and not enough crew. Either sign up or clear off.
+/t
+일등항해사 Geats: 일은 많은데 일할 사람이 없군. 입단할거 아니면 가라.
+/e
+
+/s
+Easy there, salty. I'll come back when you're feeling a bit more sociable.
+/t
+진정해 발끈아. 사람들과 어울릴 기분이 되면 다시 돌아오도록 하지.
+/e
+
+/s
+Agent Ihan: Our little undead attack went off without a hitch. How'd it play with the pirates?
+/t
+요원 Ihan: 별 문제없이 언데드의 공격을 유도했습니다. 해적과는 어떻게 됬습니까?
+/e
+
+/s
+I still think it was risky, but it paid off in spades. I know what Alastia told Kellach!
+/t
+여전히 위험하다고 생각합니다만, 결과는 얻어냈습니다. Alastia가 Kellach에게 어떤 말을 했는지 알아냈습니다.
+/e
+
+/s
+Risk is measured by reward, Advocate! What did you find out?
+/t
+위험은 결과에 따라 달라집니다 대변인. 뭘 알아내셨나요?
+/e
+
+/s
+After he was corrupted, he went to Alastia to find out how to remove the dragon's curse.
+/t
+그가 타락한 이후에, 그는 Alastia를 찾아가서 저주를 풀어내려고 했습니다.
+/e
+
+/s
+Remove it? That's not possible. Zhaitan's corruption can't be undone!
+/t
+해주하려고 했어요? 그건 불가능해요 Zhaitan의 타락은 되돌릴수가 없어요!
+/e
+
+/s
+We know that, but Kellach didn't—and Alastia lied. She told him he needed the "blood of royalty."
+/t
+당연히 알죠, 하지만 Kellach는 몰랐고 Alastia는 거짓말을 했어요. 그녀는 그에게 왕가의피가 필요하다고 말했어요.
+/e
+
+/s
+By Melandru! Kellach's going to attack Queen Jennah! We must send word to Captain Thackery right away.
+/t
+Melandru님이여! Kellach는 Jennah여왕님을 해치려고 하는군요! 빨리 Thackeray대장님에게 이야기를 전해야합니다.
+/e
+
+/s
+I'll meet you back in Divinity's Reach.
+/t
+Divinity's Reach에서 다시 보죠.
+/e
+
+/s
+I gained the trust of Captain Barnicus and crew and learned that Kellach met with Alastia Crow, their seer, and was corrupted when he scryed too deeply into Orr. 
+/t
+나는 Barnicus 대장과 그의 선원들의 신뢰를 얻고 Kellach가 그들의 예언자인 Alastia Crow를 만났다는걸 알았다. 그리고 그가 오르에 대해 너무 깊이 들어가 타락했다는것도 알게되었다.
+/e
+
+/s
+Apparently, Crow told him that he needed royal blood to undo the corruption, so he killed her and sank the "Ravenous."
+/t
+알고보니 Crow는 그에게 타락을 되돌리기위해 와가의 피가 필요하다고 말했고, 그는 그녀를 죽이고 Ravenous를 침몰시켰다.
+/e
+
+/s
+I need to warn Logan that Queen Jennah is in danger!
+/t
+나는 Logan에게 Jennah 여왕님이 위험하다고 알려야한다!
+/e
+
+/s
+Protect Queen Jennah from Kellach, the corrupted Seraph.
+/t
+타락한 세라프인 Kellach로 부터 여왕을 지켜내세요.
+/e
+
+/s
+Meet Josir at the queen's palace.
+/t
+여왕의 궁에서 Josir를 만나세요
+/e
+
+/s
+Speak with Josir.
+/t
+Josir와 대화하세요.
+/e
+
+/s
+Safeguard Queen Jennah.
+/t
+Jennah여왕을 보호하세요.
+/e
+
+/s
+Defeat Kellach and his minions.
+/t
+Kellach와 그의 하수인들을 물리치세요.
+/e
+
+/s
+Meet Ihan at the queen's palace.
+/t
+여왕의 궁에서 Ihan을 만나세요
+/e
+
+/s
+Arm the bombs.
+/t
+폭탄을 장착하세요.
+/e
+
+/s
+Meet Hiroki at the queen's palace.
+/t
+여왕의 궁에서 Hiroki를 만나세요
+/e
+
+/s
+Countess Anise: The Shining Blade guards the Queen of Kryta. Nothing that comes through that door will touch her, I swear it.
+/t
+Anise 백작: Shining Blade가 크라이타의 여왕을 지킬겁니다. 맹세컨데 그 어느 누구도 저 문을 지나 그 분을 건드리지 못할거에요.
+/e
+
+/s
+Are the Shining Blade part of the Seraph, or the Ministry?
+/t
+Shining Blade는 세라프의 일부인가요? 아니면 내각의 일원인가요?
+/e
+
+/s
+The Shining Blade serve as personal guard to the throne. For generations, we have protected and advised the rulers of Kryta.
+/t
+Shining Blade는 왕의 근위병입니다. 저희는 대대로 크라이타의 지도자를 수호하고 조언해드렸죠.
+/e
+
+/s
+I'm glad the queen has such loyal guards. May I ask another question?
+/t
+여왕님께 이렇게 충직한 근위병이 있어서 다행입니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+Thank you for reminding me.
+/t
+다시 상기시켜주셔서 감사합니다.
+/e
+
+/s
+Countess Anise? You can fight?
+/t
+Anise 백작님? 싸울수 있으신건가요?
+/e
+
+/s
+Fight? Darling, I devastate. If any of Kellach's minions approach my queen, I assure you, you'll see exactly what I'm capable of doing.
+/t
+싸움요? 저는 휩쓸고 다닌답니다. Kellach의 하수인이 나의 여왕님께 온다면 제 능력을 확실하게 보여드리죠.
+/e
+
+/s
+I'm sure we will! May I ask another question?
+/t
+저도 같이 보여드리겠습니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+I'll keep that in mind.
+/t
+기억해두겠습니다.
+/e
+
+/s
+Queen Jennah: I stand ready to do my part for Kryta. May the Six Gods watch over us all.
+/t
+Jennah 여왕: 크라이타에서 제 의무를 할 준비가 되었습니다. 여섯신들이 저희를 살펴주시길.
+/e
+
+/s
+Your Majesty, have you been updated on everything that's happened so far?
+/t
+전하, 최근 소식들을 다 들으셨습니까?
+/e
+
+/s
+Logan told me the tale, Advocate. Poor Kellach. My heart breaks for that young Seraph.
+/t
+Logan이 이야기 해주셨답니다 대변인. 불쌍한 Kellach. 그 젊은 세라프때문에 제 가슴이 아프네요.
+/e
+
+/s
+Agreed, Your Majesty. May I ask another question?
+/t
+저도 그렇습니다 전하. 다른 질문을 해도 될까요?
+/e
+
+/s
+He wanted to help Kryta, but doomed himself in trying. We'll make sure his mistake doesn't hurt anyone else.
+/t
+그는 크라이타를 돕고 싶었지만 자멸하고 말았습니다. 적어도 그의 실수가 다른 사람을 해치지 못하게 막겠습닏.
+/e
+
+/s
+You may be in danger, Your Majesty. Are you sure you want to stay here?
+/t
+위험하실수 있습니다 전하. 정말 여기에 계시겠습니까?
+/e
+
+/s
+Quite sure. The Shining Blade will protect me, while you and Logan handle Kellach. I fully understand my part.
+/t
+네, 있겠습니다. 당신과 Logan이 Kellach를 처리하는 동안 Shining Blade가 저를 지켜줄거에요. 저는 제 역할을 알고 있습니다.
+/e
+
+/s
+The Shining Blade? You mean Countess Anise and her friends?
+/t
+Shining Blade요? Anise 백작님과 그분의 친구들 말입니까?
+/e
+
+/s
+Just so. Anise has been my guardian since childhood, and the Blade are excellent defenders. I am safer here than in the Ministry!
+/t
+네. Anise는 제가 어릴때 부터 저의 수호자였고, Shining Blade는 훌륭한 지킴이들입니다. 내각에 있을때 보다 훨씬 안전해요.
+/e
+
+/s
+I'm glad you're keeping your spirits up, Your Majesty. Excuse me, while I prepare.
+/t
+굳건한 모습을 보니 좋습니다. 실례하겠습니다 전하. 준비를 해야겠습니다.
+/e
+
+/s
+Captain Thackeray is very worried about you, Your Majesty.
+/t
+전하에 대한 Thackeray 대장님의 걱정이 많습니다.
+/e
+
+/s
+Logan? He mustn't worry...please, tell him I'll be fine. If he is distracted, and gets hurt, I don't know what I would do.
+/t
+Logan이요? 걱정하지 말았으면 하는데...그에게 전 괜찮을거라고 말해주세요. 그가 집중을 못하면 다칠수도 있어요. 그러면 전 어찌해야할지 모를것 같네요.
+/e
+
+/s
+If I may be so bold, ma'am, the two of you seem to care about one another very much.
+/t
+주제넘게 말씀드리자면 두분 서로 정말 아끼시는 것 같습니다.
+/e
+
+/s
+He is like an angel sent from Dwayna to be at my side. If things were different, or if Kryta were at peace. then perhaps...
+/t
+그는 Dwayna님이 제 곁에 보내준 천사같은 사람입니다. 상황이 다르거나 크라이타에 평화가 온다면, 그때가 오면 아마도...
+/e
+
+/s
+I hope the best for you two, ma'am. May I ask another question?
+/t
+두분이 꽃길만 걸으시길  바라겠습니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+Good Iuck, ma'am. To all of us.
+/t
+행운을 빕니다 전하. 저희 모두에게도 말이죠.
+/e
+
+/s
+Keep yourself safe, Your Majesty, and I'm certain he will be fine.
+/t
+최대한 안전하게 계세요 전하. 그러면 그는 괜찮을겁니다.
+/e
+
+/s
+I've never seen so many guards in the throne room, Your Majesty. It feels strange.
+/t
+알현실에 이렇게 많은 근위병을 본건 처음이네요. 기분이 묘합니다.
+/e
+
+/s
+It is odd, isn't it? My father had more, as you may remember. but when I took the throne, I wanted people to feel comfortable in my presence.
+/t
+묘하죠? 기억하시겠지만 제 아버지가 계셨을땐 더 많았어요. 하지만 제가 왕좌를 이었을때 사람들이 저와 함께 있을때 편안함을 느끼게 해주고 싶었어요.
+/e
+
+/s
+It worked. The people of Kryta trust you. May I ask another question?
+/t
+성공하신것 같습니다. 크라이타의 백성들은 전하를 신뢰합니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+You've done well, Your Majesty. Divinity's Reach is in good hands.
+/t
+잘하셨습니다 전하. Divinity's Reach는 훌륭한 지도자 아래에 있군요.
+/e
+
+/s
+I hope the Gods are listening to your prayers, Your Majesty. Exuse me, while I prepare.
+/t
+신들의 전하의 기도를 들어주시길 바랍니다. 준비해야해서 저는 이만 실례하겠습니다
+/e
+
+/s
+Logan Thackeray: Jennah's in danger. Stay alert, and if you have an extra moment, be sure to pray. May Lyssa keep her safe!
+/t
+Logan Thackeray: Jennah가 위험에 빠졌습니다. 모두 주변을 경계하시고 여유가 있다면 기도하세요. Lyssa님이 그녀를 보호하기를!
+/e
+
+/s
+You really love her, don't you?
+/t
+당신은 정말 그녀를 사랑하는군요, 그렇지 않나요?
+/e
+
+/s
+It's that obvious, huh? Yes. I do. I would gladly give my life for her. She's everything to me.
+/t
+너무 티가 났나요? 그래요. 그녀라면 제 목숨을 줘도 아깝지 않습니다. 그녀는 제 모든것이에요. 
+/e
+
+/s
+She means more to you than Kryta?
+/t
+그녀가 크라이타보다 중요한가요?
+/e
+
+/s
+Even on my darkest days, her smile gives me hope. If there is purpose in my life, it is to keep her safe. She is Kryta, in my eyes.
+/t
+저의 가장 암훌한 시절에 그녀는 미소로 저에게 희망을 줬습니다. 저에게 삶의 목적이 있다면 그녀를 안전하게 지켜내는겁니다. 제 눈에는 그녀가 크라이타입니니다. 
+/e
+
+/s
+I hope everything works out for you two, Logan. Good luck.
+/t
+두분사이가 잘 되길 기도하겠습니다 Logan. 행운을 빌어요.
+/e
+
+/s
+I'm sure the Gods will watch over us all.
+/t
+신들이 우리 모두를 살펴봐 주실겁니다.
+/e
+
+/s
+Scholar Josir: Welcome, Novice. Today, you are a proud member of the Durmand Priory. Congratulations!
+/t
+학자 Josir: 어서오세요 우리 신입. 오늘 당신은 자랑스러운 Durmand Priory의 일원입니다. 축하합니다!
+/e
+
+/s
+I'm looking forward to it, Josir, thank you. So what's our plan?
+/t
+나: 기대하고 있겠습니다 Josir. 고마워요. 이제 계획이 뭔가요?
+/e
+
+/s
+Scholar Josir: The Mortis Verge. It's done extremely well in field tests against the undead.
+/t
+학자 Josir: Mortis Virge를 사용할겁니다. 언데드를 상대로한 실험에서 뛰어난 성능을 보여줬어요.
+/e
+
+/s
+Scholar Josir: With this, we should be able to protect Queen Jennah and contain the undead threat.
+/t
+학자 Josir: 이거라면 언데드의 위험을 가두고 여왕님을 지켜드릴수 있을겁니다.
+/e
+
+/s
+Logan Thackeray: And by "contain," you mean "destroy," right, Josir?
+/t
+Logan Thackeray: 가둔다는건 없앤다는 거 맞죠 Josir?
+/e
+
+/s
+Scholar Josir: What? Oh, yes, yes. At that point, it should be a simple matter to mop up the Risen.
+/t
+학자 Josir: 네? 아, 네, 네. 그 때가 오면 대걸레로 밀기만 하면 됩니다.
+/e
+
+/s
+Logan Thackeray: I hope so. Kellach's been sighted near palace grounds. We should know his location any minute now.
+/t
+Logan Thackeray: 그렇게 되길 바랍니다. Kellach가 왕궁 근처에서 보였다고 합니다. 곧 그의 위치를 알수 있을겁니다.
+/e
+
+/s
+Scholar Josir: Novice, I want you to wield the Mortus Virge in battle against Kellach. You've been instrumental in our efforts to stop him.
+/t
+학자 Josir: 여기 Mortus Virge를 들고 Kellach을 상대해주세요. 당신은 우리가 그를 저지하는데 중요한 역할을 했습니다. 
+/e
+
+/s
+I'd be honored to. Josir.
+/t
+영광입니다 Josir.
+/e
+
+/s
+Josir, what can you tell me about the Mortus Virge?
+/t
+Josir, Mortus Virge 에대해서 알려주시겠습니까?
+/e
+
+/s
+It's a conduit of life energy, drawing upon your life force to burn the undead. This draw is literal.
+/t
+생명력의 도관입니다. 사람의 생명력을 뽑아 언데드를 태워죽이죠. 말 그대로 뽑는거에요.
+/e
+
+/s
+You mean it could kill me?
+/t
+그럼 저를 죽일 수도 있다는건가요?
+/e
+
+/s
+It would absolutely kill you were it not for the fact it can replenish your life force by stealing it from foes.
+/t
+상대의 생명력을 뽑아 충전해주는 기능을 추가하지 않았다면 없다면 죽을겁니다. 
+/e
+
+/s
+Sounds dangerous, and exciting. I'm ready.
+/t
+위험하게 들리면서 재밌네요. 준비됬습니다.
+/e
+
+/s
+I see. I'll consider myself warned.
+/t
+그렇군요. 주의하겠습니다.
+/e
+
+/s
+Queen Jennah: I'm honored to have such dedicated protectors. Josir informed me that this "Mortus Virge" will protect me from Kellach.
+/t
+Jennah 여왕: 충직한 수호자들이 있어서 정말 영광입니다. Josir가 이 Mortus Virge라는 도구가 저를 Kellach로부터 지켜줄거라고 하더군요.
+/e
+
+/s
+Please be still your majesty, the enchantment will only take a moment.
+/t
+잠시만 가만 있어주십시오 전하. 빠르게 마법을 작동하겠습니다.
+/e
+
+/s
+Corporal Kellach: Your Majesty...Queen Jennah...
+/t
+상등병 Kellach: 전하...Jennah 여왕님...
+/e
+
+/s
+Corporal Kellach: Listen to me! Let me close. I won't hurt you...I...I just need your blood. This is for Kryta. For Kryta...
+/t
+상등병 Kellach: 제 말을 들어주세요! 다가가게 해주세요. 해치지 않겠습니다...전...전 그냥 전하의 피만 필요해요. 이건 크라이타를 위한겁니다. 크라이타를 위해...
+/e
+
+/s
+Corporal Kellach, stand down! You're not thinking clearly. Drop your weapons and surrender. Do not approach the queen.
+/t
+나: Kellach 상등병, 물러서라! 지금 넌 제정신이 아니야. 무기를 놓고 항복해. 여왕님께 다가가지마라.
+/e
+
+/s
+Corporal Kellach: No. I need her blood! Royal blood. Don't you understand? It can cure the corruption. Make us all free!
+/t
+상등병 Kellach: 안돼. 난 그녀의 피가 필요해! 왕가의 피가. 이해가 안돼? 그게 나의 타락을 치유할거야. 우리 모두를 자유롭게할거야!
+/e
+
+/s
+It's not true. Alastia Crow lied to you, Kellach. She did this just to endanger the queen.
+/t
+나: 사실이 아니야. Alastia Crow가 자네에게 거짓말을 한거야 Kellach. 여왕님을 위험에 빠뜨리기 위해 그런거라고.
+/e
+
+/s
+Corporal Kellach: No...no, you're wrong. There has to be a way. Tell me!
+/t
+상등병 Kellach: 아냐...아냐, 너가 틀렸아. 방법이 있을거야. 말해!
+/e
+
+/s
+Queen Jennah: There is no way to cure dragon corruption. If there were, I would gladly give my life to ensure Kryta's future.
+/t
+Jennah 여왕: 드래곤의 타락을 치유할 수 있는 방법은 없어요. 방법이 있었다면 기꺼이 제 목숨을 바쳐 크라이타의 미래를 보전했을거에요.
+/e
+
+/s
+Corporal Kellach: You're a liar! No, no, this can't be the truth. I'll kill you all!
+/t
+상등병 Kellach: 거짓말! 아니야, 아니야, 이게 사실일리가 없어. 너희 모두 죽여버리겠어!
+/e
+
+/s
+Quickly, Josir! Now! Shield the queen!
+/t
+나: 서두르세요 Josir! 지금입니다! 여왕님께 보호막을 발동하세요!
+/e
+
+/s
+Poor Kellach. His mistakes were rooted in his love for queen and country.
+/t
+나: 불쌍한 Kellach. 그의 잘못은 여왕님과 이 나라를 사랑때문이였어.
+/e
+
+/s
+Logan Thackeray: So many mistakes...made for all the right reasons. The queen could have been killed by someone who loved her. Even...I mean, it really makes you think.
+/t
+Logan Thackeray: 수 많은 잘못들이...올바른 이유 때문에 일어나기도 하죠. 여왕님은 자신을 사랑하는 사람에 의해 죽을수도 있었습니다. 물론...이건 정말 많은 생각을 하게 만드네요.
+/e
+
+/s
+It's all right, Logan. The queen is safe. Focus on the future, and Kryta will stay safe, too.
+/t
+나: 괜찮습니다 Logan. 여왕님은 안전해요. 미래에 집중하시면 크라이타도 안전할겁니다.
+/e
+
+/s
+Scholar Josir: Novice, you've shown both intelligence and courage. I rate your performance as exceptional.
+/t
+학자 Josir: 당신은 지성과 용기를 동시에 보여줬습니다. 이번 임무의 평가는 최고입니다!
+/e
+
+/s
+Scholar Josir: You should head to Lion's Arch, and receive your first formal assignment. It's time to send you out into the field.
+/t
+학자 Josir: Lion's Arch로 가셔서 첫 정식 임무를 받으세요. 이제 슬슬 실전에 들어가셔야 합니다.
+/e
+
+/s
+I look forward to it, Josir. It's time to be part of the bigger world.
+/t
+나: 기대하겠습니다 Josir. 더 큰 물에서 놀때가 되었어요.
+/e
+
+/s
+Logan, are you all right? You seem rattled.
+/t
+나: Logan, 괜찮아요? 뭔가 난처해 보이네요.
+/e
+
+/s
+Logan Thackeray: I'm glad Jennah's safe, but I realize now that her safety is temporary. Everything is temporary, unless the dragons can be stopped.
+/t
+Logan Thackeray: Jennah가 안전해서 다행이지만 그녀의 안전은 일시적입니다. 드래곤을 멈추지 않는 이상 모든게 일시적이에요.
+/e
+
+/s
+Logan Thackeray: The dragons can't be defeated by one person, or even one nation. There has to be another way.
+/t
+Logan Thackeray: 사람 혼자나 국가 하나만으로 드래곤을 물리칠 수 없습니다. 다른 방법이 있을거에요.
+/e
+
+/s
+Logan Thackeray: Do you think we can overcome our mistakes, my friend? Make up for the things we've done?
+/t
+Logan Thackeray: 우리의 .잘못을 극복할 수 있을까요? 우리의 잘못을 만회할 수 있을까요?
+/e
+
+/s
+I know we can, Logan. Mistakes make us human. It's rising up again that makes us heroes.
+/t
+나: 할수 있습니다 Logan. 사람이기 때문에 실수하는겁니다. 거기서 딛고 일어서면 영웅이 되는거고요.
+/e
+
+/s
+Logan Thackeray: You're right. I've been too focused on keeping the queen safe. I love being at her side, but maybe that's not where I can best defend her—or Kryta.
+/t
+Logan Thackeray: 당신말이 맞아요. 여왕의 안전에만 너무 신경 썻어요. 그녀의 곁에 있어서 좋지만, 그게 그녀와 크라이타를 지키는데 최고의 장소는 아닐수도 있겠어요.
+/e
+
+/s
+Logan Thackeray: An old friend named Caithe asked me to meet her at Lion's Arch. I think I'll take her up on that.
+/t
+Logan Thackeray: Caithe라는 오래된 친구가 Lion's Arch에서 만나달라고 했습니다. 그 부탁을 들어줘야겠어요.
+/e
+
+/s
+I think that's an excellent idea. I'll see you in Lion's Arch!
+/t
+나: 좋은 생각입니다. Lion's Arch에서 보도록 하죠.
+/e
+
+/s
+Logan Thackeray: Blessed Lyssa, thank you for your mercy. Kryta's queen is safe once more.
+/t
+Logan Thackeray: Lyssa님께 축복을, 그리고 자비에 감사를. 크라이타의 여왕은 다시 안전해졌습니다.
+/e
+
+/s
+Queen Jennah was very brave. Were you really that worried, Logan?
+/t
+Jennah 여왕님은 용감하셨습니다. 그 정도로 걱정됬나요 Logan?
+/e
+
+/s
+She's my queen, and my love. Of course I worry. Even when there's no Kellach banging at her door...I keep an eye out for trouble.
+/t
+그녀는 저의 여왕님이고 제 사랑입니다. 당연히 걱정되죠. Kellach가 문을 두들기지 않아도...안전한지 항상 살펴봅니다.
+/e
+
+/s
+Fair enough. Can I ask you another question?
+/t
+그렇군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+You're a good man, Logan. I hope you find a way to be happy together.
+/t
+당신은 좋은 사람입니다 Logan. 같이 행복해질 방법을 찾기를 바래요.
+/e
+
+/s
+Tell me more about this friend you mentioned—Caithe. Who is she?
+/t
+당신의 오랜 친구에 대해서 이야기 해주세요. Caithe 가 누구죠?
+/e
+
+/s
+Caithe is a sylvari. She was a scout in my old adventuring fellowship, Destiny's Edge.
+/t
+Caithe는 실바리족입니다. 그녀는 옜날 같이 Destiny's Edge라는 모험길드에 있을 때 정찰병으로 활동하던 친구입니다.
+/e
+
+/s
+Scout? What do you mean "scout?"
+/t
+정찰병이요? 그게 무슨 뜻이죠?
+/e
+
+/s
+She is a rogue, and a clever one. When our group fell apart...l guess she never really accepted it. She acts as if we're just taking a break between missions.
+/t
+그녀는 영리한 도적이에요. 저희 그룹이 해산될때...그녀는 잘 받아들이지 못했던것 같습니다. 그녀는 우리가 임무 사이에 잠시 쉬고있는것 처럼 행동하더군요.
+/e
+
+/s
+Can I ask you more about Caithe?
+/t
+Caithe에 대해 물어봐도 될까요?
+/e
+
+/s
+Can I ask a different question?
+/t
+다른 질문을 해도 될까요?
+/e
+
+/s
+Thank you for everything, Logan. I'll see you in Lion's Arch.
+/t
+모두 감사합니다 Logan. Lion's Arch에서봐요.
+/e
+
+/s
+Do you trust this sylvari?
+/t
+이 실바리인을 신뢰하나요?
+/e
+
+/s
+Yes...and no. Caithe is not my enemy, but she doesn't understand what happened, or that Destiny's Edge is no more.
+/t
+네...그리고 아니요. Caithe는 제 적이 아니지만 그녀는 뭐가 어떻게 되었는지 그리고 Destiny's Edge는 더 이상 없다는걸 이해하지 못해요.
+/e
+
+/s
+Why does she want to meet you in Lion's Arch? Why not in Divinity's Reach?
+/t
+왜 그녀가 당신을 Lion's Arch에서 만나고 싶어하나요? 왜 Divinity's Reach는 아니죠?
+/e
+
+/s
+Lion's Arch is where it all began. She probably thinks if I see it again, I'll want to get the old group back together. She‘s...stubborn.
+/t
+Lion's Arch가 모든것의 시작이였어요. 그녀는 내가 다시 본다면 옜날처럼 파티를 만들고 싶어할줄 알겁니다. 그녀는...꽤 고집이 쎄죠.
+/e
+
+/s
+What do you think Caithe wants?
+/t
+Caithe가 뭘 원하는것 같나요?
+/e
+
+/s
+It's likely she's discovered something new about the dragons. If I can convince her to tell me, it might benefit Kryta—and the Queen.
+/t
+아마 드래곤에 대해서 뭔가 알아냈을겁니다. 알아낸게 뭔지 저에게 말하도록 설득할수 있다면 크라이타와 여왕님께 도움이 될수도 있을거에요. 
+/e
+
+/s
+That's an excellent goal. If I can help, just let me know.
+/t
+좋은 생각입니다. 도움이 필요하시면 말하세요.
+/e
+
+/s
+Thanks, Logan. I'll see you in Lion's Arch.
+/t
+감사합니다 Logan. Lion's Arch에서 봐요.
+/e
+
+/s
+You said that Caithe wanted to meet you in Lion's Arch. Anywhere in the city, in particular?
+/t
+Caithe가 Lion's Arch에서 만나기를 원했었죠. 특별히 도시내 어딘가에서 만나길 원하던가요?
+/e
+
+/s
+The Trader's Forum. It's where we first decided to form Destiny's Edge. I'm sure that's on purpose.
+/t
+Trader's Forum에서 만나길 원하더군요. 우리가 처음 Destiny's Edge를 만들기로 결정한 장소죠. 그게 목적일겁니다.
+/e
+
+/s
+I'll meet you there. Travel safely, Logan.
+/t
+거기서 보도록 하죠. 조심히 가세요 Logan.
+/e
+
+/s
+Scholar Josir: Well done, Novice! I shall write a glowing review of your performance, and have it on Steward Gixx's desk immediately.
+/t
+학자 Josir: 잘하셨습니다! 당신의 임무평가는 눈이 부실정도로 화려할거에요. 그걸 Gixx 총장님께 드릴거에요.
+/e
+
+/s
+Steward Gixx? Who is that?
+/t
+Gixx총장님이요? 그게 누구죠?
+/e
+
+/s
+Ranked "Incomparable Genius" in the asura colleges, twice awarded the "Meritorius Service Medal" of the Iron Legion, Gixx is the leader of the Durmand Priory.
+/t
+아수라 대학에서 "둘도없는 천재"라 불리며, Iron Legion에서 두번이나 공훈 메달을 받은 저희 Durmand Priory의 지도자이십니다.
+/e
+
+/s
+He's an asura? Isn't that a little strange?
+/t
+그가 아수라인이였어요? 좀 특이하네요
+/e
+
+/s
+Not at all. His intellectual brilliance led him, inevitably, to the Durmand Priory. He's a bit grumpy, but astonishing, nevertheless.
+/t
+특이할 것도 없어요. 그의 뛰어난 두뇌가 그를 자연스레 Durmand Priory로 들어오게 오게된거죠. 좀 심술궂지만 대단한 사람이죠. 
+/e
+
+/s
+I can't wait to meet him. Can I ask another question.
+/t
+빨리 만나보고 싶군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+Gixx sounds like interesting. Thanks for telling me about him, Josir.
+/t
+Gixx는 흥미로운 사람같군요. 그에 대해 말해줘서 감사합니다 Josir.
+/e
+
+/s
+Wow, I look forward to meeting him. Thanks for telling me, Josir.
+/t
+오, 그를 만날 날을 기대하겠습니다. 말해줘서 고마워요 Josir.
+/e
+
+/s
+What's the next step, now that I'm a member of the Priory?
+/t
+이제 저도 Priory의 일원이니 다음 계획을 알려주시겠어요?
+/e
+
+/s
+You'll head to Lion's Arch to meet your mentor; a tutor, assigned to train you in Priory methodology.
+/t
+당신은 Lion's Arch로 가서 당신을 Priory의 방식을 가르쳐줄 멘토를 만날겁니다. 
+/e
+
+/s
+Mentor? Who will that be?
+/t
+멘토요? 누구인가요?
+/e
+
+/s
+I don't know, but I'm sure Gixx will choose wisely. Your mentor's advice is critical to establishing your future in the order!
+/t
+저도 몰라요. 하지만 Gixx라면 현명하게 선택했을거에요. 당신의 멘토의 조언은 당신의 기관내의 미래를 다지는데 큰 도움이 될겁니다.
+/e
+
+/s
+Then I'm sure I'll be very impressed. Thank you, Josir, and good-bye.
+/t
+그러면 대단한 사람이겠군요. 감사합니다 Josir. 안녕히계세요.
+/e
+
+/s
+I look forward to learning more about the Durmand Priory. Take care, Josir.
+/t
+앞으로 Durmand Priory에 대해서 더 알아가길 기대하겠습니다. 수고하세요 Josir.
+/e
+
+/s
+Logan's asked me to meet him in Lion's Arch. Is that all right?
+/t
+Logan이 저를 Lion's Arch에서 만나길 원했습니다. 그래도 될까요?
+/e
+
+/s
+Of course. The Priory completely understands you have side-projects. You can meet your mentor after that business is done.
+/t
+당연하죠. Priory는 사람들이 개인적인 비공식 프로젝트를 하는걸 이해합니다. 당신의 개인 볼일을 보고 멘토를 만나셔도 됩니다.
+/e
+
+/s
+I'm glad to hear that. Can I ask another question?
+/t
+다행이군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+I will, Josir. Good-bye!
+/t
+그러겠습니다. 잘 있어요!
+/e
+
+/s
+I'm looking forward to a future of exploration and discovery Farewell, Josir!
+/t
+앞으로 할 탐험과 발견을 기대하겠습니다. 잘있어요 Josir!
+/e
+
+/s
+Queen Jennah: I never doubted you for an instant, Advocate. Kryta has no finer heroes than you and Captain Thackeray.
+/t
+Jennah 여왕: 대변인이라면 절대 실패하지 않을거라고 생각했습니다. 크라이타에는 당신과 Thackeray 대장보다 더 훌륭한 영웅은 없을겁니다.
+/e
+
+/s
+Speaking of Captain Thackeray... It doesn't bother you that he's going to Lion's Arch?
+/t
+Thackeray 대장님 이야기가 나와서 말이지만...그가 Lion's Arch로 가는게 불안하지 않으십니까?
+/e
+
+/s
+I'm worried, I'll admit. Caithe has never been trustworthy in the best of times, and lately... Please, tell me you'll watch over him?
+/t
+솔직히 걱정입니다. 좋은 시기에도 Caithe는 신뢰가 가지 않은 사람이였고, 최근에는...제발 그를 살펴봐 주시겠습니까?
+/e
+
+/s
+You know that you could stop him, right? One word from you, and he'd stay.
+/t
+전하라면 그를 막을 수 있지 않습니까? 말씀 한마디만 하면 그는 남을겁니다.
+/e
+
+/s
+No, Advocate. I have enough servants—I want a partner. Logan must be free to make his own decisions. I made such a mistake once before. I won't make it again.
+/t
+아니요. 저에게 신하는 충분히 있습니다. 그리고 저는 파트너를 원해요. Logan은 자기 결정을 스스로 내려야해요. 실수는 예전에 한번으로 족해요. 다시는 그런 실수는 안할겁니다.
+/e
+
+/s
+Well said, Your Majesty. May I ask another question?
+/t
+좋은 말씀입니다 전하. 다른 질문을 해도 될까요?
+/e
+
+/s
+I will miss serving Kryta, Your Majesty. I hope you don't think it was wrong of me to join an order.
+/t
+크라이타를 위해 일하는걸 그리워 할겁니다 전하. 기관에 들어간게 잘못되었다고 생각안하셨으면 합니다.
+/e
+
+/s
+Wrong? No. As much as I wish you could stay, a hero of your caliber must be free to explore the world. I wish you luck, Advocate.
+/t
+잘못이요? 아니에요. 당신이 여기에 남으면 좋겟지만 당신같은 영웅은 자유롭게 세상을 돌아다녀야해요. 행운을 빌어요 대변인.
+/e
+
+/s
+Thank you, ma'am. May I ask another question?
+/t
+감사합니다 전하. 다른 질문을 해도 될까요?
+/e
+
+/s
+That's very kind of you, Your Majesty. No matter where I go, my home will still be here.
+/t
+과분한 친절에 감사드립니다 전하. 제가 어디를 가더라도 제가 돌아올 집은 여기입니다.
+/e
+
+/s
+I'm glad you're safe, Your Majesty. If you'll excuse me, duty calls.
+/t
+전하가 안전해서 다행입니다. 전 이제 일이 있어서 가보겠습니다. 
+/e
+
+/s
+With help from my Order, Logan and I stopped Kellach before he could hurt Queen Jennah.
+/t
+기관의 도움으로 Logan과 나는 Kellach가 여왕님에게 해를 끼치기 전에 막았다.
+/e
+
+/s
+Now, I will travel to Lion's Arch to meet one of Logan's old friends.
+/t
+이제 나는 Lion's Arch로 가서 Logan의 오랜 친구를 만나야한다.
+/e
+
+/s
+Thereafter, I begin my new adventures—with the Durmand Priory!
+/t
+그 후에, Durmand Priory와 함께 나의 새로운 모험이 시작된다!
+/e
+
+/s
+Thereafter, I begin my new adventures—with the Order of Whispers!
+/t
+그 후에, Order of Whispers와 함께 나의 새로운 모험이 시작된다!
+/e
+
+/s
+Thereafter, I begin my new adventures—with the Vigil!
+/t
+그 후에, Vigil과 함께 나의 새로운 모험이 시작된다!
+/e
+
+/s
+Logan Thackeray: Jennah's in danger. Stay alert.
+/t
+Logan Thackeray: Jennah가 위험에 빠졌습니다. 모두 주의하세요.
+/e
+
+/s
+You must really care for her.
+/t
+그녀를 정말 아끼시는군요
+/e
+
+/s
+I would give my life for her.
+/t
+그녀라면 제 목숨을 바칠 수 있습니다.
+/e
+
+/s
+If there is purpose in my life, it is to keep her safe. She is Kryta.
+/t
+제 삶의 목적이 있다면 그건 그녀를 안전하게 지키는겁니다. 그녀가 곧 크라이타에요.
+/e
+
+/s
+We'll keep her safe.
+/t
+그녀를 안전하게 지키겠습니다.
+/e
+
+/s
+I hope everything works out for you.
+/t
+모든일이 잘 풀리길 바랍니다.
+/e
+
+/s
+The gods will watch over us.
+/t
+신들이 우리 모두를 살펴봐 주시길 바랍니다.
+/e
+
+/s
+Are the Shining Blade part of the Seraph or the Ministry?
+/t
+Shining Blade는 세라프의 일부인가요? 아니면 내각의 일원인가요?
+/e
+
+/s
+The Shining Blade are guards to the throne. For generations, we have protected and advised the rulers of Kryta.
+/t
+Shining Blade는 왕의 근위병입니다. 저희는 대대로 크라이타의 지도자를 수호하고 조언해드렸죠.
+/e
+
+/s
+And yet you're alone here?
+/t
+그런데도 혼자 오신건가요?
+/e
+
+/s
+I'm here to make the illusion of the queen seem authentic. The other Shining Blade soldiers are with the real Jennah.
+/t
+저는 여왕님이 진짜 여기 계신것 처럼 보이게 하려고 왔습니다. Shining Blade의 병사들이 진짜 여왕님과 함께 하고 계시죠.
+/e
+
+/s
+I see. I have another question.
+/t
+그렇군요. 다른 질문이 있습니다.
+/e
+
+/s
+Good point, thanks.
+/t
+그렇군요. 감사합니다.
+/e
+
+/s
+I'm glad the queen has such loyal guards. I have another question.
+/t
+여왕님께 이렇게 충직한 근위병이 있어서 다행입니다. 다른 질문이 있습니다.
+/e
+
+/s
+The order plans to replace the queen with a duplicate. Will you be staying?
+/t
+기관이 가짜 여왕을 내새우는 계획을 새웠습니다. 여기 계시는 겁니까?
+/e
+
+/s
+Yes. If Kellach is to believe this is the real Queen Jennah, I must be at her side.
+/t
+네. Kellach가 그녀를 진짜 여왕으로 착각하게 만들기 위해선 제가 그녀 곁에 있어야합니다.
+/e
+
+/s
+I hate to ask this, Countess, but can you fight?
+/t
+묻고 싶진 않았는데, 백작님, 싸울줄 아십니까?
+/e
+
+/s
+Fight? Darling, I devastate. When Kellach's minions approach, I assure you, you'll see exactly what I'm capable of doing.
+/t
+싸움요? 저는 휩쓸고 다닌답니다. Kellach의 하수인이 나의 여왕님께 온다면 제 능력을 확실하게 보여드리죠.
+/e
+
+/s
+I'm sure we will. I have another question.
+/t
+저도 같이 보여드리겠습니다. 다른 질문이 있습니다.
+/e
+
+/s
+Very well. Thank you.
+/t
+알겠습니다. 감사합니다.
+/e
+
+/s
+Agent Ihan: There you are, Initiate! are you ready to lay a trap for our "friend," Kellach?
+/t
+요원 Ihan: 거기 있었군요. 우리의 친구 Kellach를 위한 함정을 팔 준비가 되었나요?
+/e
+
+/s
+I am, Ihan. Are your agents prepared?
+/t
+나: 준비되었습니다 Ihan. 당신의 요원들은 준비 되었습니까?
+/e
+
+/s
+Agent Ihan: Our agents, my friend. You're a member of the Order of Whispers now. We all work as one.
+/t
+요원 Ihan: 우리의 요원입니다. 당신도 이제 Order of Whispers의 단원이에요. 우린 하나입니다.
+/e
+
+/s
+Agent Ihan: Everything's arranged. We've set up traps throughout the room, and we'll create a magical duplicate of Queen Jennah to distract Kellach.
+/t
+요원 Ihan: 모든게 준비되었습니다. 방 전체에 함정을 깔아 두었고 마법으로 여왕을 복제해서 Kellach의 주의를 돌리면 됩니다.
+/e
+
+/s
+Logan Thackeray: But the real Queen Jennah will be safe, right?
+/t
+Logan Thackeray: 하지만 진짜 Jennah 여왕님은 안전하시죠?
+/e
+
+/s
+Agent Ihan: Absolutely. You have my word, on the honor of our Order.
+/t
+요원 Ihan: 당연하죠. 저희 Order의 명예를 걸고 저를 믿어주시면 됩니다. 
+/e
+
+/s
+Logan Thackeray: Good. Kellach's been sighted near the palace grounds. He should be here any minute now.
+/t
+Logan Thackeray: 좋습니다. Kellach가 왕궁 주변에서 보였다고 합니다. 곧 나타날겁니다.
+/e
+
+/s
+Countess Anise: Success!
+/t
+Anise 백작: 성공입니다!
+/e
+
+/s
+Agent Ihan: The bombs should be easy to arm. They've been strategically placed and just need activation.
+/t
+요원 Ihan: 폭탄은 쉽게 다룰 수 있을겁니다. 전략적으로 깔아 두었고 그냥 발동만 하면 돼요.
+/e
+
+/s
+Agent Ihan: We're prepared for Kellach's arrival, Initiate. Any last questions about the trap we're setting?
+/t
+요원 Ihan: Kellach을 상대할 준비가 되었습니다. 함정에 관련해 물어볼게 있나요?
+/e
+
+/s
+How do we make a duplicate of Queen Jennah?
+/t
+어떻게 해서 여왕님을 복제할거죠?
+/e
+
+/s
+With the Queen's permission, Countess Anise has offered to use her magic to assist us.
+/t
+여왕님의 허락하에 Anise 백작님이 마법으로 저희를 도와주신다고 했습니다.
+/e
+
+/s
+Excellent. I have another question.
+/t
+훌륭하군요. 다른 질문이 있습니다.
+/e
+
+/s
+The countess is very talented. Kellach won't suspect a thing.
+/t
+백작님은 뛰어나신 분입니다. Kellach는 눈치도 못 챌거에요.
+/e
+
+/s
+Any news on Kellach's location?
+/t
+Kellach의 위치에 대해 새로운 소식이 있습니까?
+/e
+
+/s
+The Shining Blade said that he broke into the palace cellars through a secret entrance near the Northern Waterways. He could be here at any moment.
+/t
+Shining Blade에 의하면 그는 Norther Waterways근처의 비밀 입구를 통해 왕궁의 지하로 들어갔다는군요. 곧 여기에 나타날겁니다.
+/e
+
+/s
+I'll keep my eyes open for him. I have another question.
+/t
+그가 오는지 잘 보겠습니다. 다른 질문이 있습니다.
+/e
+
+/s
+Even insane, Kellach is one tricky guy. We'll be ready when he gets here.
+/t
+비록 미쳤지만 Kellach는 까다로운 자입니다. 그가 올때면 우리는 준비되어 있을겁니다.
+/e
+
+/s
+So what's the plan?
+/t
+계획이 뭔가요?
+/e
+
+/s
+We give Kellach a chance to surrender. If he doesn't, we trick him into attacking the queen, and finding his destruction instead.
+/t
+Kellach에게 항복할 기회를 줄거에요. 그가 항복하지 않는다면 그가 가짜여왕님을 공격하게 만들어 자멸하게 만들겁니다.
+/e
+
+/s
+I've never heard of an Aetheric Bomb. What is it?
+/t
+에테르 폭탄 (Aetheric Bomb)은 처음 듣는군요. 그게 뭔가요?
+/e
+
+/s
+It's a combination of charr and asuran technology. It sends out a pulse that's very damaging to the unliving.
+/t
+차르와 아수라인의 기술을 합한겁니다. 언데드에게 엄청난 피해를 주는 파동을 내뿜어요.
+/e
+
+/s
+Interesting. I have another question.
+/t
+흥미롭군요. 다른 질문이 있습니다.
+/e
+
+/s
+Interesting. Thanks.
+/t
+흥미롭군요. 감사합니다.
+/e
+
+/s
+That works for me. Can I ask another question?
+/t
+괜찮아 보이네요. 다른 질문을 해도 될까요?
+/e
+
+/s
+Good. I'll double-check my gear, and wait for our visitor to arrive.
+/t
+좋습니다. 전 장비를 다시 확인하고 우리의 방문자가 오기를 기다리겠습니다.
+/e
+
+/s
+We've planned for every reasonable contingency. I'm ready when you are.
+/t
+우리는 적정한 만일의 사태까지 대비해 계획을 세웠습니다. 저는 준비가 되었습니다.
+/e
+
+/s
+Agent Ihan: The bombs should be ready now. Good timing. Kellach's here!
+/t
+요원 Ihan: 이제 폭탄은 준비되었을겁니다. 제때 되었군요. Kellach가 나타났습니다!
+/e
+
+/s
+Corporal Kellach: Your majesty...my beloved queen...Jennah! You...you have to listen. I won't hurt you...I...I just need your blood. It will save Kryta!
+/t
+상등병 Kellach: 전하...내 사랑스러운 여왕님...Jennah! 제...제말을 들어주세요. 당신을 해치지 않을거에요...난...난 그냥 당신의 피가 필요해요. 그게 크라이타를 살릴거에요. 
+/e
+
+/s
+Corporal Kellach! Drop your weapons and surrender. You're not thinking clearly.
+/t
+나: Kellach 상등병! 무기를 버리고 항복해라. 넌 지금 제정신이 아니야.
+/e
+
+/s
+Corporal Kellach: No, this can't be the truth! I'll kill you all!
+/t
+상등병 Kellach: 아니야, 그게 사실일리가 없어! 너희 모두 죽여버리겠어!
+/e
+
+/s
+Logan Thackeray: For the queen! Charge!
+/t
+Logan Thackeray: 여왕님을 위해서! 돌격하라!
+/e
+
+/s
+Corporal Kellach: Grenth take you! I won't...I won't give in.
+/t
+상등병 Kellach: Grenth님의 곁으로 보내주마! 나는...나는 포기하지 않겠다.
+/e
+
+/s
+Corporal Kellach: No. You won't stop me!
+/t
+상등병 Kellach: 안돼. 날 막지 못한다!
+/e
+
+/s
+Corporal Kellach: Must kill...need blood!
+/t
+상등병 Kellach: 죽여야해...피가 필요해!
+/e
+
+/s
+Agent Ihan: Well done, Initiate! You showed tremendous cunning and nerve. I'm proud you're a member of the Order of Whispers!
+/t
+요원 Ihan: 잘하셨습니다! 대담함과 교활함을 보여주셨습니다. 우리 Order of Whispers의 일원이라고 자랑스럽게 말해도 되겠네요.
+/e
+
+/s
+Agent Ihan: Now, for the rest of your initiation. Go to Lion's Arch. There, you'll be contacted by an apple merchant. Meet with him to get your first formal assignment.
+/t
+요원 Ihan: 이제 남은 일을 계속 해야죠. Lion's Arch로 가세요. 거기가면 사과장수가 당신을 접선할거에요. 그에게서 첫 정식 임무를 받으세요.
+/e
+
+/s
+I look forward to it. It's time to be part of a bigger world.
+/t
+나: 기대하고 있습니다. 더 큰 물에서 놀때가 되었죠.
+/e
+
+/s
+Were you really that worried?
+/t
+그렇게 걱정되었습니까?
+/e
+
+/s
+Jennah is my queen, but my feelings for her go beyond mere duty. Of course I worry.
+/t
+Jennah는 저의 여왕님이지만 전 저에게 주으진 의무이상의 감정을 가지고 있습니다. 당연히 걱정되죠,
+/e
+
+/s
+Fair enough. I have another question.
+/t
+알겠습니다. 다른 질문이 있습니다.
+/e
+
+/s
+Tell me more about this friend of yours, Caithe. Who is she?
+/t
+당신의 오랜 친구에 대해서 이야기 해주세요. Caithe 가 누구죠?
+/e
+
+/s
+Caithe is a sylvari. She was a scout in my old guild, Destiny's Edge.
+/t
+Caithe는 실바리족입니다. 그녀는 옜날에 Destiny's Edge라는 길드에 같이 있었을때 때 정찰병으로 활동하던 친구입니다.
+/e
+
+/s
+And?
+/t
+그리고요?
+/e
+
+/s
+When our guild fell apart she never accepted it. She acts as if we're just taking a break between missions.
+/t
+저희 그룹이 해산될때...그녀는 잘 받아들이지 못했던것 같습니다. 그녀는 우리가 임무 사이에 잠시 쉬고있는것 처럼 행동하더군요.
+/e
+
+/s
+I have more questions about Caithe.
+/t
+Caithe에 대해서 더 물어볼게 있습니다
+/e
+
+/s
+Do you trust her?
+/t
+이 그녀를 신뢰하나요?
+/e
+
+/s
+Yes...and no. Caithe is not my enemy, but she doesn't understand the full situation, or that Destiny's Edge is no more.
+/t
+네...그리고 아니요. Caithe는 제 적이 아니지만 전체적인 상황이나 Destiny's Edge는 더 이상 없다는걸 이해하지 못해요.
+/e
+
+/s
+Lion's Arch is where it all began. She likely wants to use a familiar place to dredge up sentimental feelings. She's...stubborn.
+/t
+Lion's Arch가 모든것의 시작이였어요. 그녀는 익숙한 장소를 이용해 향수를 불러오게 만들고 싶어하는것 같군요. 그녀는...꽤 고집이 쎄죠.
+/e
+
+/s
+I have a different question
+/t
+다른 질문이 있습니다.
+/e
+
+/s
+What does Caithe want?
+/t
+Caithe가 뭘 원하는것 같나요?
+/e
+
+/s
+If I can help, just let me know.
+/t
+도움이 필요하시면 말하세요.
+/e
+
+/s
+Thanks. I'll see you in Lion's Arch.
+/t
+감사합니다. Lion's Arch에서 봐요.
+/e
+
+/s
+Caithe wanted to meet you in Lion's Arch. Anywhere in particular?
+/t
+Caithe가 Lion's Arch에서 만나기를 원했었죠. 특별히 어딘가에서 만나는건가요?
+/e
+
+/s
+The Trader's Forum. It's where we first formed Destiny's Edge. I'm sure she's being deliberate.
+/t
+Trader's Forum에서 만나길 원하더군요. 우리가 처음 Destiny's Edge를 만든 장소죠. 일부로 그 장소를 골랐을겁니다,
+/e
+
+/s
+I'll meet you there. Travel safely.
+/t
+거기서 보도록 하죠. 조심히 가세요.
+/e
+
+/s
+Agent Ihan: Your wits are sharp as knives, Initiate. The Preceptors were right about you.
+/t
+요원 Ihan: 당신의 재치는 날카롭군요. 당신에 대한 Preceptors(부단장)들의 판단이 맞았군요.
+/e
+
+/s
+Who are the Preceptors?
+/t
+Preceptor들이 누구죠?
+/e
+
+/s
+The Master of Whispers leads the order, but his identity is a secret. Three Preceptors carry out his directives.
+/t
+단장인 Master of Whispers가 기관을 운영합니다. 하지만 그의 정체는 비밀에 쌓여있죠. Preceptor들이 그의 명령은 전달합니다.
+/e
+
+/s
+Who are these Preceptors?
+/t
+이 Preceptor들은 누구인가요?
+/e
+
+/s
+Their names are Halvora, Valenze and Doern. You'll meet them soon enough.
+/t
+그들의 이름은 Halvora, Valenze 그리고 Doerm입니다. 곧 그들을 만날거에요.
+/e
+
+/s
+I'll have to be patient, then. I have another question.
+/t
+그럼 인내하면서 기다려야겠군요. 다른 질문이 있습니다.
+/e
+
+/s
+I can't wait to hear the tale.
+/t
+그들의 이야기를 빨리 들었으면 좋겠군요
+/e
+
+/s
+Good to know. Thanks.
+/t
+알겠습니다. 고맙습니다.
+/e
+
+/s
+What's the next step, now that I'm a member of the Order of Whispers?
+/t
+이제 저도 Order of Whispers의 일원이니 다음 해야할 일을 알려 주시겠나요?
+/e
+
+/s
+The Preceptors arranged a contact for you in Lion's Arch. His job will be to mentor you in our modus operandi.
+/t
+Preceptor가 당신이 만나야할 자를 Lion's Arch에 배치해 뒀습니다. 그는 당신의 멘토가 되어 행동 방식을 가르쳐 줄겁니다.
+/e
+
+/s
+Who will be my mentor?
+/t
+누가 제 멘토가 되는건가요?
+/e
+
+/s
+That's need-to-know information, Initiate. Don't worry. He'll contact you when you reach Lion's Arch.
+/t
+아직 갓 입단한 당신이 알 단계는 아닙니다. 걱정마세요. 당신이 Lion's Arch에 도착하면 나타날겁니다.
+/e
+
+/s
+Understood.
+/t
+이해했습니다.
+/e
+
+/s
+I look forward to hearing from him.
+/t
+그를 만나길 기대하겠습니다.
+/e
+
+/s
+Logan's asked me to meet him in Lion's Arch.
+/t
+Logan이 저를 Lion's Arch에서 만나길 원했습니다.
+/e
+
+/s
+Be sure to take notes for the Order's records. We keep an extensive file on the guild members of Destiny's Edge.
+/t
+Order의 기록을 위해 노트를 적도록 하세요. 저희는 Destiny's Edge의 일원들에 해한 방대한 서류들을 보관하고 있습니다.
+/e
+
+/s
+Noted. I have another question.
+/t
+기억해두겠습니다. 다른 질문이 있습니다.
+/e
+
+/s
+That makes sense.
+/t
+이해했습니다.
+/e
+
+/s
+I look forward to a long career with the Order.
+/t
+오랫동안 Order와 함께하길 기대하겠습니다. 
+/e
+
+/s
+We'll keep her safe. I swear it.
+/t
+그녀가 안전하게 지키겠습니다. 맹세코말이죠.
+/e
+
+/s
+That's lovely. I hope everything works out for you two, Logan. Good luck.
+/t
+그것 참 멋지군요. 두분의 일이 잘 풀리길 빌겠습니다 Logan. 행운을 빌어요.
+/e
+
+/s
+Crusader Hiroki: Good to see you, Recruit! It's an honor to have you among the Vigil.
+/t
+크루세이더 Hiroki: 어서오세요. Vigil과 함께해주셔서 영광입니다.
+/e
+
+/s
+I'm proud to be part of the Order. What's our strategy?
+/t
+나: 저도 Vigil의 일원이 된게 자랑스럽습니다. 우리의 전략은 뭔가요?
+/e
+
+/s
+Crusader Hiroki: Stand the line. Defend the queen. Destroy Kellach, and the army that follows him.
+/t
+크루세이더 Hiroki: 전열을 세우고 여왕님을 지키고, Kellach와 그의 군대를 물리칠겁니다.
+/e
+
+/s
+Logan Thackeray: Vigil's soldiers will make all the difference. Hiroki, on behalf of Queen Jennah and her Seraph, I thank you.
+/t
+Logan Thackeray: Vigil의 군인들이 큰 도움이 될겁니다. Hiroki, Jennah 여왕님과 세라프의 대신해서 감사드립니다.
+/e
+
+/s
+Crusader Hiroki: Give the queen our best regards, Captain...but let's be clear. The Vigil fights for more than Queen Jennah, more than Kryta.
+/t
+크루세이더 Hiroki: 여왕님께 안부 전해주세요 대장님. 하지만...이건 알아두셨으면 합니다. Vigil은 Jennah 여왕님이나 크라이타보다 더 큰것을 위해 싸웁니다.
+/e
+
+/s
+Crusader Hiroki: In the war against the dragons, all Tyrian nations must rise up as one. Only through our combined strength will Tyria defeat Zhaitan.
+/t
+크루세이더 Hiroki: 드래곤과의 전쟁을 위해선 티리아의 모든 국가들이 하나로 합쳐야 합니다. 하나로된 힘만이 Zhaitan을 무찔를수 있습니다.
+/e
+
+/s
+Crusader Hiroki: Queen Jennah brings peace and hope - to her people, and to Tyria. May her life be spared, and her kingdom sheltered from Orrian evil.
+/t
+크루세이더 Hiroki: Jennah여왕님은 그녀의 백성들과 티리아에 평화와 희망을 가져다줍니다. 그녀가 살아남고 그녀의 왕국이 오르의 악으로 부터 지켜지길 바랍니다.
+/e
+
+/s
+Logan Thackeray: I see that Vigil's dedication to duty is as unwavering as your honor. The Advocate will be right at home in your order.
+/t
+Logan Thackeray: 확실히 Vigil의 의무에 대한 집념은 명예만큼이나 변함없이 확고하군요. 당신의 기관에 대변인은 잘 녹아들겁니다.
+/e
+
+/s
+It's time to defend our home. Today, we defeat Kellach. Tomorrow, Orr.
+/t
+나: 우리의 집을 지킬때가 됬습니다. 오늘은 Kellach를, 내일은 오르를 무찔를겁니다.
+/e
+
+/s
+Logan Thackeray: Well said, my friend.
+/t
+Logan Thackeray: 멋진 말입니다 친구여.
+/e
+
+/s
+Crusader Hiroki: You got here just in time, Recruit. Any last questions, or are you ready to fight?
+/t
+크루세이더 Hiroki: 제시간에 왔군요. 물어볼게 있나요 아니면 전투할 준비가 됬나요?
+/e
+
+/s
+Are all of the Vigil soldiers in Divinity's Reach mustered here?
+/t
+Divinity's Reach에 있는 모든 Vigil병사들이 여기에 모였나요?
+/e
+
+/s
+This is everyone I could summon on short notice. We have soldiers in outlying areas, but they won't reach the city in time.
+/t
+짧은 시간에 올수 있는 모든 이를 소환했습니다. 외곽에 병사들도 있지만 제시간에 도시안으로 오지 못할겁니다.
+/e
+
+/s
+Then it will have to be enough. Can I ask another question?
+/t
+이거면 충분할것 같습니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+It will be enough. We're the Vigil; the finest fighting fore in Tyria!
+/t
+이정도면 충분합니다. 우리는 티리아가 인정하는 최고의 전투단체인 Vigil입니다.
+/e
+
+/s
+I'll keep my eyes open for him, then. Can I ask another question?
+/t
+그가 오는지 잘 보겠습니다. 다른 질문을 해도 될까요?
+/e
+
+/s
+The plan is simple. When Kellach reaches this room, we give him one chance to surrender. If he doesn't, we destroy him.
+/t
+계획은 간단합니다. Kellach이 이 방에 도착할때 항복할 기회를 줄겁니다. 하지 않는다면 그를 처치하고요.
+/e
+
+/s
+I'm ready to kick Kellach from here to the Black Citadel. For Vigil, and the Queen!
+/t
+그 Kellach을 Black Citadel까지 발로차버릴 준비가 되었습니다. Vigil을 위해서, 그리고 여왕님을 위해서!
+/e
+
+/s
+Queen Jennah: Look out!
+/t
+Jennah 여왕: 조심하세요!
+/e
+
+/s
+Corporal Kellach, stand down! You're not thinking clearly. Drop your weapons and surrender.
+/t
+나: Kellach 상등병, 물러서라! 지금 넌 제정신이 아니야. 무기를 놓고 항복해.
+/e
+
+/s
+Corporal Kellach: I'll kill you all to save Kryta. I'll kill you all!
+/t
+상등병 Kellach: 너희 모두 죽여서 크라이타를 구할거다. 너희 모두 죽여버릴거야!
+/e
+
+/s
+Crusader Hiroki: As General Almorra says, "Some must fight, so that all may be free." Recruit, you proved your strength and honor today.
+/t
+크루세이더 Hiroki: Almorra장군님께서 "모두의 자유를 위해 누군가는 싸워야한다" 라고 말씀하셨습니다. 신병, 오늘 당신은 당신의 무력과 명예를 증명했습니다.
+/e
+
+/s
+Crusader Hiroki: You should head for the Vigil chapterhouse in Lion's Arch. There, you'll get your first formal mission for the order.
+/t
+크루세이더 Hiroki: Lion's Arch로 가서 Vigil 회의장을 찾아가세요. 거기서 당신의 첫 공식 임무를 받을겁니다.
+/e
+
+/s
+I look forward to it, Hiroki. It's time to be part of a bigger world.
+/t
+나: 기대하고있겠습니다 Hiroki. 더 큰물에서 놀때가 되었습니다. 
+/e
+
+/s
+Logan Thackeray: Do you think we can overcome our mistakes, my friend? Make up for things we've done?
+/t
+Logan Thackeray: 우리의 .잘못을 극복할 수 있을까요? 우리의 잘못을 만회할 수 있을까요?
+/e
+
+/s
+Countess Anise: These are dangerous days, pet. I hope you are prepared for the challenges that lie ahead.
+/t
+Anise 백작: 위험한 시기입니다. 앞으로 나올 시련들을 맞이할 준비가 되어있길 바래요.
+/e
+
+/s
+Yes, Countess, I believe that I am. The Vigil will help me learn, if I'm not.
+/t
+네 백작님. 저는 준비가 된것 같습니다. 준비가 안 됐다면 Vigil의 도움으로 배울것입니다.
+/e
+
+/s
+Well said. Perhaps you are ready to leave the fold, after all. May Grenth keep you safe.
+/t
+좋은 마음가짐입니다. 둥지를 벗어날 준비가 된것 같군요. Grenth님이 당신을 안전하게 지켜주시기를.
+/e
+
+/s
+Thank you, Anise. I'm sure we'll meet again one day.
+/t
+감사합니다 Anise백작님. 어젠가 다시 만날수 있을겁니다. 
+/e
+
+/s
+Of course.
+/t
+당연히 그리하겠습니다.
+/e
+
+/s
+Crusader Hiroki: Bravely fought! I'll send a letter of commendation to Lion's Arch. I think General Almorra will be taking a personal interest in you.
+/t
+크루세이더 Hiroki: 정말 용감히 잘 싸우셨습니다! Lion's Arch에 추천서를 보내드리겠습니다. 제 생각엔 Almorra장군님이 당신에게 흥미를 보이신것 같아요.
+/e
+
+/s
+General Almorra? Who is that?
+/t
+Almorra 장군요? 그게 누구죠?
+/e
+
+/s
+General Almorra Soulkeeper's the founder and leader of the Vigil. Don't act too surprised when you meet her—she's a charr.
+/t
+Almorra Soulkeeper 장군은 Vigil을 설립한 지도자입니다. 만나서 놀라지 마세요. 그녀는 차르인입니다.
+/e
+
+/s
+A charr leads the Vigil? Really? I thought they never left their legions.
+/t
+차르가 Vigil을 이끌고 있다고요? 정말요? 그들은 그들의 군단을 절대 안떠난다고 들었는데 말이죠.
+/e
+
+/s
+Usually, that's true. But Almorra's story is unique... but I think I'll let her tell it. Travel safely, Recruit!
+/t
+대부분 그렇죠. 하지만 Almorra의 이야기는 좀 특별합니다만...그건 그녀가 아마 이야기 해줄겁니다. 어쨌든 조심히 가세요!
+/e
+
+/s
+I'll have to be patient, then. Can I ask another question?
+/t
+그냥 참고 기다려야겠군요. 다른 질문을 해도 될까요?
+/e
+
+/s
+I can't wait to hear the tale! Take care, Hiroki.
+/t
+빨리 그 이야기를 듣고 싶네요. 잘 있어요 Hiroki.
+/e
+
+/s
+The General's a charr? Wow, I look forward to meeting her. Thanks for telling me, Hiroki.
+/t
+차르인이 장군이라고요? 와, 정말 만나고 싶네요. 말해줘서 고마워요 Hiroki.
+/e
+
+/s
+What's the next step, now that I'm a member of the Vigil?
+/t
+이제 저도 Vigil의 일원이니 다음 계획을 알려주시겠어요?
+/e
+
+/s
+You'll meet with the General. She'll assign you a mentor, to instruct you in our protocol and regulations.
+/t
+당신은 장군님을 만나게 될겁니다. 그녀가 당신에게 행동강령과 규칙을 가르칠 멘토를 붙여줄거에요.
+/e
+
+/s
+I don't know, but I hope you get anybody except old Forgal. He's a real bear! Ha! He's a norn, get it?
+/t
+잘 모르겠네요. 하지만 Forgal 그 친구만 아니면 괜찮은겁니다. 그는 진짜 곰팅이거든요! 하하, 그는 노른족이에요, 이해했어요?
+/e
+
+/s
+I'll bear that in mind. Hee. Good-bye, Hiroki.
+/t
+그에 대해 곰곰히 잘 생각해보겠습니다. 히~. 잘있어요 Hiroki.
+/e
+
+/s
+I look forward to learning more about my order. Take care, Hiroki.
+/t
+기관에 대해서 더 많은걸 배우길 기대하겠습니다. 잘있어요 Hiroki.
+/e
+
+/s
+Of course. I'll make sure your commission is routed through there, but you should head to Vigil Keep after the meeting.
+/t
+당연하죠. 당신의 의뢰가 그쪽으로 향하게 해드릴께요. 하지만 볼일이 끝나면 Vigil Keep에 가셔야합니다.
+/e
+
+/s
+I'm glad to hear that. Can I ask another question, Hiroki?
+/t
+다행이네요. 다른질문을 해도 될까요 Hiroki?
+/e
+
+/s
+I will, Hiroki. Good-bye!
+/t
+그렇게 하겠습니다 Hiroki. 안녕히계세요.
+/e
+
+/s
+I look forward to a long and glorious career with the Vigil. Take care, Hiroki!
+/t
+오랫동안 Vigil에서 영광스러운 생활을 기대하겠습니다. 몸 조심하세요 Hiroki!
+/e
+
+/s
+Capture Shorebluff Camp
+/t
+Shorebluff Camp를 점령하세요
+/e
+
+/s
+Optional: Destroy the centaur trebuchets.
+/t
+선택 퀘스트: 켄타우르스의 투석기들을 파괴하세요
+/e
+
+/s
+Protect Broil Cane while he destroys centaur catapults
+/t
+Broil Cane이 켄타우르스의 투석기들을 파괴하는동안 지켜주세요.
+/e
+
+/s
+Speak to Broil Cane to begin the assault.
+/t
+Broil Cane에게 말을 걸어 공격을 시작하세요.
+/e
+
+/s
+Accompany Muldoon on a walkabout around the Nightguard Beach
+/t
+Muldoon과 동행하여 Nightguard Beach 주변을 시찰하세요. 
+/e
+
+/s
+Keep centaurs out of Shorebluff Camp
+/t
+켄타우르스가 Shorebluff Camp에 들어오지 못하게 막으세요.
+/e
+
+/s
+Bring air elemental essences to Mad Scientist Tork
+/t
+미친 과학제 Tork에게 공기의 정수를 가져다주세요.
+/e
+
+/s
+Fight off intruding pests so the assistant can stabilize the machine
+/t
+조수가 기계를 안정화하는 동안 유해물들의 침입을 막으세요
+/e
+
+/s
+Free the soldiers trapped by spiders
+/t
+거미에 의해 갇힌 병사들을 풀어주세요.
+/e
+
+/s
+[Group Event] Kill Gargantula, the spider broodmother
+/t
+[단체이벤트] 거미 무리어미인 Gragantula를 죽이세요
+/e
+
+/s
+Bring shrinkcap spores to Fen
+/t
+Srhinkcap 포자를 Fen에게 가져다주세요.
+/e
+
+/s
+Protect Fen as he makes his way into the Bonerattler Caverns
+/t
+Fen이 Bonerattler Caverns에 가는동안 지켜주세요.
+/e
+
+/s
+Defeat the bandits' pet broodmother
+/t
+도적들의 애완동물의 무리어미를 처치하세요.
+/e
+
+/s
+Intercept the prisoner caravan
+/t
+포로수송마차를 가로채세요.
+/e
+
+/s
+Prevent the bandits from transporting the prisoners.
+/t
+도적들이 포로들을 수송하지 못하게 막으세요.
+/e
+
+/s
+[Group Event] Break the captives out of the centaur slave cage
+/t
+[단체이벤트] 켄타우루스의 노예 감옥에서 포로들을 풀어주세요.
+/e
+
+/s
+Take out the Harathi leader and their catapults
+/t
+Harathi의 수장을 처치하고 투석기들을 파괴하세요
+/e
+
+/s
+Defeat the corrupting ghost
+/t
+타락한 귀신을 처치하세요
+/e
+
+/s
+[Group Event] Defeat the champion
+/t
+[단체이벤트] 챔피언을 처치하세요
+/e
+
+/s
+Champion Sharky the Destroyer
+/t
+Champion Sharky the Destroyer
+/e
+
+/s
+Defend the reclaimed camp by killing centaurs
+/t
+켄타우르스를 죽여서 되찾은 캠프를 지켜내세요.
+/e
+
+/s
+Defend the skritt thieves while they steal harpy eggs
+/t
+스크릿트족 도둑들이 하피의 알을 훔치는 동안 지켜주세요
+/e
+
+/s
+Help Megin Volkman search for her missing son
+/t
+Megin Volkam을 도와 실종된 아들을 찾는데 도와주세요.
+/e
+
+/s
+Defeat the Seraph training sergeant
+/t
+세라프 병장 조교를 처치하세요
+/e
+
+/s
+Protect the skritt thieves while they steal supplies from the centaurs
+/t
+스크릿트족 도둑들이 켄타우르스의 보급품을 훔치는동안 지켜주세요.
+/e
+
+/s
+Defeat the attacking Ministry Guards
+/t
+공격하는 내각 경비들을 물리치세요.
+/e
+
+/s
+Champion Modniir High Sage
+/t
+Champion Modniir High Sage
+/e
+
+/s
+[Group Event] Help Shining Blade Kimber defeat Kol Skullsmasher
+/t
+[단체이벤트] Shining Blade단원인 Kimber를 도와 Kol Skullsmasher를 물리치세요
+/e
+
+/s
+[Group Event] Help Shining Blade Kimber find her husband
+/t
+[단체이벤트] Shining Blade단원인 Kimber이 남편을 찾는데 도와주세요.
+/e
+
+/s
+[Group Event] Kill the centaur war council before reinforcements arrive
+/t
+[단체이벤트] 지원이 오기전에 켄타우르스의 군사 고문관을 죽이세요. 
+/e
+
+/s
+Assault on Thunder Rock
+/t
+Thunder Rock에 대한 공격
+/e
+
+/s
+Help Hrok Sverresson plant explosives in Barricade Camp
+/t
+Hork Sverresson을 도와 Barricade Camp에 폭탄을 설치하세요.
+/e
+
+/s
+Destroy centaur supplies while Zirra bombards Recovery Camp
+/t
+Zirra가 Recovery Camp에 폭격을 하는 동안 켄타우르스의 보급을 파괴하세요.
+/e
+
+/s
+Assault Overwatch Camp and destroy the trebuchets
+/t
+Overwatch Camp를 공격하고 투석기를 파괴하세요.
+/e
+
+/s
+[Group Event] Kill the champion Modniir overlord 
+/t
+챔피언인 Modniir 대군주를 죽이세요.
+/e
+
+/s
+Seraph Assault on Centaur Camps
+/t
+세라프들의 켄타우르스 캠프 공격
+/e
+
+/s
+Take the centaurs' forward camp
+/t
+켄타우르스의 전진 캠프를 점령하세요
+/e
+
+/s
+Optional: Kill Harathi engineers to disable the trebuchets.
+/t
+선택 퀘스트: Harathi 기술자들을 죽여 투석기를 못쓰게 만드세요.
+/e
+
+/s
+Take Bridgewatch Camp from the centaurs
+/t
+켄타우르스로부터 Bridgewatch Camp를 뺏으세요.
+/e
+
+/s
+Defend Seraph forces at Bridgewatch Camp from the Modniir assault
+/t
+Modniir의 공격으로부터 Bridgewatch Camp에 있는 세라프들을 지켜주세요
+/e
+
+/s
+[Group Event] Capture the camps before more centaurs arrive
+/t
+[단체이벤트] 켄타우르스가 도착하기전에 캠프를 점령하세요
+/e
+
+/s
+[Group Event] Assault Kingsgate and drive the centaurs back before they can rally their forces
+/t
+[단체이벤트] Kingsgate를 공격하고 켄타우르스가 집결하기전에 쫒아내세요.
+/e
+
+/s
+[Group Event] Keep the Modniir invaders from retaking Kingsgate
+/t
+[단체이벤트] Modniir의 침략자들이 Kingsgate를 재탈환하지 못하게 막으세요
+/e
+
+/s
+[Group Event] Defeat Ulgoth the Modniir and his minions
+/t
+[단체이벤트] Ulgoth the Modniir와 그의 하수인들을 물리치세요
+/e
+
+/s
+[Group Event] Stop the centaurs from retaking their camps
+/t
+[단체이벤트] 켄타우르스들이 캠프를 재탈환하지 못하게 막으세요.
+/e
+
+/s
+Assist the skritt in Arcallion Digs
+/t
+Arcallion Digs에 있는 스크릿트족을 도와주세요
+/e
+
+/s
+Help keep the passages clear, defend the skritt from predators, and aid them in their fight against the harpies.
+/t
+길을 안전하게 치워주고, 스크릿트를 천적으로 부터 보호하고, 하피와의 싸움을 도와주세요.
+/e
+
+/s
+Attack the centaurs
+/t
+켄타우르스를 공격하세요
+/e
+
+/s
+Fight the centaurs, assault their fortress, and support the Seraph
+/t
+켄타우르스와 그들의 요새를 공격하고 세라프들을 도와주세요.
+/e
+
+/s
+Protect Seraph's Landing
+/t
+세라프 착륙을 도와주세요
+/e
+
+/s
+Drive back the centaurs, protect incoming supply ships, defend against raiding bandits, help feed the animals and deliver food to the Seraph sergeant.
+/t
+켄타우르스를 물리치고, 도착하는 보급선을 보호하고, 도적이 약탈을 못하게 저지하고, 동물에게 먹이를 주고 세라프의 병장에게 음식을 배달해주세요
+/e
+
+/s
+Help Forward Scout Luke disrupt centaur logistics
+/t
+수색병 Luke를 도와 켄타우르스의 물류 흐름을 방해하세요.
+/e
+
+/s
+Search for weapons in the debris. Destroy supply stockpiles, fight centaurs, free slaves, bash mining equipment, set explosives, and light woodpiles on fire.
+/t
+잔해속에 무기들을 찾으세요. 비축된 보급품을 파괴하고, 켄타우르스와 싸우고, 노예를 해방하고, 탄광도구를 망가뜨리고, 폭탄을 설치하고 장작더미에 불을 지르세요.
+/e
+
+/s
+Help Forward Scout Greta cause chaos in the Modniir homeland
+/t
+수색병 Greta를 도와 Modniir의 구역에 혼란을 주세요.
+/e
+
+/s
+Collect dog tags, destroy Modniir equipment, kill centaurs, and free prisoners.
+/t
+순번줄을 모으고, Modniir의 용품들을 파괴하고, 켄타우르스들을 죽이고, 포로들을 풀어주세요.
+/e
+
+/s
+Help the Seraph at Nightguard Beach
+/t
+Nightguard Beach에서 세라프를 도와주세요
+/e
+
+/s
+Recover supplies from shipwrecks, clear rockslides, check crab traps, and maintain the camp.
+/t
+난파선에서 보급품을 되찾고, 돌 잔해들을 치우고, 게 덫을 확인하고, 캠프를 보수하세요
+/e
+
+/s
+Help Ket investigate the Ruins of Demetra
+/t
+Ket가 Ruins of Demetra를 조사하게 도와주세요
+/e
+
+/s
+Recover relics from the ruined village for Ket, drive off the grave robbers, and put angry spirits to rest.
+/t
+Ket에게 폐허가된 마을에서 유물들을 찾아주고, 도굴꾼들을 쫒아내고, 분노한 영혼들을 잠재워주세요
+/e
+
+/s
+Help Broil Cane disrupt centaurs
+/t
+Broil Cane을 도와 켄타우르스를 방해하세요.
+/e
+
+/s
+Kill centaurs, smash their supplies, collect and turn in poison and whetstones, set traps, and use unstable explosives.
+/t
+켄타우르스를 죽이고, 그들의 보급품을 망가뜨리고, 독과 숫돌을 가져다주고, 덪을 설치하고, 불안정한 폭발물들을 사용하세요
+/e
+
+/s
+Cause chaos among the centaurs
+/t
+켄타우르스들에게 혼란을 주세요
+/e
+
+/s
+Free slaves, kill centaurs, and disrupt their camps to weaken the centaur front.
+/t
+노예를 해방하고, 켄타우르스를 죽이고, 그들의 캠프를 파괴해서 그들의 전진을 약화시키세요.
+/e
+
+/s
+Train with the Company
+/t
+중대훈련
+/e
+
+/s
+Test Zirra's ballista and mortars, spar with mercs, use Hawkes' birds to kill vermin, and defeat centaur scouts.
+/t
+Zirra의 발리스타와 박격포를 시험하고, 용병들과 대련하고, Hawkes의 새를 이용해 해충을 죽이고, 켄타우르스의 탐색병들을 물리치세요
+/e
+
+/s
+Help the Seraph disrupt bandit activity
+/t
+세라프를 도와 도적들을 방해하세요
+/e
+
+/s
+Rescue the captured Seraph, kill bandit patrols and ambushes, and disrupt their activities in the woods.
+/t
+사로잡힌 세라프를 구출하고, 순찰돌거나 매복한 도적들을 죽이고, 숲속에서 그들의 활동을 방해하세요.
+/e
+
