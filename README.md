@@ -57,7 +57,7 @@
 - ##### 이와같이 게임 진행에 따라 필요한 번역 DB파일을 추가해 나가시면 됩니다.
 &nbsp;
 
-#### 5. DB파일을 집어 넣고 난후 게임을 켠 후 MORT를 실행해 주세요 (게임 화면은 전체창화면이 좋다고 생각합니다)
+#### 5. DB파일을 집어 넣고 난후 게임을 켠 후 MORT를 실행해 주세요 (게임을 전체창화면으로 하는게 좋다고 생각합니다)
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/실행파일.png?raw=true)
 &nbsp;
 
