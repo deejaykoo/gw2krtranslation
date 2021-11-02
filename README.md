@@ -16,6 +16,15 @@
 
 하나 하나가 중요하니 놓치는거 없이 꼼꼼히 읽어주세요.
 
+&nbsp;
+
+## 번역결과물 리스트
+#### 1. 파일이름: gw2humanch1.txt - 번역내용: 인간족 스토리 챕터1 + Queensdale 지역 돌발 퀘스트와 명성하트 퀘스트
+#### 2. 파일이름: gw2humanch2.txt - 번역내용: 인간족 스토리 챕터2 + Kessex Hills지역과 Gendarran Fields 지역의 돌발 퀘스트와 명성하트 퀘스트
+#### 3. 파일이름: gw2humanch3.txt - 번역내용: 인간족 스토리 챕터3 + Gendarran Fields 지역과 Harathi Hinterlands 지역의 돌발 퀘스트와 명성하트 퀘스트
+#### 4. 파일이름: gw2commonch4.txt - 번역내용: 공통 스토리 챕터4
+
+
 ## MORT 사용법
 
 #### 1. MORT 개발자 블로그에 가셔서 기본 [설명서](https://blog.naver.com/killkimno/221904784013)를 읽어 보시고 [파일](https://blog.naver.com/killkimno/222437338370) 을 다운받아 주세요 
