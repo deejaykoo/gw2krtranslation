@@ -16,7 +16,7 @@
 ### MORT 사용법
 
 #### 1) MORT 개발자 블로그에 가셔서 기본 설명서와 (https://blog.naver.com/killkimno/221904784013) 
-####    파일을 다운받아 주세요 (https://blog.naver.com/killkimno/222437338370)
+####  파일을 다운받아 주세요 (https://blog.naver.com/killkimno/222437338370)
 
 #### 2) 
 
