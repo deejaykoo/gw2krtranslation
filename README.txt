@@ -1,5 +1,7 @@
 # gw2krtranslation
 Guild Wars 2 Korean translation text files (길드워2 한글 번역 파일)
+주의 - 아직 현재 저의 설명서가 완벽한 상태가 아니니 MORT를 사용법과 길드워2에 사용할 설정을 모르시면 다운 받지 말아주세요
+
 
 안녕하세요, deejaykoo입니다. 
 길드워2라는 게임은 Arenanet의 MMORPG게임입니다. 8년이 넘어 9년이 된 지금도 충분히 훌륭한 게임이라고 생각됩니다.
@@ -10,3 +12,8 @@ Guild Wars 2 Korean translation text files (길드워2 한글 번역 파일)
 아직 부족함과 어색함이 많은 번역이지만, 신규 유저분들에게 많은 도움이 되었으면 하는 바람입니다.
 
 텍스트 파일을 다운 받고 난 다음에 MORT의 사용법을 보시고(https://blog.naver.com/killkimno/221904784013) MORT를 다운받으셔서 (https://blog.naver.com/killkimno/222437338370) 제가 올린 번역 텍스트 파일을 사용하시면 되겠습니다.
+
+다시 말씀드리는거지만 현재 제 github페이지의 설명이 완벽하지 않습니다. MORT 실시간 프로그램의 사용이나 길드워2에서 사용할 설정을 모르시면 다운받지 말아주세요. 
+지금 설명이 제일 잘 되어 있는 곳은 길드워2 까페 (https://cafe.daum.net/koreanguildwars2)가시면 제가 설명을 자세하게 해놨습니다.
+
+감사합니다.
