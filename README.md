@@ -45,7 +45,7 @@
 - ##### 리모컨 창은 나중에 설명하겠습니다.
 
 #### 7. 주요설정이 나오는 창의 왼쪽 패널에 여러 설정이 있는데 기본 설정에서 아래처럼 설정해주세요
-![alt text](https://github.com/deejaykoo/instructionpics/blob/main/실기본설정.png?raw=true)
+![alt text](https://github.com/deejaykoo/instructionpics/blob/main/기본설정.png?raw=true)
 - ##### 주의 1. 파일이름은 스토리, 챕터, 아니면 맵에 관련된 파일 이름을 넣어주세요 (txt까지 넣어주셔야합니다)
 - ##### 주의 2. 이미지 보정의 수치는 무시하셔도 됩니다. 체크해야 할 박스만 제대로 구분해 주시면 됩니다.
 
