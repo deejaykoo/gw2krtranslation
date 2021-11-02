@@ -1,7 +1,7 @@
 # gw2krtranslation
 Guild Wars 2 Korean translation text files (길드워2 한글 번역 파일)
 
-주의 - 아직 현재 저의 설명서가 완벽한 상태가 아니니 MORT를 사용법과 길드워2에 사용할 설정을 모르시면 다운 받지 말아주세요
+## 주의 - 아직 현재 저의 설명서가 완벽한 상태가 아니니 MORT를 사용법과 길드워2에 사용할 설정을 모르시면 다운 받지 말아주세요
 
 
 안녕하세요, deejaykoo입니다. 
