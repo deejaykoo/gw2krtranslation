@@ -37,6 +37,13 @@
 - 이런식으로 필요한 번역 DB를 추가해 나가시면 됩니다.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210928_003059.png?raw=true)
 
+#### 4. DB파일을 집어 넣고 난후 게임을 켠 후 MORT를 실행해 주세요 (게임 화면은 전체창화면이 좋다고 생각합니다)
+![alt text](https://github.com/deejaykoo/instructionpics/blob/main/실행파일.png?raw=true)
+
+
+
+
+
 다시 말씀드리는거지만 현재 제 github페이지의 설명이 완벽하지 않습니다. MORT 실시간 프로그램의 사용이나 길드워2에서 사용할 설정을 모르시면 다운받지 말아주세요. 
 지금 설명이 제일 잘 되어 있는 곳은 길드워2 까페 (https://cafe.daum.net/koreanguildwars2)가시면 제가 설명을 자세하게 해놨습니다.
 
