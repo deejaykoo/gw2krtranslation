@@ -21,8 +21,8 @@
 ### MORT 사용법
 
 #### 1. MORT 개발자 블로그에 가셔서 기본 설명서와 파일을 다운받아 주세요 
-##### 설명서 (https://blog.naver.com/killkimno/221904784013) 
-##### 파일다운로드 (https://blog.naver.com/killkimno/222437338370)
+- ##### 설명서 (https://blog.naver.com/killkimno/221904784013) 
+- ##### 파일다운로드 (https://blog.naver.com/killkimno/222437338370)
 
 #### 2. MORT를 다운받으시고 해당 압축파일을 자기가 원하는 경로에 압축을 풀어주세요.
 
