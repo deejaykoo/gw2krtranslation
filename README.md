@@ -19,7 +19,7 @@
 ## MORT 사용법
 
 #### 1. MORT 개발자 블로그에 가셔서 기본 [설명서](https://blog.naver.com/killkimno/221904784013)를 읽어 보시고 [파일](https://blog.naver.com/killkimno/222437338370) 을 다운받아 주세요 
-
+&nbsp;
 #### 2. MORT를 다운받으 해당 압축파일을 자기가 원하는 경로에 압축을 풀어주세요.
 
 #### 3. 그리고 [여기 GITHUB](https://github.com/deejaykoo/gw2krtranslation.git) 에 제가 올리는 DB (텍스트파일) 을 다운 받아주세요
