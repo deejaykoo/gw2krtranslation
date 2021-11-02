@@ -24,12 +24,16 @@
 - ##### 설명서 (https://blog.naver.com/killkimno/221904784013) 
 - ##### 파일다운로드 (https://blog.naver.com/killkimno/222437338370)
 
+
 #### 2. MORT를 다운받으시고 해당 압축파일을 자기가 원하는 경로에 압축을 풀어주세요.
+
 
 #### 3. 그리고 여기 GITHUB에 제가 올리는 DB (텍스트파일) 을 다운 받아주세요
 
+
 #### 4-1. 위의 2번 단계에서 다운받은 텍스트 파일을 번역기 폴더 안에있는 DB폴더 안으로 집어 넣어주세요
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210928_003050.png?raw=true)
+
 
 #### 4-2. DB폴더 안에 이렇게 번역에 필요한 텍스트 파일들이 들어가야합니다.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210928_003059.png?raw=true)
@@ -37,26 +41,32 @@
 - ##### 아래 스샷을 보시면 gw2humanch1.txt 이 있는데 이게 길드워 번역 DB 파일이며 프로그램 압축후에 제가 추가한겁니다.
 - ##### 이와같이 게임 진행에 따라 필요한 번역 DB파일을 추가해 나가시면 됩니다.
 
+
 #### 5. DB파일을 집어 넣고 난후 게임을 켠 후 MORT를 실행해 주세요 (게임 화면은 전체창화면이 좋다고 생각합니다)
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/실행파일.png?raw=true)
+
 
 #### 6. 처음에 "어느게임을 번역하시나요" 가 나오면서 설정을 하는데, 이는 무시하셔도 됩니다. 
 - ##### 여러 창이 나오는데 그냥 놔두시면 됩니다.
 - ##### 리모컨 창은 나중에 설명하겠습니다.
+
 
 #### 7. 주요설정이 나오는 창의 왼쪽 패널에 여러 설정이 있는데 기본 설정에서 아래처럼 설정해주세요
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/기본설정.png?raw=true)
 - ##### 주의 1. 파일이름은 스토리, 챕터, 아니면 맵에 관련된 파일 이름을 넣어주세요 (txt까지 넣어주셔야합니다)
 - ##### 주의 2. 이미지 보정의 수치는 무시하셔도 됩니다. 체크해야 할 박스만 제대로 구분해 주시면 됩니다.
 
+
 #### 8. 텍스트 설정에서는 글꼴과 크기는 자기가 선호하는 걸 고르시면 됩니다. 나머지 박스는 체크를 해제해주세요.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/텍스트%20폰트설정.png?raw=true)
+
 
 #### 9. 리모컨창 설명입니다.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/리모컨.png?raw=true)
 - ##### Search 는 번역을 할 범위를 지정합니다. 지정된 창안에 있는 글들을 지속적으로 번역합니다.
 - ##### Snap Shot은 1회용 번역입니다. 범위를 지정하면 그 범위내의 글을 한번만 번역합니다.
 - ##### Translate 는 Search가 지정한 범위내의 글들을 번역하기 위한 시작버튼입니다. 누르면 Stop이라 바뀌는데, 번역을 그만 두고 싶을때 Stop을 눌러주시면됩니다. 
+
 
 #### 10-1. Search 를 누르고 게임내에 번역 범위를 설정해주세요 (사진참고)
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/게임내%20영역설정.png?raw=true)
