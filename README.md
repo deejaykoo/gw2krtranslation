@@ -43,7 +43,7 @@
 #### 2. MORT를 다운받으 해당 압축파일을 자기가 원하는 경로에 압축을 풀어주세요.
 &nbsp;
 
-#### 3. 그리고 [여기 GitHub](https://github.com/deejaykoo/gw2krtranslation.git)에 제가 올리는 DB (텍스트파일) 을 다운 받아주세요
+#### 3. 그리고 [여기 GitHub](https://github.com/deejaykoo/gw2krtranslation.git)에 제가 올리는 DB (txt파일)을 다운 받아주세요.
 &nbsp;
 
 #### 4-1. 위의 2번 단계에서 다운받은 텍스트 파일을 번역기 폴더 안에있는 DB폴더 안으로 집어 넣어주세요
