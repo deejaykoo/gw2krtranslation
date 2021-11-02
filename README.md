@@ -16,6 +16,8 @@
 
 하나 하나가 중요하니 놓치는거 없이 꼼꼼히 읽어주세요.
 
+그리고 번역말고도 길드워2 플레이에 도움이 되는 더 많은 정보를 얻고 싶으시면 [길드워2까페](https://cafe.daum.net/koreanguildwars2)로 오시면 되겠습니다.
+
 &nbsp;
 
 ## 번역결과물 리스트 (파일은 상위에서 아니면 [여기](https://github.com/deejaykoo/gw2krtranslation/tree/Translation-Files)에서 다운을 받아주세요)
