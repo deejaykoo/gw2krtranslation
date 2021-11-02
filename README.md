@@ -34,14 +34,14 @@
 
 ## MORT 사용법
 
-#### 1. MORT 개발자 블로그에 가셔서 기본 [설명서](https://blog.naver.com/killkimno/221904784013)를 읽어 보시고 [파일](https://blog.naver.com/killkimno/222437338370) 을 다운받아 주세요 
+#### 1. MORT 개발자 블로그에 가셔서 기본 [설명서](https://blog.naver.com/killkimno/221904784013)를 읽어 보시고 [파일](https://blog.naver.com/killkimno/222437338370)을 다운받아 주세요 
 
 &nbsp;
 
 #### 2. MORT를 다운받으 해당 압축파일을 자기가 원하는 경로에 압축을 풀어주세요.
 &nbsp;
 
-#### 3. 그리고 [여기 GITHUB](https://github.com/deejaykoo/gw2krtranslation.git) 에 제가 올리는 DB (텍스트파일) 을 다운 받아주세요
+#### 3. 그리고 [여기 GITHUB](https://github.com/deejaykoo/gw2krtranslation.git)에 제가 올리는 DB (텍스트파일) 을 다운 받아주세요
 &nbsp;
 
 #### 4-1. 위의 2번 단계에서 다운받은 텍스트 파일을 번역기 폴더 안에있는 DB폴더 안으로 집어 넣어주세요
@@ -146,6 +146,6 @@ MORT 개발자님이신 [몽키해드님](https://blog.naver.com/killkimno)께 �
 
 이렇게 좋은 실시간 번역 프로그램이 없었으면 저도 이런 번역 DB를 만들수 없었을 것입니다.
 
-그리고 [길드워2위키](https://wiki.guildwars2.com/wiki/Main_Page) 와 위키에다 스토리와 퀘스트, 그리고 NPC대사들을 올리신 수많은 길드워2 유저들에게 감사드립니다.
+그리고 [길드워2위키](https://wiki.guildwars2.com/wiki/Main_Page)와 위키에다 스토리와 퀘스트, 그리고 NPC대사들을 올리신 수많은 길드워2 유저들에게 감사드립니다.
 
 그분들의 노력이 없었다면 전 각 종족과 각 선택지의 대사와 스토리를 보기위해서 캐릭터 30개를 키우는 노가다를 했어야 할지 모릅니다. 
