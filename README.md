@@ -19,23 +19,30 @@
 ## MORT 사용법
 
 #### 1. MORT 개발자 블로그에 가셔서 기본 [설명서](https://blog.naver.com/killkimno/221904784013)를 읽어 보시고 [파일](https://blog.naver.com/killkimno/222437338370) 을 다운받아 주세요 
+
 &nbsp;
+
 #### 2. MORT를 다운받으 해당 압축파일을 자기가 원하는 경로에 압축을 풀어주세요.
 &nbsp;
+
 #### 3. 그리고 [여기 GITHUB](https://github.com/deejaykoo/gw2krtranslation.git) 에 제가 올리는 DB (텍스트파일) 을 다운 받아주세요
 &nbsp;
+
 #### 4-1. 위의 2번 단계에서 다운받은 텍스트 파일을 번역기 폴더 안에있는 DB폴더 안으로 집어 넣어주세요
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210928_003050.png?raw=true)
 &nbsp;
+
 #### 4-2. DB폴더 안에 이렇게 번역에 필요한 텍스트 파일들이 들어가야합니다.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210928_003059.png?raw=true)
 - ##### 프로그램 자체 기본적으로 들어가 있는 번역 DB파일들도 있으니 파일들 보고 놀라지는 마세요
 - ##### 위의 스샷을 보시면 gw2humanch1.txt 이 있는데 이게 길드워 번역 DB 파일이며 프로그램 압축후에 제가 추가한겁니다.
 - ##### 이와같이 게임 진행에 따라 필요한 번역 DB파일을 추가해 나가시면 됩니다.
 &nbsp;
+
 #### 5. DB파일을 집어 넣고 난후 게임을 켠 후 MORT를 실행해 주세요 (게임 화면은 전체창화면이 좋다고 생각합니다)
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/실행파일.png?raw=true)
 &nbsp;
+
 #### 6. 처음에 "어느게임을 번역하시나요" 가 나오면서 설정을 하는데, 이는 무시하셔도 됩니다. 
 - ##### 여러 창이 나오는데 그냥 놔두시면 됩니다.
 - ##### 리모컨 창은 나중에 설명하겠습니다.
@@ -45,15 +52,18 @@
 - ##### 주의 1. 파일이름은 스토리, 챕터, 아니면 맵에 관련된 파일 이름을 넣어주세요 (txt까지 넣어주셔야합니다)
 - ##### 주의 2. 이미지 보정의 수치는 무시하셔도 됩니다. 체크해야 할 박스만 제대로 구분해 주시면 됩니다.
 &nbsp;
+
 #### 8. 텍스트 설정에서는 글꼴과 크기는 자기가 선호하는 걸 고르시면 됩니다. 나머지 박스는 체크를 해제해주세요.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/텍스트%20폰트설정.png?raw=true)
 &nbsp;
+
 #### 9. 리모컨창 설명입니다.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/리모컨.png?raw=true)
 - ##### Search 는 번역을 할 범위를 지정합니다. 지정된 창안에 있는 글들을 지속적으로 번역합니다.
 - ##### Snap Shot은 1회용 번역입니다. 범위를 지정하면 그 범위내의 글을 한번만 번역합니다.
 - ##### Translate 는 Search가 지정한 범위내의 글들을 번역하기 위한 시작버튼입니다. 누르면 Stop이라 바뀌는데, 번역을 그만 두고 싶을때 Stop을 눌러주시면됩니다. 
 &nbsp;
+
 #### 10-1. Search 를 누르고 게임내에 번역 범위를 설정해주세요 (사진참고)
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/게임내%20영역설정.png?raw=true)
 - ##### 투명한 흰색에서 번역된 텍스트가 출력되서 나오며 크기와 위치를 바꿀 수 있습니다. 
@@ -63,17 +73,21 @@
 - ##### 그리고 NPC머리 위에 나타나는 NPC의 이름이나 말풍선내에 나오는 대사들은 실시간 번역이 힘드니, 채팅창에 설정하시는걸 권장합니다.
 - ##### 채팅창의 설정에서 NPC와의 대화가 번역이 안되었거나 놓친것을 추후에 볼 수도있습니다 (대화로그가 채팅창에 나옴).
 &nbsp;
+
 #### 10-2. 게임내 NPC의 대화만 보려면 아래처럼 설정하시면 됩니다.
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/게임내%20챗창%20설정.png?raw=true)
 - ##### 이렇게 하면 일반 챗/맵챗/시스템 알림없이 스토리에 관련된 NPC의 대화만 볼수 있게 되고 그러면 스토리에만 집중 할 수 있습니다.
 &nbsp;
+
 #### 11. Search 로 범위설정이 다 끝났으면 리모컨에 Translate를 눌러주세요
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/리모컨2.png?raw=true)
 &nbsp;
+
 #### 12-1. 그러면 아래와 비슷하게 나옵니다 (테스트 스크린샷) 
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210727_112244.png?raw=true)
 - ##### 9-1단계에서 말했듯이 Search로 설정한 번역 범위가 투명해지고 하늘색이였던 출력창이 어두운 반투명색이 됩니다.
 &nbsp;
+
 #### 12-2. 아래 스샷은 위에 스샷을 테스트할때 범위지정입니다 
 ![alt text](https://github.com/deejaykoo/instructionpics/blob/main/20210727_112224.png?raw=true)
 - ##### 리모컨에서 stop 을 누르면 범위가 다시 생깁니다
@@ -81,6 +95,7 @@
 - ##### 주의2) 챗창에 나오는 NPC의 모든 대사를 보기위해서는 스크린샷에 나온것 처럼 범위를 여러개 나누어야합니다.
 - ##### 주의3) 스샷처럼 채팅창에 여러범위를 설정하시면 모든글이 번역이 되지만, 간혹 한 문장이 두개의 범위안에 동시에 들어가게되어 번역이 잘 안되는 경우도 나옵니다.
 &nbsp;
+
 #### 13. 참고사항
 - ##### 현재 초반 번역은 인간족 위주로 되어있습니다. 챕터 1~3까지는 오로지 인간족 스토리이며, 챕터4부터는 공통 스토리여서 종족별 번역이 필요없습니다.
 - ##### 일부 NPC는 말투를 임의로 변경했습니다. 예를들어 Anise 경우에는 주인공의 신분이 어떻게 되든 뉘앙스가 반말이여야 하겠지만, 상호존중인 존대로 바꾸었습니다.
@@ -89,6 +104,7 @@
 - ##### 챕터 1에는 Queensdale지역이, 챕터2에는 Kessex Hills와 Gendarran Fields가, 그리고 챕터 3에서는 Gendarran Fields와 Harathi Hinterlands 지역의 퀘스트와 하트퀘스트가 번역이 되어있습니다. 이는 챕터 사이에 레벨업 구간을 돕기위한 것이며, 지역 퀘스트의 경우에는 아직 NPC의 대사는 번역이 안되어있습니다.
 - ##### 챕터4 부터는 지역퀘스트가 추가되지 않습니다. 종족 공통스토리이기 때문에 각 챕터의 레벨에 맞는 지역들을 모아서 따로 번역 텍스트 파일을 만들예정입니다.
 &nbsp;
+
 #### 설명을 마치며
 미리 말씀드리는거지만 번역은 완벽하지 않습니다.
 오역이 있을수도 있고, 매끄럽지 않은 부분들도 많을것입니다.
@@ -100,6 +116,7 @@
 번역물은 까페에서도 올릴 예정입니다. 
 감사합니다.
 &nbsp;
+
 ## Credit 
 MORT 개발자님이신 [몽키해드님](https://blog.naver.com/killkimno) 께 이렇게 유용하고 도움이 되는 프로그램을 만드신거에 대해 감사드립니다. 
 이렇게 좋은 실시간 번역 프로그램이 없었으면 저도 이런 번역 DB를 만들수 없었을 것입니다.
