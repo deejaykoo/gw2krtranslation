@@ -20,7 +20,7 @@
 
 &nbsp;
 
-## 번역결과물 리스트 (파일은 위에 코드에서, 아니면 [여기](https://github.com/deejaykoo/gw2krtranslation/tree/Translation-Files)에서 다운을 받아주세요)
+## 번역결과물 리스트 (파일은 위에 코드에서, 아니면 [여기](https://github.com/deejaykoo/gw2krtranslation/releases/tag/20211103)에서 다운을 받아주세요)
 #### 1. 파일명: gw2humanch1.txt
 #### 번역내용: 인간족 스토리 챕터1 + Queensdale 지역 돌발 퀘스트와 명성하트 퀘스트
 &nbsp;
