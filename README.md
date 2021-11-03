@@ -1,6 +1,6 @@
 # 길드워2 스토리 한글 번역
 
-[![GitHub all releases](https://img.shields.io/github/downloads/deejaykoo/gw2krtranslation/total)](https://github.com/deejaykoo/gw2krtranslation/releases/latest)
+[![version](https://img.shields.io/github/v/release/deejaykoo/gw2krtranslation)](https://github.com/deejaykoo/gw2krtranslation/releases/latest) &nbsp; [![GitHub all releases](https://img.shields.io/github/downloads/deejaykoo/gw2krtranslation/total)](https://github.com/deejaykoo/gw2krtranslation/releases/latest)
 
 안녕하세요, deejaykoo입니다. 
 
