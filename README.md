@@ -1,5 +1,7 @@
 # 길드워2 스토리 한글 번역
 
+[![GitHub all releases](https://img.shields.io/github/downloads/deejaykoo/gw2krtranslation/total)](https://github.com/deejaykoo/gw2krtranslation/releases/latest)
+
 안녕하세요, deejaykoo입니다. 
 
 길드워2라는 게임은 Arenanet의 MMORPG게임입니다. 오랜 시간이 지난 지금도 이 게임은 훌륭한 게임이라 생각합니다.
