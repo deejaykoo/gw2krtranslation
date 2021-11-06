@@ -1,7 +1,6 @@
 # 길드워2 스토리 한글 번역
 
-[![version](https://img.shields.io/github/v/release/deejaykoo/gw2krtranslation?color=brightgreen)](https://github.com/deejaykoo/gw2krtranslation/releases/latest) &nbsp; [![GitHub all releases](https://img.shields.io/github/downloads/deejaykoo/gw2krtranslation/total?color=brightgreen)](https://github.com/deejaykoo/gw2krtranslation/releases/latest)
-
+[![version](https://img.shields.io/github/v/release/deejaykoo/gw2krtranslation?color=brightgreen)](https://github.com/deejaykoo/gw2krtranslation/releases/latest) &nbsp; 
 안녕하세요, deejaykoo입니다. 
 
 길드워2라는 게임은 Arenanet의 MMORPG게임입니다. 오랜 시간이 지난 지금도 이 게임은 훌륭한 게임이라 생각합니다. 하지만 이 회사가 한국회사인 NCSoft의 자회사인데, 한글로 타이핑은 가능하면서도 게임 UI, 스토리, 대화 등등은 한국어로 번역이 안 되어있습니다. 그래서 많은 한국사람들이 이 게임을 하고 싶어도 언어의 장벽에 부딪혀 초반에 포기하게 되는 경우가 많다고 알고있습니다. 
