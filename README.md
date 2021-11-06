@@ -34,6 +34,8 @@
 
 - ### 추가: 개발자님의 [블로그에](https://blog.naver.com/killkimno/222560178847) 해당 번역이 소개가 되었습니다. 밑에 제 설명 말고 개발자님의 설명을 보셔도 됩니다. 
 
+&nbsp;
+
 #### 1. MORT 개발자님의 블로그에 가셔서 기본 [설명](https://blog.naver.com/killkimno/221904784013)를 읽어 보시고 [파일](https://blog.naver.com/killkimno/222437338370)을 다운받아 주세요 
 
 &nbsp;
